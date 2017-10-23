@@ -71,13 +71,13 @@
 </style>
 <body>
     <div id="map"></div>
-    <script src="../dist/d3.v4.0.0-alpha.50.min.js"></script>
-    <script src="../dist/d3-geo.v1.min.js"></script>
-    <script src="../dist/d3-geo-projection.v2.min.js"></script>
-    <script src="../dist/topojson-client.js"></script>
-    <script src="../dist/topojson-simplify.js"></script>
-    <script src="../dist/d3-geo-voronoi.js"></script>
-    <script src="../dist/queue.v1.min.js"></script>
+    <script src="dist/d3.v4.0.0-alpha.50.min.js"></script>
+    <script src="dist/d3-geo.v1.min.js"></script>
+    <script src="dist/d3-geo-projection.v2.min.js"></script>
+    <script src="dist/topojson-client.js"></script>
+    <script src="dist/topojson-simplify.js"></script>
+    <script src="dist/d3-geo-voronoi.js"></script>
+    <script src="dist/queue.v1.min.js"></script>
     <script>
 
      function getQueryVariable(variable)
@@ -195,8 +195,8 @@
                 .scaleExtent([1,6])
                 .on("zoom", zoomed));
 
-     queue().defer(d3.json,"../data/ne_50m.json")
-            .defer(d3.csv,"../data/"+ getQueryVariable("data")
+     queue().defer(d3.json,"data/ne_50m.json")
+            .defer(d3.csv,"data/"+ getQueryVariable("data")
                          +".csv")
             .await(plotmap);
 
