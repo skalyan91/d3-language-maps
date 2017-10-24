@@ -105,8 +105,12 @@
          startingpoint = [-136,20];
      };
 
-     if (getQueryVariable("zoom")){
-         d3.zoomTransform(svg.node()).k = getQueryVariable("zoom");
+     var file;
+
+     if (getQueryVariable("data")){
+        file = getQueryVariable("data");
+     } else {
+        file = "all-points";
      };
 
      var projection = d3.geoOrthographic()
@@ -190,14 +194,14 @@
 
      svg.attr("width", width)
         .attr("height", height)
+        .on("wheel", function() {console.log(d3.event);})
         .call(drag)
         .call(d3.zoom()
                 .scaleExtent([1,6])
                 .on("zoom", zoomed));
 
      queue().defer(d3.json,"data/ne_50m.json")
-            .defer(d3.csv,"data/"+ getQueryVariable("data")
-                         +".csv")
+            .defer(d3.csv,"data/" + file + ".csv")
             .await(plotmap);
 
      var geodata;
