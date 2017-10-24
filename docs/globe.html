@@ -236,7 +236,7 @@
          world = topojson.simplify(world,z);
 
          svg.append("circle")
-            .attr("class","shadow")
+            .attr("class","circle")
             .attr("cx", width / 2)
             .attr("cy", height / 2)
             .attr("r", Math.min(width / 2, height / 2))
@@ -400,14 +400,14 @@
                       .attr("stop-opacity", 1/6);
 
          svg.append("circle")
-            .attr("class","shadow")
+            .attr("class","shadow circle")
             .attr("cx", width / 2)
             .attr("cy", height / 2)
             .attr("r", Math.min(width / 2, height / 2))
             .style("fill", "url(#globe_highlight)");
 
          svg.append("circle")
-            .attr("class","shadow")
+            .attr("class","shadow circle")
             .attr("cx", width / 2)
             .attr("cy", height / 2)
             .attr("r", Math.min(width / 2, height / 2))
@@ -426,7 +426,7 @@
 
          svg.selectAll("path").attr("d", path);
          svg.selectAll(".dots path").attr("d", circlePath);
-         svg.selectAll(".shadow")
+         svg.selectAll(".circle")
             .attr("cx", width / 2)
             .attr("cy", height / 2)
             .attr("r", Math.min(width / 2, height / 2));
