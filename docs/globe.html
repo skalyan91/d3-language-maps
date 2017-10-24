@@ -192,10 +192,14 @@
          svg.attr("transform", "scale(" + d3.zoomTransform(svg.node()).k + ")");
      };
 
+     function wheeled() {
+        console.log(d3.event);
+     };
+
      svg.attr("width", width)
         .attr("height", height)
-        .on("wheel", function() {console.log(d3.event);})
         .call(drag)
+        .on("wheel", wheeled)
         .call(d3.zoom()
                 .scaleExtent([1,6])
                 .on("zoom", zoomed));
