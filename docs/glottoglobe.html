@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+    <title>A globe</title>
+</head>
+<style>
+
+ body {
+     background: lightgray;
+     background-image: radial-gradient(circle, whitesmoke, lightgray);
+ }
+
+ #map {
+     position: fixed;
+     left: 20px;
+     right: 20px;
+     top: 20px;
+     bottom: 20px;
+     /* cursor: url(cursor-white.png), auto; */
+ }
+
+ div.tooltip {
+     position: absolute;
+     width: auto;
+     height: auto;
+     padding: 3px 4px;
+     font-family: sans-serif;
+     font-size: 12px;
+     line-height: 1.5;
+     border: 1px solid;
+     border-radius: 0px 8px 8px;
+     pointer-events: none;
+ }
+
+ .graticule {
+     fill: none;
+     stroke: white;
+     stroke-width: 0.5px;
+     stroke-opacity: 0.25;
+     pointer-events: none;
+ }
+
+ .land {
+     fill: whitesmoke;
+     stroke: none;
+ }
+
+ .water {
+     fill: lightgray;
+     pointer-events: none;
+ }
+
+ .lakes {
+     stroke: #fff;
+     stroke-width: 0.5px;
+     stroke-opacity: 0.5;
+ }
+
+ .boundary {
+     fill: none;
+     stroke: #fff;
+     stroke-width: 0.5px;
+     stroke-opacity: 0.5;
+     pointer-events: none;
+ }
+
+ .shadow {
+     pointer-events: none;
+ }
+
+</style>
+<body>
+    <div id="map"></div>
+    <script src="dist/d3.v4.0.0-alpha.50.min.js"></script>
+    <script src="dist/d3-geo.v1.min.js"></script>
+    <script src="dist/d3-geo-projection.v2.min.js"></script>
+    <script src="dist/topojson-client.js"></script>
+    <script src="dist/topojson-simplify.js"></script>
+    <script src="dist/d3-geo-voronoi.js"></script>
+    <script src="dist/queue.v1.min.js"></script>
+    <script>
+
+     function getQueryVariable(variable)
+     {
+         var query = window.location.search.substring(1);
+         var vars = query.split("&");
+         for (var i=0;i<vars.length;i++) {
+             var pair = vars[i].split("=");
+             if(pair[0] == variable){return pair[1];}
+         }
+         return(false);
+     }
+
+     var mapDiv = document.getElementById("map");
+     var svg = d3.select("#map").append("svg");
+
+     var width = mapDiv.clientWidth,
+         height = mapDiv.clientHeight;
+
+     var startingpoint;
+
+     if (getQueryVariable("lat") && getQueryVariable("lon")){
+         startingpoint = [-getQueryVariable("lon"), -getQueryVariable("lat")];
+     } else {
+         startingpoint = [-136,20];
+     };
+
+     var file;
+
+     if (getQueryVariable("data")){
+        file = getQueryVariable("data");
+     } else {
+        file = "Glottolog_endangerement_status_viz";
+     };
+
+     var projection = d3.geoOrthographic()
+                        .scale(Math.min(height / 2,
+                                        width / 2))
+                        .translate([width / 2, height / 2])
+                        .rotate(startingpoint)
+                        .precision(0.1);
+
+     var path = d3.geoPath()
+                  .projection(projection);
+
+     var graticule = d3.geoGraticule();
+
+     var circle = d3.geoCircle();
+
+     function circlePath(d) {
+         return path(circle.center([d.longitude,d.latitude])
+                   				 .radius(6 * 1.691667)());
+     };
+
+     var m0;
+     var o0;
+
+     var isDragging = false;
+
+     var drag = d3.drag()
+                  .on("start", function() {
+                      var proj = projection.rotate();
+                      m0 = [d3.event.sourceEvent.pageX,
+                            d3.event.sourceEvent.pageY];
+                      o0 = [-proj[0],-proj[1]];
+                      isDragging = true;
+                  })
+                  .on("drag", function() {
+                      if (m0) {
+                          var m1 = [d3.event.sourceEvent.pageX,
+                                    d3.event.sourceEvent.pageY],
+                              o1 = [o0[0] + (m0[0] - m1[0])
+                                  / d3.zoomTransform(svg.node()).k / 4,
+                                    o0[1] + (m1[1] - m0[1])
+                                  / d3.zoomTransform(svg.node()).k / 4];
+                          projection.rotate([-o1[0], -o1[1]]);
+                      }
+
+                      // Update the map
+                      svg.selectAll("path").attr("d", path);
+                      svg.selectAll(".dots path").attr("d", circlePath);
+                  })
+                  .on("end", function() {
+                      isDragging = false;
+                  });
+
+     var area,
+         geosimp;
+
+     function zoomed(){
+         area = 30000 / Math.pow(Math.min(width, height) *
+             d3.zoomTransform(svg.node()).k,2);
+         geosimp = topojson.simplify(geodata,area);
+         d3.selectAll(".land")
+           .datum(topojson.feature(geosimp,
+                                   geodata.objects.land))
+           .attr("d",path);
+         d3.selectAll(".oceans")
+           .datum(topojson.feature(geosimp,
+                                   geodata.objects.oceans))
+           .attr("d",path);
+         d3.selectAll(".lakes")
+           .datum(topojson.feature(geosimp,
+                                   geodata.objects.lakes))
+           .attr("d",path);
+         d3.selectAll(".boundary")
+           .datum(topojson.mesh(geosimp,
+                                geodata.objects.countries,
+                                function(a, b) { return true; }
+           ))
+           .attr("d",path);
+         svg.attr("transform", "scale(" + d3.zoomTransform(svg.node()).k + ")");
+     };
+
+     function wheeled() {
+        console.log(d3.event);
+     };
+
+     svg.attr("width", width)
+        .attr("height", height)
+        .call(drag)
+        .on("wheel", wheeled)
+        .call(d3.zoom()
+                .scaleExtent([1,6])
+                .on("zoom", zoomed));
+
+     queue().defer(d3.json,"data/ne_50m.json")
+            .defer(d3.tsv,"data/" + file + ".tsv")
+            .await(plotmap);
+
+     var geodata;
+
+     function plotmap(error, world, data){
+         if (error) throw error;
+
+         data.forEach(function (d) {
+             d['longitude'] = +d['longitude'];
+             d['latitude'] = +d['latitude'];
+         });
+
+         var div = d3.select("#map").append("div")
+                     .attr("class","tooltip")
+                     .style("opacity",0);
+
+         var voronoi = d3.geoVoronoi()
+                         .x(function(d) {return d.longitude;})
+                         .y(function(d) {return d.latitude;})(data);
+
+         z = 30000 / Math.pow(Math.min(width, height) *
+             d3.zoomTransform(svg.node()).k,2);
+
+         world = topojson.presimplify(world);
+
+         geodata = world;
+
+         world = topojson.simplify(world,z);
+
+         svg.append("circle")
+            .attr("class","circle")
+            .attr("cx", width / 2)
+            .attr("cy", height / 2)
+            .attr("r", Math.min(width / 2, height / 2))
+            .style("fill", "lightgray");
+
+         if (typeof getQueryVariable("plain") != "undefined"){
+             svg.append("path")
+                .datum(topojson.feature
+                    (world,world.objects.land))
+                .attr("class","land")
+                .attr("d",path);
+         };
+
+         svg.append("g")
+            .attr("class","polygons")
+            .selectAll("clipPath")
+            .data(voronoi.polygons().features)
+            .enter()
+            .append("clipPath")
+            .attr("id", function(d, i) { return "clip-" + i; })
+            .append("path")
+            .attr("d",path);
+
+         svg.append("g")
+            .attr("class","dots")
+            .selectAll("path")
+            .data(data)
+            .enter()
+            .append("path")
+            .attr("fill",function (d) {
+                return d.color;
+            })
+            .attr("stroke",function (d) {
+                return d.color;
+            })
+            .attr("stroke-width","0.5px")
+            .attr("clip-path", function(d, i){
+                return "url(#clip-" + i + ")"
+            })
+            .attr("d",circlePath)
+            .on("mouseover", function(d,i){
+                if (!isDragging){
+                    div.transition()
+                       .duration(200)
+                       .style("opacity",div.active ? 1 : .8);
+                    div.html("<b>" + data[i].Language_name + "</b>"
+                           + (div.active ?
+                              ("<br>" + (data[i].Family_name == "" ? "" : data[i].Family_name + "<br>") + (data[i].subfamily_name == "" ?
+                                         "" : "↪ " + data[i].subfamily_name + "<br>") + (data[i].genus_name == "" ?
+                                         "" : "↪ ↪ " + data[i].genus_name + "<br>")
+                             + "<i>" + data[i].status + "</i>") : ""))
+                       .style("left", (d3.event.clientX-20) + "px")
+                       .style("top", (d3.event.clientY-20) + "px")
+                    /* .style("left", projection.scale(
+                     *     Math.min(height / 2, width / 2) *
+                     *     d3.zoomTransform(svg.node()).k)(
+                     *         [data[i].longitude,
+                     *          data[i].latitude])[0] + "px")
+                     * .style("top", projection
+                     *     .scale(Math.min(height / 2, width / 2) *
+                     *         d3.zoomTransform(svg.node()).k)(
+                     *             [data[i].longitude,
+                     *              data[i].latitude])[1] + "px")*/
+                       .style("background",data[i].color)
+                       .style("color",
+                              d3.lab(data[i].color).l > 100 * Math.sqrt(0.5) ?
+                              "black" : "white")
+                       .style("border-color",
+                              d3.lab(data[i].color).l > 100 * Math.sqrt(0.5) ?
+                              "black" : "white");
+                    d3.select(this).style("cursor","none");
+                    /* d3.select("#dot-" + i)
+                     *   .transition()
+                     *   .duration(100)
+                     *   .attr("opacity",2/3);*/
+                };
+            })
+            .on("mousemove", function(d,i){
+                div.style("left", (d3.event.clientX-20) + "px")
+                   .style("top", (d3.event.clientY-20) + "px")
+            })
+            .on("click", function(d,i){
+                if (!div.active) {
+                    div.transition()
+                       .duration(200)
+                       .style("opacity",1);
+                    div.html("<b>" + data[i].Language_name + "</b><br>"
+                           + (data[i].Family_name == "" ? "" : data[i].Family_name + "<br>")
+                           + (data[i].subfamily_name == "" ?
+                              "" : "↪ " + data[i].subfamily_name + "<br>") + (data[i].genus_name == "" ? "" : "↪ ↪ " + data[i].genus_name + "<br>")
+                           + "<i>" + data[i].status + "</i>");
+                    div.active = true;
+                } else {
+                    div.transition()
+                       .duration(500)
+                       .style("opacity",.8);
+                    div.html("<b>" + data[i].name + "</b>");
+                    div.active = false;
+                };
+            })
+            .on("mouseout", function(d,i){
+                div.transition()
+                   .duration(!isDragging ? 500 : 0)
+                   .style("opacity",0);
+                d3.select(this).style("cursor","default");
+                /* d3.select("#dot-" + i)
+                 *   .transition()
+                 *   .duration(100)
+                 *   .attr("opacity",1/3);*/
+            });
+
+         if (typeof getQueryVariable("plain") != "undefined"){
+             svg.append("path")
+                .datum(topojson.feature(world, world.objects.oceans))
+                .attr("class", "water oceans")
+                .attr("opacity",1)
+                .attr("d", path);
+
+             svg.append("path")
+                .datum(topojson.feature(world, world.objects.lakes))
+                .attr("class","water lakes")
+                .attr("opacity",1)
+                .attr("d", path);
+
+             svg.append("path")
+                .datum(topojson.mesh(world, world.objects.countries,
+                                     function(a, b) { return true; }))
+                .attr("class", "boundary")
+                .attr("d", path);
+         };
+
+         svg.append("path")
+            .datum(graticule)
+            .attr("class", "graticule")
+            .attr("d", path);
+
+         var globe_highlight = svg.append("defs").append("radialGradient")
+                                  .attr("id", "globe_highlight")
+                                  .attr("cx", "33.333%")
+                                  .attr("cy", "33.333%");
+         globe_highlight.append("stop")
+                        .attr("offset", "5%")
+                        .attr("stop-color", "white")
+                        .attr("stop-opacity", 0);
+         globe_highlight.append("stop")
+                        .attr("offset", "100%")
+                        .attr("stop-color", "darkgray")
+                        .attr("stop-opacity", 1/6);
+
+         var globe_shading = svg.append("defs").append("radialGradient")
+                                .attr("id", "globe_shading")
+                                .attr("cx", "50%")
+                                .attr("cy", "40%");
+         globe_shading.append("stop")
+                      .attr("offset", "5%")
+                      .attr("stop-color", "white")
+                      .attr("stop-opacity", 0);
+         globe_shading.append("stop")
+                      .attr("offset", "100%")
+                      .attr("stop-color", "black")
+                      .attr("stop-opacity", 1/6);
+
+         svg.append("circle")
+            .attr("class","shadow circle")
+            .attr("cx", width / 2)
+            .attr("cy", height / 2)
+            .attr("r", Math.min(width / 2, height / 2))
+            .style("fill", "url(#globe_highlight)");
+
+         svg.append("circle")
+            .attr("class","shadow circle")
+            .attr("cx", width / 2)
+            .attr("cy", height / 2)
+            .attr("r", Math.min(width / 2, height / 2))
+            .style("fill", "url(#globe_shading)");
+     };
+
+     window.addEventListener("resize", function(){
+         width = mapDiv.clientWidth;
+         height = mapDiv.clientHeight;
+
+         projection.scale(Math.min(height / 2,width / 2))
+                   .translate([width / 2, height / 2]);
+
+         svg.attr("width", width)
+            .attr("height", height)
+
+         svg.selectAll("path").attr("d", path);
+         svg.selectAll(".dots path").attr("d", circlePath);
+         svg.selectAll(".circle")
+            .attr("cx", width / 2)
+            .attr("cy", height / 2)
+            .attr("r", Math.min(width / 2, height / 2));
+
+         zoomed();
+     });
+    </script>
+</body>
