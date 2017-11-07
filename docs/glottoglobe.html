@@ -267,10 +267,10 @@
             .enter()
             .append("path")
             .attr("fill",function (d) {
-                return d.color;
+                return d.dot_color;
             })
             .attr("stroke",function (d) {
-                return d.color;
+                return d.dot_color;
             })
             .attr("stroke-width","0.5px")
             .attr("clip-path", function(d, i){
@@ -300,12 +300,12 @@
                      *         d3.zoomTransform(svg.node()).k)(
                      *             [data[i].longitude,
                      *              data[i].latitude])[1] + "px")*/
-                       .style("background",data[i].color)
+                       .style("background",data[i].label_color)
                        .style("color",
-                              d3.lab(data[i].color).l > 100 * Math.sqrt(0.5) ?
+                              d3.lab(data[i].label_color).l > 100 * Math.sqrt(0.5) ?
                               "black" : "white")
                        .style("border-color",
-                              d3.lab(data[i].color).l > 100 * Math.sqrt(0.5) ?
+                              d3.lab(data[i].label_color).l > 100 * Math.sqrt(0.5) ?
                               "black" : "white");
                     d3.select(this).style("cursor","none");
                     /* d3.select("#dot-" + i)
