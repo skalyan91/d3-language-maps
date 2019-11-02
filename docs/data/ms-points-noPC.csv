@@ -1,0 +1,2317 @@
+language,latitude,longitude,color,family,subgroup,country
+1,18,36,#337557,Afro-Asiatic,Cushitic,Sudan
+2,33,-4,#934F4A,Afro-Asiatic,Berber,Morocco
+3,34,-3.75,#B15C44,Afro-Asiatic,Berber,Morocco
+4,36.5,5,#97493B,Afro-Asiatic,Berber,Algeria
+5,31,-5,#A64E5A,Afro-Asiatic,Berber,Morocco
+6,16.5,-16,#924A4E,Afro-Asiatic,Berber,Mauritania
+7,13.6,14,#B64C9C,Afro-Asiatic,Chadic,Chad
+8,10.33,12.58,#B34F77,Afro-Asiatic,Chadic,Nigeria
+9,10.05,14.3,#C1975B,Afro-Asiatic,Chadic,Cameroon
+10,11,13,#C970A2,Afro-Asiatic,Chadic,Nigeria
+11,10.5,14.2,#B56299,Afro-Asiatic,Chadic,Cameroon
+12,11,15,#9E698E,Afro-Asiatic,Chadic,Cameroon
+13,11,11.83,#CFA488,Afro-Asiatic,Chadic,Nigeria
+14,10.83,36.67,#068464,Afro-Asiatic,Cushitic,Ethiopia
+15,15.9,38.3,#41567A,Afro-Asiatic,Cushitic,Eritrea
+16,12.9,37,#127668,Afro-Asiatic,Cushitic,Ethiopia
+17,9.83,15.08,#AC7A8B,Afro-Asiatic,Chadic,Chad
+18,9.08,15.58,#A06599,Afro-Asiatic,Chadic,Chad
+19,6.5,40,#6C8C71,Afro-Asiatic,Cushitic,Ethiopia
+20,2,37.5,#65458F,Afro-Asiatic,Cushitic,Kenya
+21,7,47.5,#766571,Afro-Asiatic,Cushitic,Somalia
+22,6.17,36.5,#478467,Afro-Asiatic,Omotic,Ethiopia
+23,5,36.5,#417990,Afro-Asiatic,Omotic,Ethiopia
+24,6.6,37.75,#1F9278,Afro-Asiatic,Omotic,Ethiopia
+25,5.8,37.3,#1C8471,Afro-Asiatic,Omotic,Ethiopia
+26,10,38,#3A6738,Afro-Asiatic,Semitic,Ethiopia
+27,30,30,#A94947,Afro-Asiatic,Semitic,Egypt
+28,24,54,#A05638,Afro-Asiatic,Semitic,United Arab Emirates
+29,30,42,#7B4A23,Afro-Asiatic,Semitic,Saudi Arabia
+30,34,-7,#9C4632,Afro-Asiatic,Semitic,Morocco
+31,33,37,#904A25,Afro-Asiatic,Semitic,Syria
+32,36,10,#82433D,Afro-Asiatic,Semitic,Tunisia
+33,8.2,38,#504965,Afro-Asiatic,Semitic,Ethiopia
+34,31.75,35.17,#917F1C,Afro-Asiatic,Semitic,Israel
+35,16.5,38.5,#625B36,Afro-Asiatic,Semitic,Eritrea
+36,14.5,38.5,#495A4B,Afro-Asiatic,Semitic,Ethiopia
+37,-3.5,35,#817272,Afro-Asiatic,Cushitic,Tanzania
+38,9.75,8.75,#D580A1,Afro-Asiatic,Chadic,Nigeria
+39,8.67,9.75,#DED7CA,Afro-Asiatic,Chadic,Nigeria
+40,12,7,#B37053,Afro-Asiatic,Chadic,Nigeria
+41,10,12,#AE7867,Afro-Asiatic,Chadic,Nigeria
+42,11,10,#B46779,Afro-Asiatic,Chadic,Nigeria
+43,12.08,10.92,#8E5781,Afro-Asiatic,Chadic,Nigeria
+44,11,9.25,#995665,Afro-Asiatic,Chadic,Nigeria
+45,9.58,11,#C06082,Afro-Asiatic,Chadic,Nigeria
+46,43.5,142,#85607B,Ainu,,Japan
+47,-50,-75,#5F9898,Alaculufan,,Chile
+48,50,-112.67,#721B90,Algic,Algonquian,Canada
+49,58,-102,#733E5E,Algic,Algonquian,Canada
+50,54,-116,#7E3A58,Algic,Algonquian,Canada
+51,42.5,-71,#77265B,Algic,Algonquian,USA
+52,45.5,-88.33,#71285D,Algic,Algonquian,USA
+53,52,-65,#75366D,Algic,Algonquian,Canada
+54,49,-92.5,#7C2639,Algic,Algonquian,Canada
+55,45,-67,#89394B,Algic,Algonquian,USA
+56,40.83,-124.17,#81417C,Algic,Wiyot,USA
+57,41.33,-124,#808051,Algic,Yurok,USA
+58,52,108,#15995C,Mongolic,Eastern,Russia
+59,48,124,#42B162,Mongolic,Eastern,China
+60,45,47,#2CAA67,Mongolic,Eastern,Russia
+61,47,108,#34B570,Mongolic,Eastern,Mongolia
+62,36,102,#34AE67,Mongolic,Eastern,China
+63,35,62,#32B252,Mongolic,Western,Afghanistan
+64,50,104,#22A182,Mongolic,Eastern,Mongolia
+65,39,109,#16AF66,Mongolic,Eastern,China
+66,68,130,#2E847B,Tungusic,North,Russia
+67,57,105,#268A63,Tungusic,North,Russia
+68,45,125,#219277,Tungusic,South,China
+69,49.5,137,#2C9681,Tungusic,South,Russia
+70,49.5,143.5,#2B9880,Tungusic,South,Russia
+71,47.667,136.25,#379767,Tungusic,North,Russia
+72,40.67,47.75,#1FBB65,Turkic,South-west,Azerbaijan
+73,40.5,48.5,#19BE70,Turkic,South-west,Azerbaijan
+74,53,58,#21BE70,Turkic,North-west,Russia
+75,55.5,47.5,#12A872,Turkic,Oghur,Russia
+76,45,34.083,#15AC5F,Turkic,North-west,Ukraine
+77,44,42,#21BB66,Turkic,North-west,Russia
+78,43,60,#15BF68,Turkic,North-west,Uzbekistan
+79,53,90,#26A46D,Turkic,North-east,Russia
+80,35,50,#36B45F,Turkic,South-west,Iran
+81,42,75,#1B9F69,Turkic,North-west,Kyrgystan
+82,56,49.5,#27C069,Turkic,North-west,Russia
+83,40,30,#259654,Turkic,South-west,Turkey
+84,40,58,#1FA382,Turkic,South-west,Turkmenistan
+85,52,95,#239978,Turkic,North-east,Russia
+86,40,80,#1E9373,Turkic,South-east,China
+87,39,66,#2BA157,Turkic,South-east,Uzbekistan
+88,62,130,#23977D,Turkic,North-east,Russia
+89,11.167,92.5,#497BB7,Andaman,,India
+90,10.75,92.5,#419586,Andaman,,India
+91,0,-72,#4B645E,Andoké,,Colombia
+92,-5.667,149,#BF639E,Anem,,Papua New Guinea
+93,-8.1,-67,#4846A3,Arawá,,Brazil
+94,-7,-64.5,#6B5469,Arawá,,Brazil
+95,-36,-67,#716D6C,Araucanian,,Chile
+96,-10,-73,#733B68,Arawak,South-Southwest,Peru
+97,-9,-67,#8F5E6C,Arawak,South-Southwest,Brazil
+98,-8,-37.3,#6E5A7A,Arawak,North,Brazil
+99,9,-73.5,#576C82,Chibchan,East,Venezuela
+100,-15,-64,#925046,Arawak,South-Southwest,Bolivia
+101,-12,-74,#6F5061,Arawak,South-Southwest,Peru
+102,15.85,-85,#C15851,Arawak,North,Honduras
+103,12,-72,#A8415E,Arawak,North,Colombia
+104,-12.5,-65.5,#AE3E37,Arawak,South-Southwest,Bolivia
+105,-13,-58,#483ECA,Arawak,South,Brazil
+106,-12,-70.4,#724E3D,Arawak,South-Southwest,Peru
+107,3,-51,#8D6760,Arawak,East,Brazil
+108,-2.5,-71.25,#4A7769,Arawak,North,Peru
+109,0.3,-69.7,#385C87,Arawak,North,Brazil
+110,2,-65,#6F5F68,Arawak,North,Venezuela
+111,-14,136.5,#703658,Macro-Gunwinygu,East Arnhem,Australia
+112,-13.5,130.417,#8770AA,Western Daly,,Australia
+113,-17.75,125.75,#747866,Bunuban,,Australia
+114,-18.5,126.6,#837677,Bunuban,,Australia
+115,-12.25,134.667,#704993,Macro-Gunwinygu,Maningrida,Australia
+116,-12.25,134.417,#706A87,Macro-Gunwinygu,Maningrida,Australia
+117,-15.667,129,#4C4D68,Jarrakan,,Australia
+118,-13.583,130.833,#624795,East Daly,,Australia
+119,-13.833,130.417,#8B6891,East Daly,,Australia
+120,-12.583,132.833,#8A497F,Macro-Gunwinygu,,Australia
+121,-17.25,137.667,#6AA04C,Wanyi-Garrwa,,Australia
+122,-12.5,133.75,#90275D,Macro-Gunwinygu,Gunwingyuan proper,Australia
+123,-14.25,134,#6A2C64,Macro-Gunwinygu,Gunwingyuan proper,Australia
+124,-11.5,132.667,#8A4660,Iwaidjan,,Australia
+125,-11.917,133.5,#A4545F,Iwaidjan,,Australia
+126,-15.083,130.5,#354E79,Mirndi,West,Australia
+127,-12.667,130.833,#832091,Darwin,,Australia
+128,-12.5,131.917,#753599,Darwin,,Australia
+129,-14.667,133.5,#64506B,Macro-Gunwinygu,Gunwingyuan proper,Australia
+130,-15.75,134.333,#437260,Macro-Gunwinygu,Marran,Australia
+131,-15.1,135.2,#823887,Macro-Gunwinygu,Marran,Australia
+132,-14.417,135.583,#6B476F,Macro-Gunwinygu,Marran,Australia
+133,-14.667,129.667,#8A3C8C,Southern Daly,,Australia
+134,-12.117,134.417,#82378E,Macro-Gunwinygu,Maningrida,Australia
+135,-12.167,134.117,#882E91,Macro-Gunwinygu,Maningrida,Australia
+136,-14.5,134.833,#5C2899,Macro-Gunwinygu,Gunwingyuan proper,Australia
+137,-13.5,135,#472481,Macro-Gunwinygu,Gunwingyuan proper,Australia
+138,-13.417,130.417,#5F57A1,Northern Daly,,Australia
+139,-13,130.333,#94399A,Northern Daly,,Australia
+140,-13.75,135.667,#71357A,Macro-Gunwinygu,Gunwingyuan proper,Australia
+141,-18,124.333,#7F7559,Nyulnyul,East,Australia
+142,-17,123,#7C5654,Nyulnyul,West,Australia
+143,-17.5,123.5,#654B79,Nyulnyul,East,Australia
+144,-18,122.5,#605A58,Nyulnyul,East,Australia
+145,-31,139.5,#47986E,Pama-Nyungan,Yura,Australia
+146,-24.6,134.5,#6A8D8C,Pama-Nyungan,Arandic,Australia
+147,-12.333,141.833,#42AC91,Pama-Nyungan,North Cape York,Australia
+148,-28,137,#41AD67,Pama-Nyungan,Karnic,Australia
+149,-24,136,#599899,Pama-Nyungan,Arandic,Australia
+150,-22.85,133.7,#5AA09A,Pama-Nyungan,Arandic,Australia
+151,-27.667,119,#3DC471,Pama-Nyungan,Kardu,Australia
+152,-28.75,153,#43B566,Pama-Nyungan,Central-East,Australia
+153,-16,131.667,#72B575,Pama-Nyungan,Ngumbin-Yapa,Australia
+154,-20.5,146.5,#49A06A,Pama-Nyungan,Greater Maric,Australia
+155,-21.5,137.5,#55CA67,Pama-Nyungan,Ngarna,Australia
+156,-23.6,115.7,#46C86A,Pama-Nyungan,Pilbara,Australia
+157,-22.75,150,#52BB73,Pama-Nyungan,Rockhampton,Australia
+158,-28,139,#559466,Pama-Nyungan,Karnic,Australia
+159,-16.65,145.5,#43BF71,Pama-Nyungan,Yidinic,Australia
+160,-12,135.5,#52BE7F,Pama-Nyungan,Yolngu,Australia
+161,-12.667,136,#66A267,Pama-Nyungan,Yolngu,Australia
+162,-18.75,128,#61A36D,Pama-Nyungan,Ngumbin-Yapa,Australia
+163,-12.5,134.833,#4BAC6B,Pama-Nyungan,Yolngu,Australia
+164,-17.583,145.5,#59A082,Pama-Nyungan,Dyirbalic,Australia
+165,-28.25,152,#48B862,Pama-Nyungan,Central-East,Australia
+166,-30,134,#44AFAA,Pama-Nyungan,Western Desert,Australia
+167,-30.4,152.5,#4DA778,Pama-Nyungan,Central-East,Australia
+168,-25.25,151,#56C77A,Pama-Nyungan,Central-East,Australia
+169,-15,144.833,#51B287,Pama-Nyungan,Southeast Cape York,Australia
+170,-21,139.5,#46606C,Pama-Nyungan,Kalkatungu,Australia
+171,-18.5,122.5,#5BBB78,Pama-Nyungan,Marngu,Australia
+172,-14.8,141.9,#6FAB91,Pama-Nyungan,West Cape York,Australia
+173,-16,145,#5DBF68,Pama-Nyungan,KukuYalanji,Australia
+174,-12.583,143.083,#55C68D,Pama-Nyungan,North Cape York,Australia
+175,-34.5,143.5,#5BA361,Pama-Nyungan,Kulin,Australia
+176,-26.5,145,#43B968,Pama-Nyungan,Greater Maric,Australia
+177,-21,116.5,#649E5D,Pama-Nyungan,Pilbara,Australia
+178,-29,146.75,#4B9455,Pama-Nyungan,Central New South Wales,Australia
+179,-26,125,#377FA1,Pama-Nyungan,Western Desert,Australia
+180,-32,123.5,#55B99D,Pama-Nyungan,Western bight,Australia
+181,-19.5,141.5,#48E454,Pama-Nyungan,Mayi,Australia
+182,-31.75,145.5,#4F9661,Pama-Nyungan,Central New South Wales,Australia
+183,-27.5,114.75,#53B65F,Pama-Nyungan,Kardu,Australia
+184,-20,121,#519456,Pama-Nyungan,Marngu,Australia
+185,-19,145.9,#529E81,Pama-Nyungan,Dyirbalic,Australia
+186,-32,142.533,#3F8043,Pama-Nyungan,Baagandji,Australia
+187,-22.833,118,#48A554,Pama-Nyungan,Pilbara,Australia
+188,-26.833,130,#3E73A7,Pama-Nyungan,Western Desert,Australia
+189,-22.9,139.9,#468B69,Pama-Nyungan,Karnic,Australia
+190,-12.833,135.5,#34757B,Pama-Nyungan,Yolngu,Australia
+191,-14,142.25,#6E9F8B,Pama-Nyungan,West Cape York,Australia
+192,-12,142.25,#57B87F,Pama-Nyungan,North Cape York,Australia
+193,-27.333,143,#53AB65,Pama-Nyungan,Karnic,Australia
+194,-20,132.333,#4A7F65,Pama-Nyungan,Ngumbin-Yapa,Australia
+195,-22.3,138.9,#57AB6B,Pama-Nyungan,Ngarna,Australia
+196,-18.583,146.167,#44AA6A,Pama-Nyungan,Dyirbalic,Australia
+197,-38.25,142.5,#5C8C5A,Pama-Nyungan,Kulin,Australia
+198,-37.5,144,#506476,Pama-Nyungan,Kulin,Australia
+199,-29,117.25,#52978A,Pama-Nyungan,Kardu,Australia
+200,-36,142,#5C724A,Pama-Nyungan,Kulin,Australia
+201,-13.667,141.833,#4BBC98,Pama-Nyungan,North Cape York,Australia
+202,-13.917,141.5,#52D9A5,Pama-Nyungan,North Cape York,Australia
+203,-32,134,#589B92,Pama-Nyungan,Wirangu,Australia
+204,-27.5,132,#378697,Pama-Nyungan,Western Desert,Australia
+205,-15.833,136,#486864,Pama-Nyungan,Ngarna,Australia
+206,-29.667,153,#3ABD7A,Pama-Nyungan,Central-East,Australia
+207,-17.917,146.09,#56997A,Pama-Nyungan,Yidinic,Australia
+208,-21.5,117,#60B84B,Pama-Nyungan,Pilbara,Australia
+209,-24.7,114.5,#49AC56,Pama-Nyungan,Kardu,Australia
+210,-14.333,142.25,#41AA77,Pama-Nyungan,West Cape York,Australia
+211,-29.5,148,#53A054,Pama-Nyungan,Central New South Wales,Australia
+212,-12.95,134.583,#674371,Macro-Gunwinygu,Gunwingyuan proper,Australia
+213,-14.25,130.417,#833695,Southern Daly,,Australia
+214,-14,130.5,#665A82,Southern Daly,,Australia
+215,-17.05,139.5,#4DA676,Tangkic,,Australia
+216,-17.333,138.833,#457E5B,Tangkic,,Australia
+217,-11.5,131,#A24E5E,Tiwi,,Australia
+218,-13.167,131.25,#4F4590,Macro-Gunwinygu,Gunwingyuan proper,Australia
+219,-17.25,133.833,#59745F,Mirndi,Barkly,Australia
+220,-18.667,135.75,#5D695D,Mirndi,Barkly,Australia
+221,-13.5,130,#7C54B2,Western Daly,,Australia
+222,-8.5,157.33,#CC4A64,Oceanic,Western Oceanic,Solomons
+223,-14.25,130,#8750AD,Western Daly,,Australia
+224,-13.833,130,#824697,Western Daly,,Australia
+225,-14.333,126.75,#6A4C91,Wororan,,Australia
+226,-16.25,126.5,#965D91,Wororan,,Australia
+227,-15.667,124.667,#5D3A99,Wororan,,Australia
+228,-14,131.25,#48468C,Wagiman,,Australia
+229,-15.5,131,#536572,Yangman,,Australia
+230,3,102.5,#C1A650,Austroasiatic,Aslian,Malaysia
+231,4.833,101.333,#D08C7D,Austroasiatic,Aslian,Malaysia
+232,14,107,#E1AAA4,Austroasiatic,Bahnaric,Vietnam
+233,10.667,107.5,#DECE8B,Austroasiatic,Bahnaric,Vietnam
+234,15.167,108.667,#E3EC8E,Austroasiatic,Bahnaric,Vietnam
+235,15.333,106.833,#ECEC91,Austroasiatic,Bahnaric,Laos
+236,14.667,108,#F7C590,Austroasiatic,Bahnaric,Vietnam
+237,11.5,108,#EFBE88,Austroasiatic,Bahnaric,Vietnam
+238,12,107,#ECE496,Austroasiatic,Bahnaric,Vietnam
+239,15.833,107.583,#EBC76F,Austroasiatic,Katuic,Vietnam
+240,26,92,#A5B25B,Austroasiatic,Khasic,India
+241,12,105,#EBC298,Austroasiatic,Khmer,Cambodia
+242,15,100,#F4D89B,Austroasiatic,Mon,Thailand
+243,21.333,86.5,#468187,Austroasiatic,Munda,India
+244,19,83.667,#298C65,Dravidian,Central,India
+245,22,86,#496971,Austroasiatic,Munda,India
+246,22.5,83.5,#3E8A6D,Austroasiatic,Munda,India
+247,25,78.5,#409B5A,Austroasiatic,Munda,India
+248,24,86.167,#52815E,Austroasiatic,Munda,India
+249,18.333,82.333,#238C73,Austroasiatic,Munda,India
+250,24.5,87,#398D45,Austroasiatic,Munda,India
+251,20,84.333,#416F69,Austroasiatic,Munda,India
+252,8,93.5,#A5B255,Austroasiatic,Nicobar,India
+253,9.167,92.75,#A9B239,Austroasiatic,Nicobar,India
+254,19,100.75,#E3C092,Austroasiatic,Khmuic,Thailand
+255,18.833,101,#E0D18F,Austroasiatic,Mlabri,Thailand
+256,22.667,96.4,#F0D68E,Austroasiatic,Palaungic,Myanmar
+257,20.25,105.975,#EEC98F,Austroasiatic,Vietic,Vietnam
+258,24.5,121,#CF8150,Austronesian,Atayalic,Taiwan
+259,24.167,121.417,#AE7256,Austronesian,Atayalic,Taiwan
+260,5.917,117.167,#D49C4E,Malayo-Polynesian,North Borneo,Malaysia
+261,-2,115,#F59F66,Malayo-Polynesian,Barito,Indonesia
+262,-20,47,#C47F48,Malayo-Polynesian,Barito,Madagascar
+263,5.5,115.5,#D27753,Malayo-Polynesian,North Borneo,Malaysia
+264,5,116,#DD9D4E,Malayo-Polynesian,North Borneo,Malaysia
+265,-3.167,128.333,#C36597,Malayo-Polynesian,Central Maluku,Indonesia
+266,-3.7,126.4,#CAA4AE,Malayo-Polynesian,Central Maluku,Indonesia
+267,-9.833,120.5,#E2636F,Malayo-Polynesian,Flores-Sawu-Sumba,Indonesia
+268,-8.25,123,#B690AF,Malayo-Polynesian,Timoric,Indonesia
+269,-3.783,127.917,#CE48A1,Malayo-Polynesian,Central Maluku,Indonesia
+270,-8.2,127.67,#DE4E97,Malayo-Polynesian,Southeast Maluku,Indonesia
+271,-8.25,130.917,#D3478A,Malayo-Polynesian,Southeast Maluku,Indonesia
+272,-8.667,120.333,#E7B176,Malayo-Polynesian,Flores-Sawu-Sumba,Indonesia
+273,-8.833,121,#FAC781,Malayo-Polynesian,Flores-Sawu-Sumba,Indonesia
+274,-3.25,129.083,#A3598D,Malayo-Polynesian,Central Maluku,Indonesia
+275,-8.333,121.75,#CDA870,Malayo-Polynesian,Flores-Sawu-Sumba,Indonesia
+276,-3.3,128.8,#DF5EA5,Malayo-Polynesian,Central Maluku,Indonesia
+277,-10.5,122,#BE7F61,Malayo-Polynesian,Flores-Sawu-Sumba,Indonesia
+278,-9.333,125.083,#D19890,Malayo-Polynesian,Timoric,Indonesia
+279,-7.833,126.667,#D371A0,Malayo-Polynesian,Timoric,Indonesia
+280,13.583,145,#C66037,Malayo-Polynesian,Chamorro,Guam
+281,-7.2,128.583,#C16D91,Malayo-Polynesian,Southeast Maluku,Indonesia
+282,13.333,123.5,#C87D60,Malayo-Polynesian,Philippines,Philippines
+283,10,124,#B57A44,Malayo-Polynesian,Philippines,Philippines
+284,10.25,123,#BE864B,Malayo-Polynesian,Philippines,Philippines
+285,9.417,125.5,#C7814B,Malayo-Polynesian,Philippines,Philippines
+286,14.75,121,#B0704C,Malayo-Polynesian,Philippines,Philippines
+287,17.967,121.833,#C58643,Malayo-Polynesian,Philippines,Philippines
+288,17.167,120.333,#CA7C4C,Malayo-Polynesian,Philippines,Philippines
+289,17.083,120.917,#C77E40,Malayo-Polynesian,Philippines,Philippines
+290,16.833,121.083,#BA843A,Malayo-Polynesian,Philippines,Philippines
+291,16,121,#BC813B,Malayo-Polynesian,Philippines,Philippines
+292,15.333,120.5,#B85A31,Malayo-Polynesian,Philippines,Philippines
+293,15.917,120.333,#B7773F,Malayo-Polynesian,Philippines,Philippines
+294,-6.417,146.25,#BB7C9E,Oceanic,Western Oceanic,Papua New Guinea
+295,-9,146.667,#B67A92,Oceanic,Western Oceanic,Papua New Guinea
+296,-5.533,148.667,#BF6DBE,Oceanic,Western Oceanic,Papua New Guinea
+297,-15.5,167.75,#B9597C,Oceanic,Southern Oceanic,Vanuatu
+298,-20.25,169.833,#CB587F,Oceanic,Southern Oceanic,Vanuatu
+299,-6.667,146.917,#C45587,Oceanic,Western Oceanic,Papua New Guinea
+300,-5.333,147.083,#C267A5,Oceanic,Western Oceanic,Papua New Guinea
+301,-10.333,161.5,#CE6275,Oceanic,Southeast Solomonic,Solomons
+302,-16,167.333,#CE5E8F,Oceanic,Southern Oceanic,Vanuatu
+303,-4.733,149.283,#E76579,Oceanic,Western Oceanic,Papua New Guinea
+304,-6.417,155.25,#D84E92,Oceanic,Western Oceanic,Papua New Guinea
+305,-11.63,166.83,#D8BCBE,Oceanic,TeMotu,Solomons
+306,-20.833,165,#E03A74,Oceanic,Southern Oceanic,New Caledonia
+307,7.333,151.75,#DB7B67,Oceanic,Micronesian,USA Federated States of Micronesia
+308,-21,167.083,#E0B063,Oceanic,Southern Oceanic,New Caledonia
+309,-18.92,169.1,#975389,Oceanic,Southern Oceanic,Vanuatu
+310,-17.98,178.525,#C87469,Oceanic,Central Pacific,Fiji
+311,-14.29,-178.16,#C29950,Oceanic,Central Pacific,Vanuatu
+312,-19.667,170.667,#AEB46D,Oceanic,Central Pacific,Vanuatu
+313,-9.8,149.833,#A15CA9,Oceanic,Western Oceanic,Papua New Guinea
+314,-9.167,160.333,#E35B4B,Oceanic,Southeast Solomonic,Solomons
+315,-9.25,150.833,#B8498F,Oceanic,Western Oceanic,Papua New Guinea
+316,-5.25,154.75,#CB796F,Oceanic,Western Oceanic,Papua New Guinea
+317,21.905,-160.2,#A8AC4D,Oceanic,Central Pacific,USA
+318,-20.417,166.417,#F06754,Oceanic,Southern Oceanic,New Caledonia
+319,-9.417,150.25,#9C3EA8,Oceanic,Western Oceanic,Papua New Guinea
+320,-6.75,147.833,#9C4CBE,Oceanic,Western Oceanic,Papua New Guinea
+321,-3.417,143.583,#B95EBD,Oceanic,Western Oceanic,Papua New Guinea
+322,-5.667,149.75,#DC38AE,Oceanic,Western Oceanic,Papua New Guinea
+323,-6.25,150.5,#BF62AE,Oceanic,Western Oceanic,Papua New Guinea
+324,-2.083,147.333,#D743A8,Oceanic,Admiralties,Papua New Guinea
+325,-8.5,151,#D7557F,Oceanic,Western Oceanic,Papua New Guinea
+326,1.333,173,#EF4F4B,Oceanic,Micronesian,Kiribati
+327,-8,159.25,#C06257,Oceanic,Western Oceanic,Solomons
+328,5.3,163,#E0706D,Oceanic,Micronesian,USA Federated States of Micronesia
+329,-8.917,161.083,#D66581,Oceanic,Southeast Solomonic,Solomons
+330,-19.649,169.445,#BF57B3,Oceanic,Southern Oceanic,Vanuatu
+331,-19.499,169.314,#C54495,Oceanic,Southern Oceanic,Vanuatu
+332,-16.667,168.333,#C23DA3,Oceanic,Southern Oceanic,Vanuatu
+333,-9.696,160.658,#CD5C6D,Oceanic,Southeast Solomonic,Solomons
+334,-2.1,147.417,#DD65A6,Oceanic,Admiralties,Papua New Guinea
+335,-2.367,147.333,#D27A8F,Oceanic,Admiralties,Papua New Guinea
+336,-17.033,168.167,#D98E9D,Oceanic,Central Pacific,Vanuatu
+337,-9.5,149.167,#6D47C1,Oceanic,Western Oceanic,Papua New Guinea
+338,-5.667,148.333,#BB77BB,Oceanic,Western Oceanic,Papua New Guinea
+339,-4.083,145.083,#B642AB,Oceanic,Western Oceanic,Papua New Guinea
+340,-5.667,148.083,#C2519C,Oceanic,Western Oceanic,Papua New Guinea
+341,-37,175,#AF9E67,Oceanic,Central Pacific,New Zealand
+342,12.5,162.5,#F3787C,Oceanic,Micronesian,USA Federated States of Micronesia
+343,-8.5,146.467,#8638A8,Oceanic,Western Oceanic,Papua New Guinea
+344,6.667,159.75,#E47775,Oceanic,Micronesian,USA Federated States of Micronesia
+345,-7.167,155.917,#B45253,Oceanic,Western Oceanic,Solomons
+346,-9.5,147.25,#92569F,Oceanic,Western Oceanic,Papua New Guinea
+347,-6.5,146.917,#B863B5,Oceanic,Western Oceanic,Papua New Guinea
+348,-1.5,149.667,#DC535B,Oceanic,StMatthias,Papua New Guinea
+349,-13.7,167.63,#C16BA1,Oceanic,Southern Oceanic,Vanuatu
+350,-5.5,150.833,#DD6A76,Oceanic,Western Oceanic,Papua New Guinea
+351,-2.917,151.333,#E1438D,Oceanic,Western Oceanic,Papua New Guinea
+352,-16.027,167.176,#C248A8,Oceanic,Southern Oceanic,Vanuatu
+353,-0.5,166.917,#DC5D5C,Oceanic,Micronesian,Nauru
+354,-4.5,154.167,#D44565,Oceanic,Western Oceanic,Papua New Guinea
+355,-20.25,164.083,#DC6962,Oceanic,Southern Oceanic,New Caledonia
+356,-21.5,167.667,#D4945A,Oceanic,Southern Oceanic,New Caledonia
+357,-17.5,168.333,#CC4485,Oceanic,Southern Oceanic,Vanuatu
+358,-19,-169.5,#E89F55,Oceanic,Central Pacific,Niue
+359,-16.505,168.217,#BF4399,Oceanic,Southern Oceanic,Vanuatu
+360,-7,146.667,#C6A7B3,Oceanic,Western Oceanic,Papua New Guinea
+361,-10,167.333,#CE878A,Oceanic,Central Pacific,Solomons
+362,6.883,158.25,#E57472,Oceanic,Micronesian,USA Federated States of Micronesia
+363,7.333,149.333,#EC8E73,Oceanic,Micronesian,USA Federated States of Micronesia
+364,-27.333,-110,#BBA467,Oceanic,Central Pacific,Chile
+365,-12.333,177,#D6586A,Oceanic,Central Pacific,Fiji
+366,-8.25,157.333,#DF5441,Oceanic,Western Oceanic,Solomons
+367,-9.5,161.583,#DB3E7D,Oceanic,Southeast Solomonic,Solomons
+368,-15,166.783,#B43CA1,Oceanic,Southern Oceanic,Vanuatu
+369,-10.667,150.75,#9767A0,Oceanic,Western Oceanic,Papua New Guinea
+370,-14,-172.667,#C09D7D,Oceanic,Central Pacific,Samoa
+371,-5,153.333,#C7734D,Oceanic,Western Oceanic,Papua New Guinea
+372,-9.833,147.917,#A258AF,Oceanic,Western Oceanic,Papua New Guinea
+373,-6,147.333,#BB55A0,Oceanic,Western Oceanic,Papua New Guinea
+374,-7.133,157,#DC5F5B,Oceanic,Western Oceanic,Solomons
+375,-1.917,138.75,#C76B9B,Oceanic,Western Oceanic,Indonesia
+376,4.5,132.083,#E58864,Oceanic,Micronesian,Palau
+377,-11.5,153.5,#C93D93,Oceanic,Western Oceanic,Papua New Guinea
+378,-17.667,-149,#C69564,Oceanic,Central Pacific,French Polynesia
+379,-5.583,154.583,#C6407B,Oceanic,Western Oceanic,Papua New Guinea
+380,-4.75,146,#B45AA1,Oceanic,Western Oceanic,Papua New Guinea
+381,-10.333,150.5,#AC4599,Oceanic,Western Oceanic,Papua New Guinea
+382,-5.667,155.083,#D8536B,Oceanic,Western Oceanic,Papua New Guinea
+383,-2.75,150.917,#EB6D7F,Oceanic,Western Oceanic,Papua New Guinea
+384,-21.667,165.75,#C7984E,Oceanic,Southern Oceanic,New Caledonia
+385,-2.583,140.867,#8466B9,Oceanic,Western Oceanic,Indonesia
+386,-9.15,-171.78,#C9B76F,Oceanic,Central Pacific,Tokelau
+387,-4.225,151.835,#CF854D,Oceanic,Western Oceanic,Papua New Guinea
+388,-21.167,-175.25,#BAA374,Oceanic,Central Pacific,Tonga
+389,-8.333,160.667,#E0289F,Oceanic,Southeast Solomonic,Solomons
+390,-3.083,142.417,#FB7E9D,Oceanic,Western Oceanic,Papua New Guinea
+391,-2,152,#C37476,Oceanic,Western Oceanic,Papua New Guinea
+392,-10,180,#BDB564,Oceanic,Central Pacific,Tuvalu
+393,-18.628,169.097,#9F4A94,Oceanic,Southern Oceanic,Vanuatu
+394,7.333,143.833,#F27E76,Oceanic,Micronesian,USA Federated States of Micronesia
+395,23.333,121.333,#B4912F,Austronesian,East Formosan,Taiwan
+396,22.333,120.833,#AB703A,Austronesian,Paiwanic,Taiwan
+397,7.167,134.5,#C3674B,Malayo-Polynesian,Palauan,Palau
+398,4.5,118.5,#F07A66,Malayo-Polynesian,Barito,Indonesia
+399,-1.917,136.533,#D2719F,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+400,-1.14,136,#CB6CA1,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+401,0.833,128.5,#D76D75,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+402,-3,133.5,#D54FA1,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+403,-2.917,135.75,#B169A7,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+404,0.333,127.583,#CF7B96,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+405,6.167,124.5,#C4825E,Malayo-Polynesian,Philippines,Philippines
+406,7.667,124.833,#D18638,Malayo-Polynesian,Philippines,Philippines
+407,-4,120,#CD5842,Malayo-Polynesian,Greater South Sulawesi,Indonesia
+408,-5.333,119.833,#D45541,Malayo-Polynesian,Greater South Sulawesi,Indonesia
+409,-5.417,119.583,#CB5C41,Malayo-Polynesian,Greater South Sulawesi,Indonesia
+410,-5,122.417,#D5525D,Malayo-Polynesian,Celebic,Indonesia
+411,-4,122.25,#B74C52,Malayo-Polynesian,Celebic,Indonesia
+412,1.25,125,#EE9853,Malayo-Polynesian,Philippines,Indonesia
+413,1.083,124.833,#C88752,Malayo-Polynesian,Philippines,Indonesia
+414,-5.5,123.667,#C35553,Malayo-Polynesian,Celebic,Indonesia
+415,-1.75,119.917,#D86164,Malayo-Polynesian,Celebic,Indonesia
+416,-5.5,122.75,#CD545D,Malayo-Polynesian,Celebic,Indonesia
+417,5.333,96.167,#E08462,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+418,-8.583,115.25,#ECA168,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+419,3,98.167,#CA6E57,Malayo-Polynesian,Batak-Barrier Islands,Indonesia
+420,2.5,99.5,#D86E56,Malayo-Polynesian,Batak-Barrier Islands,Indonesia
+421,10.93,108.1,#E7D898,Malayo-Polynesian,Malayo-Sumbawan,Vietnam
+422,12,105.5,#F1D3A3,Malayo-Polynesian,Malayo-Sumbawan,Cambodia
+423,-5.333,102.25,#DD7159,Malayo-Polynesian,Batak-Barrier Islands,Indonesia
+424,2,112,#EFB674,Malayo-Polynesian,Malayo-Sumbawan,Malaysia
+425,-2.5,104.75,#DE8F58,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+426,-7.5,110.667,#EE9B62,Malayo-Polynesian,Javanic,Indonesia
+427,-5,105,#E5966D,Malayo-Polynesian,Lampungic,Indonesia
+428,-7.25,113.333,#E8A059,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+429,1.5,124.833,#D2B970,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+430,-1.5,99,#E98E68,Malayo-Polynesian,Batak-Barrier Islands,Indonesia
+431,-0.95,100.36,#E19565,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+432,1,97.5,#CC7951,Malayo-Polynesian,Batak-Barrier Islands,Indonesia
+433,2.333,96.5,#E46060,Malayo-Polynesian,Batak-Barrier Islands,Indonesia
+434,-6.92,107.62,#F2B06D,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+435,7.25,99.25,#EBC695,Malayo-Polynesian,Malayo-Sumbawan,Thailand
+436,22.833,120.833,#B97C49,Austronesian,Rukai,Taiwan
+437,23.5,120.75,#B88366,Austronesian,Tsouic,Taiwan
+438,9.53,138.1,#C65949,Oceanic,Yap,Yap
+439,-5.833,142.5,#2883C1,Trans New Guinea,AwinPare,Papua New Guinea
+440,-16,-69.5,#3E6E50,Aymaran,,Peru
+441,-12.85,-76,#23705C,Aymaran,,Peru
+442,0.75,-78.5,#269062,Barbacoan,Northern,Ecuador
+443,1.2,-78.75,#2D9F89,Barbacoan,Southern,Ecuador
+444,-0.25,-79.33,#0E8C88,Barbacoan,Southern,Ecuador
+445,43.2,-3,#4A8063,Basque,,Spain
+446,-3.5,141.167,#5D97AE,Trans New Guinea,Border,Papua New Guinea
+447,-3,140.75,#3D5EB4,Trans New Guinea,Border,Papua New Guinea
+448,-3.25,141.167,#618F99,Trans New Guinea,Border,Papua New Guinea
+449,-2.917,141,#5A70AB,Trans New Guinea,Border,Papua New Guinea
+450,-6.083,142.667,#3C87C6,Trans New Guinea,Bosavi,Papua New Guinea
+451,-6.417,142.833,#3B84BE,Trans New Guinea,Bosavi,Papua New Guinea
+452,-7.583,140.167,#527D74,Bulaka,,Indonesia
+453,-7.667,139.75,#3F9F7B,Bulaka,,Indonesia
+454,36.5,74.5,#215D51,Burushaski,,Pakistan
+455,41,-98.67,#3D2599,Caddoan,Northern,USA
+456,33.33,-97.33,#843977,Caddoan,Northern,USA
+457,-5.2,-76.4,#5C3D7B,Cahuapanan,,Peru
+458,1,-77,#4F2073,Camsá,,Colombia
+459,-4.17,-77,#375A8C,Candoshi,,Peru
+460,0,-54,#6D2A9A,Cariban,Apalai,Brazil
+461,7.85,-59,#524574,Cariban,Guianan Carib,Guyana
+462,4.5,-63.5,#5D3C92,Cariban,Guianan Carib,Venezuela
+463,1.5,-60,#6E3E79,Cariban,Parukotan,Brazil
+464,4.5,-60,#486364,Cariban,Venezuelan,Brazil
+465,2.5,-56.33,#5D2093,Cariban,Guianan Carib,Suriname
+466,1.5,-58.5,#624395,Cariban,Parukotan,Brazil
+467,-12.5,-67,#BE494B,Cayuvava,,Bolivia
+468,-11.5,-65,#D06273,Chapacura,More-Waric,Brazil
+469,10.9,-73.6,#5B6198,Chibchan,East,Colombia
+470,10.75,-73.5,#516190,Chibchan,East,Colombia
+471,7,-73,#3A48A5,Chibchan,East,Colombia
+472,6.75,-72.25,#49A6A8,Chibchan,East,Colombia
+473,8.5,-81,#5DBD96,Chibchan,West,Panama
+474,15,-85.5,#3C6890,Chibchan,East,Honduras
+475,11.5,-83.9,#5B729A,Chibchan,East,Nicaragua
+476,9.5,-83,#6A97AE,Chibchan,West,Costa Rica
+477,9,-83,#6F99C3,Chibchan,West,Panama
+478,47.925,-124.25,#795225,Chimakuan,,USA
+479,-17.5,-62,#8B537B,Chiquitano,,Bolivia
+480,29.67,-91,#4F65AA,Totozoquean-Chitimacha,Chitimacha,USA
+481,5.2,-76.8,#4D7D95,Chocoan,Emberá,Colombia
+482,4,-77,#297D8B,Chocoan,Woun Meu,Colombia
+483,-8,-77.5,#5D4A88,Cholon,,Peru
+484,-53.2,-68.6,#746280,Chonan,Chonan Proper,Argentina
+485,-41.5,-65.6,#713F73,Matacoan,Nivacle,Argentina
+486,67,-173,#4B816F,Chukotko-Kamchatkan,Main,Russia
+487,61,167,#2B636D,Chukotko-Kamchatkan,Main,Russia
+488,57,157,#326155,Chukotko-Kamchatkan,Main,Russia
+489,34.5,-120.25,#863A5D,Chumash,,USA
+490,28,-100,#6237B0,Coahuilteco,,USA
+491,-10,149.25,#796EA1,Southeast Papuan,Dagan,Papua New Guinea
+492,20,78.5,#21BE5E,Dravidian,Central,India
+493,29,67,#399A66,Dravidian,North,Pakistan
+494,25,87.333,#14C567,Dravidian,North,India
+495,19,84.6,#15C86A,Dravidian,South-central,India
+496,17.5,81.333,#16C658,Dravidian,South-central,India
+497,20,83.5,#1EC662,Dravidian,South-central,India
+498,18.75,82.667,#1FC575,Dravidian,South-central,India
+499,16,79.5,#1FB057,Dravidian,South-central,India
+500,15,76,#219265,Dravidian,South,India
+501,13.08,76.42,#0CB067,Dravidian,South,India
+502,8.5,77,#2BC252,Dravidian,South,India
+503,12,79,#0E9164,Dravidian,South,India
+504,12.75,75.333,#11BD63,Dravidian,South,India
+505,-1,133.667,#B55EAD,East Bird's Head,,Indonesia
+506,-1.5,134,#9A62B0,East Bird's Head,,Indonesia
+507,-6.75,155.833,#394E7C,East Bougainville,,Papua New Guinea
+508,-6.617,155.417,#464BA0,East Bougainville,,Papua New Guinea
+509,-6.333,155.583,#09759B,East Bougainville,,Papua New Guinea
+510,-2.5,137.667,#4DBAA6,Geelvink Bay,,Indonesia
+511,-8,145.833,#5F95A2,Trans New Guinea,Eleman,Papua New Guinea
+512,54,-166,#105B6E,Eskimo-Aleut,Aleut,USA
+513,61,-48,#334286,Eskimo-Aleut,Eskimo,Greenland (Denmark)
+514,59.5,-160,#2D6879,Eskimo-Aleut,Eskimo,USA
+515,65,-175,#285488,Eskimo-Aleut,Eskimo,Russia
+516,-4.033,144.5,#4455B4,Taiap,,Papua New Guinea
+517,-8.083,143,#1470A6,Papuan Gulf,Gogodala-Suki,Papua New Guinea
+518,-16.5,-65,#594465,Yurakare,,Bolivia
+519,-26,-61,#9F5447,Guaicuruan,Southern,Argentina
+520,-20,-57,#9F4F7E,Guaicuruan,Northern,Brazil
+521,-27,-62,#89508F,Guaicuruan,Southern,Argentina
+522,-25,-60,#963774,Guaicuruan,Southern,Argentina
+523,-26.5,-59,#7F507D,Guaicuruan,Southern,Argentina
+524,53,-132,#667286,Haida,,Canada
+525,18.816,98.883,#DDD574,Hmong-Mien,Hmongic,Thailand
+526,20.833,101.167,#CFD399,Hmong-Mien,Mienic,Laos
+527,41,-123,#4F4E92,Chimariko,,USA
+528,41.5,-121,#5C4F68,Palaihnihan,,USA
+529,40.75,-121,#635459,Palaihnihan,,USA
+530,39,-123.33,#40BB99,Pomoan,Western,USA
+531,39,-122.67,#38A4B1,Pomoan,Eastern,USA
+532,39.33,-122.67,#44B39D,Pomoan,Northeastern,USA
+533,38.83,-122.5,#299E81,Pomoan,Southeastern,USA
+534,29,-112.5,#742DB3,Seri,,Mexico
+535,41.83,-122.67,#7B239A,Shasta,,USA
+536,32.5,-115,#4C35B1,Yuman-Cochimi,Yuman,USA
+537,32.67,-116.17,#5F47A6,Yuman-Cochimi,Yuman,USA
+538,35.5,-113.75,#2A5796,Yuman-Cochimi,Yuman,USA
+539,31.33,-115.67,#574AAA,Yuman-Cochimi,Yuman,USA
+540,33.17,-113.17,#5637B2,Yuman-Cochimi,Yuman,USA
+541,34.67,-114.58,#5241AC,Yuman-Cochimi,Yuman,USA
+542,32.17,-116.5,#6F51AA,Yuman-Cochimi,Yuman,USA
+543,16.2,-95,#BE5456,Huave,,Mexico
+544,-1,-72.5,#365E76,Boran,,Colombia
+545,-2.4,-72.25,#3C725C,Witoto,Witoto Proper,Colombia
+546,-1,-73.5,#34857E,Witoto,Witoto Proper,Colombia
+547,40.5,20,#6C8C22,Indo-European,Albanian,Albania
+548,40,45,#3E9C38,Indo-European,Armenian,Armenia
+549,56.8,24.1,#549A20,Indo-European,Balto-Slavic,Latvia
+550,54.9,23.9,#3F9631,Indo-European,Balto-Slavic,Lithuania
+551,48,-3.5,#886314,Indo-European,Celtic,France
+552,50.5,-4.5,#9C8243,Indo-European,Celtic,Britain
+553,57,-5,#76772E,Indo-European,Celtic,Britain
+554,53,-7,#92732C,Indo-European,Celtic,Ireland
+555,52.3,-4,#917B21,Indo-European,Celtic,Britain
+556,-33.9,18.5,#9AD238,Indo-European,Germanic,South Africa
+557,56,10,#7EC728,Indo-European,Germanic,Denmark
+558,52,7,#73A814,Indo-European,Germanic,Netherlands
+559,52,0,#7EAA17,Indo-European,Germanic,Britain
+560,61.5,-7,#6BC40D,Indo-European,Germanic,Denmark
+561,53.2,5.76,#74B124,Indo-European,Germanic,Netherlands
+562,50,10,#64AC15,Indo-European,Germanic,Germany
+563,65,-19,#66B81A,Indo-European,Germanic,Iceland
+564,62,8,#7DC827,Indo-European,Germanic,Norway
+565,58.41,15.62,#7CB526,Indo-European,Germanic,Sweden
+566,38,23,#60980C,Indo-European,Greek,Greece
+567,22.5,90,#30B845,Indo-European,Indo-Iranian,Bangladesh
+568,26.8,85.3,#2DA939,Indo-European,Indo-Iranian,India
+569,36.167,74,#25C449,Indo-European,Indo-Iranian,Pakistan
+570,23.25,72.7,#30B82E,Indo-European,Indo-Iranian,India
+571,27.2,79.5,#3CB132,Indo-European,Indo-Iranian,India
+572,34,76,#2E9247,Indo-European,Indo-Iranian,India
+573,30,80,#1EC13E,Indo-European,Indo-Iranian,India
+574,26.5,86,#41AF4F,Indo-European,Indo-Iranian,India
+575,18,74.5,#21B751,Indo-European,Indo-Iranian,India
+576,28.72,82,#27AE5C,Indo-European,Indo-Iranian,Nepal
+577,21,85,#2FBA4B,Indo-European,Indo-Iranian,India
+578,31,75,#33BC37,Indo-European,Indo-Iranian,India
+579,45,21,#43A532,Indo-European,Indo-Iranian,Romania
+580,36,74,#1BBC51,Indo-European,Indo-Iranian,Pakistan
+581,6.9,79.9,#3BBD62,Indo-European,Indo-Iranian,Sri Lanka
+582,34.25,72,#15BD3F,Indo-European,Indo-Iranian,Pakistan
+583,29,71,#47A939,Indo-European,Indo-Iranian,Pakistan
+584,28,62,#43AE52,Indo-European,Indo-Iranian,Iran
+585,37.75,49,#439C51,Indo-European,Indo-Iranian,Iran
+586,36,44,#5B6752,Indo-European,Indo-Iranian,Iraq
+587,38,42,#3F695B,Indo-European,Indo-Iranian,Turkey
+588,42.41,43.95,#389248,Indo-European,Indo-Iranian,Georgia
+589,35,65,#4D894F,Indo-European,Indo-Iranian,Afghanistan
+590,32,54,#698349,Indo-European,Indo-Iranian,Iran
+591,38.667,70,#63A74E,Indo-European,Indo-Iranian,Tajikistan
+592,39,48.85,#16945B,Indo-European,Indo-Iranian,Iran
+593,36,49.67,#14924D,Indo-European,Indo-Iranian,Iran
+594,36.5,72,#27BA43,Indo-European,Indo-Iranian,Pakistan
+595,41.4,2.3,#77A320,Indo-European,Romance,Spain
+596,48,3,#84A120,Indo-European,Romance,France
+597,43,14,#90971D,Indo-European,Romance,Italy
+598,39,-8,#8B9B23,Indo-European,Romance,Portugal
+599,45,27,#6D9F24,Indo-European,Romance,Romania
+600,46.8,9.4,#78A611,Indo-European,Romance,Switzerland
+601,40,9,#76AC22,Indo-European,Romance,Italy
+602,41.65,-4.75,#7D8E0D,Indo-European,Romance,Spain
+603,54,27,#4BA81C,Indo-European,Balto-Slavic,Belarus
+604,43,25,#699619,Indo-European,Balto-Slavic,Bulgaria
+605,50,14.5,#439D3C,Indo-European,Balto-Slavic,Czech Republic
+606,41.6,22,#52B21B,Indo-European,Balto-Slavic,Macedonia
+607,52,20,#54AA1A,Indo-European,Balto-Slavic,Poland
+608,55,38,#5EA610,Indo-European,Balto-Slavic,Russia
+609,45,20,#5FB423,Indo-European,Balto-Slavic,Serbia
+610,46,14.5,#54A31F,Indo-European,Balto-Slavic,Slovenia
+611,52,13.75,#39A62D,Indo-European,Balto-Slavic,Germany
+612,49,32,#4FAC1E,Indo-European,Balto-Slavic,Ukraine
+613,45,-74.66,#783774,Iroquoian,Northern,Canada
+614,43,-75.67,#9B3B53,Iroquoian,Northern,USA
+615,42.5,-77.5,#92248E,Iroquoian,Northern,USA
+616,36,-77.5,#8D3C87,Iroquoian,Northern,USA
+617,35.5,-83.5,#74477C,Iroquoian,Southern,USA
+618,-12,-65,#8C217C,Itonama,,Bolivia
+619,-12,-63,#6A57B6,Macro-Je,Jabutí,Brazil
+620,37,140,#41B27C,Japonic,Japanese,Japan
+621,-3,-76,#234E94,Jivaroan,,Peru
+622,-3,-78.25,#30936B,Jivaroan,,Ecuador
+623,10.83,29.67,#BD4D62,Kadu,Central Kadu,Sudan
+624,-3.75,141.083,#4C91BD,Trans New Guinea,Karkar-Yuri,Papua New Guinea
+625,41.67,-123,#50427D,Karok,,USA
+626,41.72,44.78,#458743,Kartvelian,Georgian,Georgia
+627,41.274,41.151,#4E6262,Kartvelian,Zan,Turkey
+628,-6.5,139,#6D7EB3,Trans New Guinea,Kayagar-Kolopom,Indonesia
+629,35.25,-107.33,#785288,Keresan,Western,USA
+630,35.42,-106.67,#6D64B0,Keresan,Eastern,USA
+631,-22.2,22.4,#6D8453,Khoe,Khoe,Botswana
+632,-24,18,#619150,Khoe,Khoe,Botswana
+633,-26,22,#5F885C,Khoe,Khoe,Botswana
+634,-19,22.5,#60816B,Khoe,Khoe,Botswana
+635,-19,21,#D4AA9C,Kx'aa,,Namibia
+636,-5.22,35.43,#675E93,Khoe,Khoe,Tanzania
+637,-24,21.5,#99917E,Tuu,!Kwi,Botswana
+638,-30.34,21.82,#9C8D72,Tuu,!Kwi,South Africa
+639,37,-99,#644693,Kiowa-Tanoan,Kiowa-Towa,USA
+640,-8.583,143.25,#646878,Kiwaian,,Papua New Guinea
+641,-8,138.883,#9585D8,Trans New Guinea,Kayagar-Kolopom,Indonesia
+642,-7.5,138.583,#7D86EA,Trans New Guinea,Kayagar-Kolopom,Indonesia
+643,37,128,#54C06D,Korean,,Korea
+644,-3.083,151.5,#BF3A42,Kuot,,Papua New Guinea
+645,28.33,83.1,#629795,Kusunda,,Nepal
+646,49.5,-116,#9E4026,Kutenai,,Canada
+647,-12,-60.5,#5A4E9A,Kwaza,,Brazil
+648,-2.167,138.5,#38589A,Kwerba,Nuclear,Indonesia
+649,10,17.67,#A05D6C,Laal,,Chad
+650,-3.25,138.25,#77D2B4,Lakes Plains,Eastern,Indonesia
+651,-3.167,138,#99D1BE,Lakes Plains,Eastern,Indonesia
+652,-1.65,137.6,#A65BB9,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+653,-4.833,144.5,#7FA7CE,Lower Sepik-Ramu,Ramu,Papua New Guinea
+654,-4.333,144.133,#66A0C4,Lower Sepik-Ramu,Ramu,Papua New Guinea
+655,-4,144.583,#3EA5AC,Lower Sepik-Ramu,Ramu,Papua New Guinea
+656,-4.167,143.083,#7535AD,Lower Sepik-Ramu,Lower Sepik,Papua New Guinea
+657,-4.68,143.543,#4D3274,Lower Sepik-Ramu,Lower Sepik,Papua New Guinea
+658,-4.417,144.75,#59B3B7,Lower Sepik-Ramu,Ramu,Papua New Guinea
+659,-15,-52,#6A419D,Macro-Je,Bororo,Brazil
+660,-6.25,-48,#B05FB2,Macro-Je,Je,Brazil
+661,-6.5,-45,#927BAD,Macro-Je,Je,Brazil
+662,-22,-48,#82C0B7,Macro-Je,Je,Brazil
+663,-8,-48,#7F7DAC,Macro-Je,Je,Brazil
+664,-14,-52,#6A6DAD,Macro-Je,Je,Brazil
+665,-16,-66,#A82A64,Macro-Je,Guato,Bolivia
+666,-10,-37,#896172,Karirí,,Brazil
+667,-11.5,-57.3,#823092,Macro-Je,Rikbaktsa,Brazil
+668,-7,141.25,#614FC0,Anim,Boazi,Papua New Guinea
+669,-8,140.5,#674F91,Anim,Marind-Yaqay,Indonesia
+670,-6.583,139.333,#4B49C4,Anim,Marind-Yaqay,Indonesia
+671,-7.333,141.5,#655BBB,Anim,Boazi,Papua New Guinea
+672,-22.5,-62.583,#9D5670,Matacoan,Mataco,Argentina
+673,14.5,-91,#A95D40,Mayan,Quiche-Mam,Guatemala
+674,18.17,-92.58,#A36532,Mayan,Chol-Tzeltal,Mexico
+675,16,-91.5,#C84D3A,Mayan,Kanjobal-Chuj,Mexico
+676,22.08,-99.33,#AD6E31,Mayan,Huastecan,Mexico
+677,15.5,-91.2,#B34742,Mayan,Quiche-Mam,Guatemala
+678,15.75,-91.75,#B24447,Mayan,Kanjobal-Chuj,Guatemala
+679,15.25,-92,#AA483E,Mayan,Quiche-Mam,Guatemala
+680,16.33,-91.5,#BF4F48,Mayan,Kanjobal-Chuj,Mexico
+681,16.7,-92.7,#A7482C,Mayan,Chol-Tzeltal,Mexico
+682,14.5,-91.25,#BD4B3C,Mayan,Quiche-Mam,Guatemala
+683,21,-89,#AF4B5B,Mayan,Yucatecan,Mexico
+684,14.1,-83.6,#5E8093,Misumalpan,,Nicaragua
+685,17,-95.5,#935957,Totozoquean-Chitimacha,Totozoquean,Mexico
+686,17.3,-93.3,#746F6A,Totozoquean-Chitimacha,Totozoquean,Mexico
+687,-8.167,139.083,#1D55B7,Trans New Guinea,Asmat-Kamoro,Indonesia
+688,-4.25,145,#8541BC,Torricelli,Kombio-Arapesh,Papua New Guinea
+689,-8.583,140.75,#447C71,South New Guinea,West Morehead River,Indonesia
+690,-8.5,140.667,#627C82,Morori,,Indonesia
+691,-7.917,140.833,#3F7787,South New Guinea,Yei,Indonesia
+692,-14.5,-68,#7E5249,Moseten,,Bolivia
+693,-7.33,-62,#6976C2,Mura,,Brazil
+694,32.7,-86.1,#462BAE,Muskogean,Eastern,USA
+695,32.25,-88.5,#5F3BB0,Muskogean,Western,USA
+696,34.83,-85.17,#4B49AE,Muskogean,Eastern,USA
+697,32,-85,#3E43B8,Muskogean,Eastern,USA
+698,59,-106,#8043B3,Dene-Yeniseic,Na-Dene,Canada
+699,33.5,-108,#7741AF,Dene-Yeniseic,Na-Dene,USA
+700,41.08,-123.67,#744C97,Dene-Yeniseic,Na-Dene,USA
+701,65,-155,#7241AB,Dene-Yeniseic,Na-Dene,USA
+702,36.17,-108,#7C489A,Dene-Yeniseic,Na-Dene,USA
+703,52.5,-116,#715C98,Dene-Yeniseic,Na-Dene,Canada
+704,61.67,-114,#8058AA,Dene-Yeniseic,Na-Dene,Canada
+705,63.5,-143.5,#7A3E96,Dene-Yeniseic,Na-Dene,USA
+706,57,-133,#4C5E73,Dene-Yeniseic,Na-Dene,USA
+707,24,77.5,#46C865,Nahali,,India
+708,42.54,46.7,#156C76,Nakh-Daghestanian,Avar-Andi,Russia
+709,42.56,46.17,#196A79,Nakh-Daghestanian,Avar-Andi,Russia
+710,42.63,46.11,#2CAA7D,Nakh-Daghestanian,Avar-Andi,Russia
+711,42.16,46.23,#26946B,Nakh-Daghestanian,Tsezic,Russia
+712,42.2,45.95,#258580,Nakh-Daghestanian,Tsezic,Russia
+713,42.15,47.4,#166F79,Nakh-Daghestanian,Dargi,Russia
+714,42.17,47.11,#439F67,Nakh-Daghestanian,Lak,Russia
+715,42.07,46.86,#197385,Nakh-Daghestanian,Lezgic,Russia
+716,41.18,48.13,#26917E,Nakh-Daghestanian,Khinalug,Azerbaijan
+717,41.58,47.78,#22A76F,Nakh-Daghestanian,Lezgic,Russia
+718,41.61,47.31,#195F79,Nakh-Daghestanian,Lezgic,Russia
+719,41.65,47.16,#235B78,Nakh-Daghestanian,Lezgic,Russia
+720,41.08,47.47,#328C79,Nakh-Daghestanian,Lezgic,Azerbaijan
+721,43.13,45.54,#238472,Nakh-Daghestanian,Nakh,Russia
+722,42.97,44.77,#23A178,Nakh-Daghestanian,Nakh,Russia
+723,42.5,45.5,#227D6E,Nakh-Daghestanian,Nakh,Russia
+724,-13.5,-60,#664095,Nambikwara,,Brazil
+725,-13,-59.5,#4A388B,Nambikwara,,Brazil
+726,31.75,-91.33,#5321AF,Natchez,,USA
+727,18,32,#4E6E83,Nilo-Saharan,Nubian,Sudan
+728,8.67,13.08,#A54A8A,Niger-Kongo,Atlantic-Congo,Cameroon
+729,6,15,#D68FAA,Niger-Kongo,Atlantic-Congo,Central African Republic
+730,4.5,15,#BF7D7E,Niger-Kongo,Atlantic-Congo,Central African Republic
+731,6,21,#DF7BA2,Ubangian,Banda,Central African Republic
+732,7.8,13.1,#DC959E,Niger-Kongo,Atlantic-Congo,Cameroon
+733,8.75,11.5,#ECC7BF,Niger-Kongo,Atlantic-Congo,Nigeria
+734,10.1,14.45,#C4638B,Niger-Kongo,Atlantic-Congo,Chad
+735,4.25,21.17,#C09597,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+736,4.5,22.5,#E28195,Niger-Kongo,Atlantic-Congo,Central African Republic
+737,8.35,12.25,#BAA4B1,Niger-Kongo,Atlantic-Congo,Nigeria
+738,4,26,#8D6B6C,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+739,6.12,10.42,#D2A776,Niger-Kongo,Atlantic-Congo,Cameroon
+740,5,10.15,#B63B6E,Niger-Kongo,Atlantic-Congo,Cameroon
+741,-4,14,#BA4678,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+742,0,17.8,#CA4071,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+743,-4.67,21.3,#C83E72,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+744,-15,35,#C13C7A,Niger-Kongo,Atlantic-Congo,Malawi
+745,4.3,9.8,#C05161,Niger-Kongo,Atlantic-Congo,Cameroon
+746,4.5,12,#D74470,Niger-Kongo,Atlantic-Congo,Cameroon
+747,-5.5,28.25,#C5456B,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+748,-2,38,#CB3F72,Niger-Kongo,Atlantic-Congo,Kenya
+749,-0.75,36.75,#C33B73,Niger-Kongo,Atlantic-Congo,Kenya
+750,-8.5,26,#CC4674,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+751,-2,30,#B63E69,Niger-Kongo,Atlantic-Congo,Rwanda
+752,-5,15,#DB4D64,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+753,-18.5,20,#C13F59,Niger-Kongo,Atlantic-Congo,Namibia
+754,9.8,10.5,#C44C5C,Niger-Kongo,Atlantic-Congo,Zambia
+755,-15,23,#AD4165,Niger-Kongo,Atlantic-Congo,Zambia
+756,0.5,32.17,#B83267,Niger-Kongo,Atlantic-Congo,Uganda
+757,-12,22,#C73263,Niger-Kongo,Atlantic-Congo,Angola
+758,10.67,11.7,#A6566C,Afro-Asiatic,Chadic,Nigeria
+759,-15,38,#BA2F62,Niger-Kongo,Atlantic-Congo,Mozambique
+760,6.75,11.5,#DCB1A9,Niger-Kongo,Atlantic-Congo,Cameroon
+761,-9,31,#C9417A,Niger-Kongo,Atlantic-Congo,Zambia
+762,4.1,9.5,#D64171,Niger-Kongo,Atlantic-Congo,Cameroon
+763,-10,39,#C23F70,Niger-Kongo,Atlantic-Congo,Tanzania
+764,-20,28.5,#AD3E76,Niger-Kongo,Atlantic-Congo,Zimbabwe
+765,-18,17,#AB4558,Niger-Kongo,Atlantic-Congo,Namibia
+766,-1.75,13.6,#CB5F8C,Niger-Kongo,Atlantic-Congo,Gabon
+767,-0.92,29.83,#D0497B,Niger-Kongo,Atlantic-Congo,Uganda
+768,-1,18,#B4497B,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+769,-4,36.5,#C8385F,Niger-Kongo,Atlantic-Congo,Tanzania
+770,-26,32.5,#B04651,Niger-Kongo,Atlantic-Congo,Mozambique
+771,-0.5,30.5,#CC4074,Niger-Kongo,Atlantic-Congo,Uganda
+772,1.5,31,#C7456F,Niger-Kongo,Atlantic-Congo,Uganda
+773,-28,27,#BA445C,Niger-Kongo,Atlantic-Congo,South Africa
+774,-18,31,#B43D6D,Niger-Kongo,Atlantic-Congo,Zimbabwe
+775,-30,28,#B63A69,Niger-Kongo,Atlantic-Congo,Lesotho
+776,-6.5,39,#AB2E73,Niger-Kongo,Atlantic-Congo,Tanzania
+777,-27,32,#A44453,Niger-Kongo,Atlantic-Congo,Swaziland
+778,6,11.5,#D2A194,Niger-Kongo,Atlantic-Congo,Cameroon
+779,7.5,9,#BA9987,Niger-Kongo,Atlantic-Congo,Nigeria
+780,-17,27,#C13B6E,Niger-Kongo,Atlantic-Congo,Zambia
+781,4.8,10.5,#9B3D7F,Niger-Kongo,Atlantic-Congo,Cameroon
+782,-23.5,30,#B43B68,Niger-Kongo,Atlantic-Congo,South Africa
+783,-33,28,#A64160,Niger-Kongo,Atlantic-Congo,South Africa
+784,-11.45,34,#CD416E,Niger-Kongo,Atlantic-Congo,Malawi
+785,-30,30,#A63476,Niger-Kongo,Atlantic-Congo,South Africa
+786,4.92,8.5,#BC7871,Niger-Kongo,Atlantic-Congo,Nigeria
+787,4.75,6.5,#B78A5B,Niger-Kongo,Atlantic-Congo,Nigeria
+788,4.58,7.83,#C95F80,Niger-Kongo,Atlantic-Congo,Nigeria
+789,8,4.33,#D6AA8A,Niger-Kongo,Volta-Niger,Nigeria
+790,14.5,-2.5,#4B76A5,Niger-Kongo,Dogon,Mali
+791,9.67,4,#ACC6C7,Mande,Eastern,Nigeria
+792,7.5,-8,#8C799C,Mande,Eastern,Côte d'Ivoire
+793,6.42,5.83,#CD7593,Niger-Kongo,Atlantic-Congo,Nigeria
+794,4.75,6.75,#A15085,Niger-Kongo,Atlantic-Congo,Nigeria
+795,5.17,6.38,#E3B294,Niger-Kongo,Atlantic-Congo,Nigeria
+796,11.5,-2.5,#BCB197,Niger-Kongo,Atlantic-Congo,Burkina Faso
+797,9.58,-0.5,#948390,Niger-Kongo,Atlantic-Congo,Ghana
+798,7,1.15,#8151A8,Niger-Kongo,Atlantic-Congo,Togo
+799,14.25,-0.92,#A46F74,Niger-Kongo,Atlantic-Congo,Burkina Faso
+800,12.83,-1.25,#A1B09B,Niger-Kongo,Atlantic-Congo,Burkina Faso
+801,11.5,-5.58,#94A768,Niger-Kongo,Atlantic-Congo,Mali
+802,7,8.17,#CDD4B7,Niger-Kongo,Volta-Niger,Nigeria
+803,6,7.33,#B67B8C,Niger-Kongo,Volta-Niger,Nigeria
+804,4.92,5.67,#46758B,Ijoid,Ijo,Nigeria
+805,11.17,5.08,#A29C87,Niger-Kongo,Atlantic-Congo,Nigeria
+806,11,30.17,#AF2974,Talodi-Heiban,Heiban,Sudan
+807,5.3,-8,#917D73,Niger-Kongo,Atlantic-Congo,Liberia
+808,11,-5,#9CA6B7,Siamou,,Burkina Faso
+809,6.5,-1.25,#B363AC,Niger-Kongo,Atlantic-Congo,Ghana
+810,5.9,-2.9,#C57CA3,Niger-Kongo,Atlantic-Congo,Côte d'Ivoire
+811,7.5,-5,#B7919C,Niger-Kongo,Atlantic-Congo,Côte d'Ivoire
+812,5.5,-5.5,#9858A3,Niger-Kongo,Atlantic-Congo,Côte d'Ivoire
+813,6.1,1.18,#C17693,Niger-Kongo,Volta-Niger,Ghana
+814,6.42,2.17,#C89DAF,Niger-Kongo,Volta-Niger,Benin
+815,5.67,-0.17,#A96F8E,Niger-Kongo,Atlantic-Congo,Ghana
+816,7.33,0.5,#B361A0,Niger-Kongo,Atlantic-Congo,Ghana
+817,7.2,0.2,#A3549B,Niger-Kongo,Atlantic-Congo,Ghana
+818,12,-15,#B7247E,Niger-Kongo,Atlantic-Congo,Guinea-Bissau
+819,12.25,-13,#BA246D,Niger-Kongo,Atlantic-Congo,Senegal
+820,13,-16,#C92D6F,Niger-Kongo,Atlantic-Congo,Senegal
+821,11.5,-12.5,#8C356D,Niger-Kongo,Atlantic-Congo,Guinea
+822,14.92,-16.92,#8B5D5C,Niger-Kongo,Atlantic-Congo,Senegal
+823,15.25,-16.5,#DB5A55,Niger-Kongo,Atlantic-Congo,Senegal
+824,5.3,-4,#BE9CA0,Niger-Kongo,Atlantic-Congo,Côte d'Ivoire
+825,9.5,7,#C67FA9,Niger-Kongo,Volta-Niger,Nigeria
+826,9.67,8.83,#F3809C,Niger-Kongo,Atlantic-Congo,Nigeria
+827,9.65,9.25,#C75C84,Niger-Kongo,Atlantic-Congo,Nigeria
+828,6.92,10.42,#C3A0A8,Niger-Kongo,Atlantic-Congo,Nigeria
+829,8.83,-10.17,#D06276,Niger-Kongo,Atlantic-Congo,Guinea
+830,8.67,-13.08,#AC756A,Niger-Kongo,Atlantic-Congo,Sierra Leone
+831,12.5,-7.5,#849A80,Mande,Central-West,Mali
+832,7,-10,#9A6C80,Mande,Central-West,Liberia
+833,13,-15.67,#8A967E,Mande,Central-West,Senegal
+834,13,-15,#789D88,Mande,Central-West,Gambia
+835,13,-10,#73A291,Mande,Central-West,Mali
+836,8,-11.5,#938D8D,Mande,Central-West,Sierra Leone
+837,14.45,-11.43,#949391,Mande,Northwest,Senegal
+838,10,-13,#8991B7,Mande,Central-West,Guinea
+839,7.05,-11.33,#AA96AF,Mande,Central-West,Liberia
+840,10.67,34.5,#75436D,Nilo-Saharan,Berta,Ethiopia
+841,10.2,17,#BB709E,Nilo-Saharan,Central_Sudanic,Chad
+842,7.5,28,#E88E93,Nilo-Saharan,Central_Sudanic,Sudan
+843,8,17.5,#A46EB4,Nilo-Saharan,Central_Sudanic,Chad
+844,8.67,16,#9E71AF,Nilo-Saharan,Central_Sudanic,Chad
+845,8.5,25.25,#BE6AB2,Nilo-Saharan,Central_Sudanic,Sudan
+846,10.75,29.75,#B45093,Nilo-Saharan,Dajuic,Sudan
+847,13,25,#4B9784,Nilo-Saharan,Fur,Sudan
+848,3.75,34.17,#717A53,Nilo-Saharan,Kuliak,Uganda
+849,2.5,34.75,#8B5E54,Nilo-Saharan,Kuliak,Uganda
+850,14.5,37,#67648B,Nilo-Saharan,Kunama,Eritrea
+851,13.75,20.83,#4D5E98,Nilo-Saharan,Maban,Chad
+852,2.5,27,#A16C7D,Nilo-Saharan,Central_Sudanic,Democratic Republic of the Congo
+853,3.08,30.92,#8575AF,Nilo-Saharan,Central_Sudanic,Democratic Republic of the Congo
+854,3.45,31.17,#A47FAF,Nilo-Saharan,Central_Sudanic,Uganda
+855,16,37.5,#526785,Nara,,Eritrea
+856,3.8,31,#D29180,Nilo-Saharan,Nilotic,South Sudan
+857,8.5,28,#8E9479,Nilo-Saharan,Nilotic,South Sudan
+858,3,34.17,#BD456E,Nilo-Saharan,Nilotic,Uganda
+859,2,33,#C24D63,Nilo-Saharan,Nilotic,Uganda
+860,-0.4,34.4,#BE2E5F,Nilo-Saharan,Nilotic,Kenya
+861,-3,36,#8F344D,Nilo-Saharan,Nilotic,Tanzania
+862,8.6,33.3,#7E5B72,Nilo-Saharan,Nilotic,Sudan
+863,1.33,34.58,#88247C,Nilo-Saharan,Nilotic,Uganda
+864,6.19,31.6,#A35176,Nilo-Saharan,Nilotic,Sudan
+865,3,35,#8E3874,Nilo-Saharan,Nilotic,Kenya
+866,12.5,31,#326F72,Nilo-Saharan,Nubian,Sudan
+867,23,33,#365B91,Nilo-Saharan,Nubian,Egypt
+868,12.1,29.4,#446D86,Nilo-Saharan,Nyimang,Sudan
+869,11.25,14.25,#5A556F,Nilo-Saharan,Saharan,Cameroon
+870,21,17,#514A76,Nilo-Saharan,Saharan,Chad
+871,7.2,36.25,#427775,Shabo,,Ethiopia
+872,16.75,3.5,#BF927E,Nilo-Saharan,Songhai,Mali
+873,14,2,#AB9696,Nilo-Saharan,Songhai,Niger
+874,7.6,34.95,#707953,Nilo-Saharan,Surmic,Ethiopia
+875,6,33.75,#91625E,Nilo-Saharan,Surmic,Sudan
+876,5.58,36.08,#804D81,Nilo-Saharan,Surmic,Ethiopia
+877,13.8,21.5,#4E488F,Nilo-Saharan,Tamaic,Chad
+878,14.4,22,#317C84,Nilo-Saharan,Tamaic,Chad
+879,-3.083,140.167,#4E56CD,Trans New Guinea,Nimboran,Indonesia
+880,53.333,142,#5C7EAC,Chukotko-Kamchatkan,Nivkh,Russia
+881,43,41.03,#554C7A,North-west Caucasus,Abaza-Abkhaz,Georgia
+882,44.1,39.08,#274B90,North-west Caucasus,Circassian,Russia
+883,43.52,43.63,#343C8D,North-west Caucasus,Circassian,Russia
+884,43.6,39.73,#27457A,North-west Caucasus,Circassian,Russia
+885,-5.225,142.23,#497389,Trans New Guinea,Oksapmin,Papua New Guinea
+886,44.67,-123.93,#7D525C,Alsean,,USA
+887,43.5,-124.17,#734D3A,Coos,,USA
+888,44,-124,#5F7B26,Oregon Coast,,USA
+889,17,-99,#CE6D51,Otomanguean,Mixtecan,Mexico
+890,21,-99.5,#C96149,Otomanguean,Otopamean,Mexico
+891,18,-96.85,#BC246F,Otomanguean,Popolocan,Mexico
+892,16.5,-97.25,#CB5443,Otomanguean,Zapotecan,Mexico
+893,16.5,-95,#D13865,Otomanguean,Zapotecan,Mexico
+894,3,-76,#257895,Paez,,Colombia
+895,-10.8,-73.5,#2B44A6,Panoan,Main,Peru
+896,-7,-74,#2C777A,Panoan,Main,Peru
+897,-9.1,-75.5,#37608B,Panoan,Main,Peru
+898,-12.25,-65,#5656C5,Panoan,Southern,Bolivia
+899,-4.25,-70.15,#2E6AA5,Panoan,Northern,Peru
+900,-4,-71.5,#543FAD,Panoan,Northern,Peru
+901,-11,-70,#486AAF,Panoan,Main,Peru
+902,-7,-75,#398491,Panoan,Main,Peru
+903,-8,-73,#4C6DAD,Panoan,Main,Brazil
+904,-3.5,-72,#8A6163,Yagua,,Peru
+905,36.55,-121.93,#676E38,Yok-Utian,Costanoan,USA
+906,36.83,-121.5,#68703C,Yok-Utian,Costanoan,USA
+907,42.5,-121.5,#4B772F,Oregon Penutian,,USA
+908,40,-120.67,#14856C,Maiduan,,USA
+909,39.33,-120.83,#33978B,Maiduan,,USA
+910,37.5,-120,#47723A,Miwok,Eastern,USA
+911,46,-117,#56523B,Sahaptian,,USA
+912,45.67,-120,#514B3F,Sahaptian,,USA
+913,55.33,-127.75,#936261,Tsimshian,,Canada
+914,55,-130,#A2515C,Tsimshian,,Canada
+915,52.5,-129,#976054,Tsimshian,,USA
+916,39,-122.33,#1F5D9C,Wintuan,,USA
+917,41,-122.5,#3C5E87,Wintuan,,USA
+918,36.58,-119.08,#4EB858,Yok-Utian,Yokuts,USA
+919,35.3,-118.65,#5AB143,Yok-Utian,Yokuts,USA
+920,-13.5,-72,#258D69,Quechuan,II-C,Peru
+921,-6,-76,#308863,Quechuan,I,Peru
+922,0.33,-78.33,#32974F,Quechuan,II-B,Ecuador
+923,-10.5,166.5,#C93F92,Oceanic,TeMotu,Solomons
+924,-11.667,166.75,#D48E99,Oceanic,TeMotu,Solomons
+925,5,-67,#3F7EA9,Sáliba-Piaroa,,Colombia
+926,6,-67.5,#5D6E91,Sáliba-Piaroa,,Colombia
+927,36,-121,#6B315F,Salinan,,USA
+928,52.5,-126.67,#A2414A,Salish,Bella Coola,Canada
+929,49.75,-125,#883C35,Salish,Coast,Canada
+930,49.5,-121.85,#83253F,Salish,Coast,Canada
+931,49.67,-123.17,#803F2D,Salish,Coast,Canada
+932,47.33,-117,#9A4258,Salish,Interior,USA
+933,50.75,-122,#9F3B2F,Salish,Interior,Canada
+934,52,-120,#7D483A,Salish,Interior,Canada
+935,49,-122,#A33C2F,Salish,Interior,Canada
+936,-3.667,141.167,#656ACB,Trans New Guinea,Border,Papua New Guinea
+937,-3.7,142.05,#3868AE,Trans New Guinea,Border,Papua New Guinea
+938,-2.583,140.633,#524DAD,Trans New Guinea,Sentani,Indonesia
+939,-2.417,140.333,#3665B4,Trans New Guinea,Sentani,Indonesia
+940,-3.75,143.083,#2FB292,Sepik,Ndu,Papua New Guinea
+941,-3.833,142.833,#269989,Sepik,Ndu,Papua New Guinea
+942,-4.25,143.25,#209B91,Sepik,Ndu,Papua New Guinea
+943,-4.083,142.667,#59BB8A,Sepik,Nukuma,Papua New Guinea
+944,-3.5,141.917,#4E8E9C,Sepik,Ram,Papua New Guinea
+945,-4.667,143.25,#605E72,Sepik,Sepik Hill,Papua New Guinea
+946,-4.083,142.583,#31C386,Sepik,Tama,Papua New Guinea
+947,-4,141.167,#8C98C3,Sepik,Abau,Papua New Guinea
+948,-4.25,142.417,#6389BB,Sepik,Wogamusin-Chenapian,Papua New Guinea
+949,-3.833,141.75,#6A8EB9,Sepik,Yellow River,Papua New Guinea
+950,26,100,#90C08D,Tibeto-Burman,Bai,China
+951,26.75,92,#23A58F,Tibeto-Burman,Bodo-Garo,India
+952,26,90,#549BA5,Tibeto-Burman,Bodo-Garo,India
+953,24.33,92.5,#2996AC,Tibeto-Burman,Bodo-Garo,India
+954,27,95.5,#4692B0,Tibeto-Burman,Konyak,India
+955,26.75,87.33,#30657C,Tibeto-Burman,Kiranti,Nepal
+956,27,87.25,#1E569E,Tibeto-Burman,Kiranti,Nepal
+957,30.17,80.5,#3AAE72,Tibeto-Burman,Western Himalayan,India
+958,27.3,86.8,#2E5696,Tibeto-Burman,Kiranti,Nepal
+959,28.75,83.5,#30CD8B,Tibeto-Burman,Bodic,Nepal
+960,28.05,83.92,#2A9990,Tibeto-Burman,Chepang,Nepal
+961,28.333,84.333,#4BB89E,Tibeto-Burman,Bodic,Nepal
+962,27.25,86,#419388,Tibeto-Burman,Kiranti,Nepal
+963,28.5,82.75,#227785,Tibeto-Burman,Kham,Nepal
+964,31.5,78.25,#359D5F,Tibeto-Burman,Western Himalayan,India
+965,34,78,#2E9CA7,Tibeto-Burman,Bodic,India
+966,27.167,87.75,#3F7182,Tibeto-Burman,Kiranti,Nepal
+967,28,83,#3E9D84,Tibeto-Burman,Magar,Nepal
+968,28.68,84.2,#41ACAA,Tibeto-Burman,Bodic,Nepal
+969,27.58,86.667,#3BB691,Tibeto-Burman,Newaric,Nepal
+970,27.5,85.333,#37A18E,Tibeto-Burman,Newaric,Nepal
+971,27.833,86.833,#52B7AA,Tibeto-Burman,Bodic,Nepal
+972,27.67,85.5,#49C89B,Tibeto-Burman,Bodic,Nepal
+973,28.75,83.69,#52B59E,Tibeto-Burman,Bodic,Nepal
+974,27.75,86,#2F9C81,Tibeto-Burman,Western Himalayan,Nepal
+975,29.65,91.14,#4CB4B3,Tibeto-Burman,Bodic,China
+976,27.07,92,#3BBCB5,Tibeto-Burman,Bodic,Bhutan
+977,20.3,99.6,#94CCBA,Tibeto-Burman,Lolo-Burmese,Thailand
+978,19.75,100,#A7C9C8,Tibeto-Burman,Lolo-Burmese,Thailand
+979,20,96,#61B3AD,Tibeto-Burman,Lolo-Burmese,Myanmar
+980,20.75,100.75,#9BBFB1,Tibeto-Burman,Lolo-Burmese,Myanmar
+981,19.5,98.75,#8BC9AC,Tibeto-Burman,Lolo-Burmese,Myanmar
+982,24.9,97.5,#8FC6AC,Tibeto-Burman,Lolo-Burmese,Myanmar
+983,22.333,114,#AADA82,Tibeto-Burman,Sinitic,China
+984,24.25,116.5,#ACE375,Tibeto-Burman,Sinitic,China
+985,24,102,#B2D47B,Tibeto-Burman,Sinitic,China
+986,40,116.75,#A1D67C,Tibeto-Burman,Sinitic,China
+987,28,98,#A2E7BA,Tibeto-Burman,Jingpho,Myanmar
+988,17,98,#EAC4AF,Tibeto-Burman,Karen,Myanmar
+989,14.333,98.3,#E1D9B9,Tibeto-Burman,Karen,Myanmar
+990,16.9,94.9,#E9D7B2,Tibeto-Burman,Karen,Myanmar
+991,19.89,98.34,#CCC2C5,Tibeto-Burman,Karen,Myanmar
+992,25.667,94.5,#8EBEDD,Tibeto-Burman,Kuki-Chin-Naga,India
+993,27,95,#61AFBA,Tibeto-Burman,Kuki-Chin-Naga,India
+994,23.333,93.667,#8BA8C5,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+995,22.667,93.667,#7795AC,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+996,26.5,94.25,#3A9C93,Tibeto-Burman,Kuki-Chin-Naga,India
+997,24.75,94,#57979E,Tibeto-Burman,Meithei,India
+998,26.333,93.5,#2DA6B3,Tibeto-Burman,Mikir,India
+999,23.167,92.833,#75A4C0,Tibeto-Burman,Kuki-Chin-Naga,India
+1000,23.2,94.1,#6B74B0,Tibeto-Burman,Kuki-Chin-Naga,India
+1001,27,88.2,#62BB92,Tibeto-Burman,Bodic,India
+1002,27.5,100,#AACAB9,Tibeto-Burman,Lolo-Burmese,China
+1003,28,98.333,#4D9999,Tibeto-Burman,Nungish,China
+1004,27.5,97.5,#84DDAD,Tibeto-Burman,Nungish,Myanmar
+1005,28,101,#5EA7CF,Tibeto-Burman,Qiangic,China
+1006,30.9,103.85,#448C98,Tibeto-Burman,Qiangic,China
+1007,32.25,-90,#583AD9,Siouan,Western,USA
+1008,45.5,-108,#6C31B9,Siouan,Western,USA
+1009,48,-110,#5912B4,Siouan,Western,USA
+1010,45,-102,#A157B0,Siouan,Western,USA
+1011,46,-100,#4840B5,Siouan,Western,USA
+1012,42,-97.25,#9C36BD,Siouan,Western,USA
+1013,37,-94,#745EAB,Siouan,Western,USA
+1014,-2.8,141.583,#A56BC6,Skou,Central,Papua New Guinea
+1015,-2.917,141.833,#855AC6,Skou,Central,Papua New Guinea
+1016,-2.9,141.4,#9649B5,Skou,South,Papua New Guinea
+1017,-2.667,141.25,#A681BA,Skou,West,Papua New Guinea
+1018,-2.667,140.917,#9065AF,Skou,West,Indonesia
+1019,-2.667,141.167,#9080A3,Skou,West,Papua New Guinea
+1020,-3.083,142.083,#A94A98,Skou,East,Papua New Guinea
+1021,-7.75,156.667,#975A4D,Solomons East Papuan,,Solomons
+1022,-9.167,159.833,#829080,Solomons East Papuan,,Solomons
+1023,-9,159,#69559C,Solomons East Papuan,,Solomons
+1024,17.08,-99,#A2567A,Tlapanec,,Mexico
+1025,-5.083,152,#BE5593,Sulka,,Papua New Guinea
+1026,1,-79.5,#5F3769,Esmeraldeño,,Ecuador
+1027,-12.333,-67.75,#485590,Tacanan,Araona-Tacana,Bolivia
+1028,-11,-65.9,#A296C7,Tacanan,Ese'ejja,Bolivia
+1029,-12,-67.75,#5B7788,Tacanan,Araona-Tacana,Bolivia
+1030,26,109,#DECA8D,Tai-Kadai,South,China
+1031,19,103,#DDC993,Tai-Kadai,South,Laos
+1032,24.25,109,#DCD38E,Tai-Kadai,South,China
+1033,21.917,106.5,#E8D18E,Tai-Kadai,South,Vietnam
+1034,22,98,#DDD696,Tai-Kadai,South,Myanmar
+1035,15.583,100.333,#E6C38A,Tai-Kadai,South,Thailand
+1036,26,106,#F5DE8E,Tai-Kadai,South,China
+1037,42.5,-123,#49308E,Takelma,,USA
+1038,19,-102,#5B705A,P'urhépecha,,Mexico
+1039,-6.88,145.08,#48A3B6,Papuan Gulf,Tua River,Papua New Guinea
+1040,16.3,-95.5,#964240,Tequistlatecan,,Mexico
+1041,-3.85,-70.44,#555672,Ticuna,,Brazil
+1042,6.5,-70.5,#975598,Guahiban,,Colombia
+1043,30.25,-82.5,#2B4364,Timucua,,USA
+1044,14.75,-85,#5B7670,Jicaque,,Honduras
+1045,30,-95,#35528D,Tonkawa,,USA
+1046,-2.667,139.917,#317B9B,Orya,,Indonesia
+1047,-3.667,142.5,#B16A7D,Torricelli,Kombio-Arapesh,Papua New Guinea
+1048,-3.667,142.833,#BB5B9F,Torricelli,Kombio-Arapesh,Papua New Guinea
+1049,-3.5,142.083,#C75C9D,Torricelli,Central,Papua New Guinea
+1050,-3.25,142.167,#B956AF,Torricelli,Wapei,Papua New Guinea
+1051,-3.25,142.5,#B35F94,Torricelli,Wapei,Papua New Guinea
+1052,-3.417,141.833,#858D81,Torricelli,West Wapei,Papua New Guinea
+1053,20.5,-97.2,#A12D4A,Totozoquean-Chitimacha,Totozoquean,Mexico
+1054,-6.917,145.833,#2B60CD,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1055,-7.667,146.167,#4237A9,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1056,-5.3,138.3,#5D5AA4,Trans New Guinea,Asmat-Kamoro,Indonesia
+1057,-4.333,136,#2D3FAA,Trans New Guinea,Asmat-Kamoro,Indonesia
+1058,-6.333,140,#717EB2,Trans New Guinea,Awyu-Dumut,Indonesia
+1059,-5.75,140,#6773CB,Trans New Guinea,Awyu-Dumut,Indonesia
+1060,-5.417,140.45,#2C879A,Trans New Guinea,Awyu-Dumut,Indonesia
+1061,-6,139.25,#4D8BB8,Trans New Guinea,Awyu-Dumut,Indonesia
+1062,-5.5,140.5,#3198AC,Trans New Guinea,Awyu-Dumut,Indonesia
+1063,-8.167,147.917,#4AAAB1,Trans New Guinea,Binanderean,Papua New Guinea
+1064,-8,147.25,#2873B8,Trans New Guinea,Binanderean,Papua New Guinea
+1065,-8.75,148.25,#5A83B9,Trans New Guinea,Binanderean,Papua New Guinea
+1066,-7.75,147.5,#529EA0,Trans New Guinea,Binanderean,Papua New Guinea
+1067,-6.25,144.833,#556CCB,Trans New Guinea,Chimbu,Papua New Guinea
+1068,-5.917,144.917,#416FB8,Trans New Guinea,Chimbu,Papua New Guinea
+1069,-6.283,145,#5A6FC9,Trans New Guinea,Chimbu,Papua New Guinea
+1070,-6.667,145.583,#5681A1,Trans New Guinea,Chimbu,Papua New Guinea
+1071,-4,138.917,#4650C1,Trans New Guinea,Western Trans New Guinea,Indonesia
+1072,-3.75,139.25,#476CC3,Trans New Guinea,Western Trans New Guinea,Indonesia
+1073,-5.417,142.5,#4CA7DF,Trans New Guinea,Duna,Papua New Guinea
+1074,-6.25,145.917,#096895,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1075,-6.75,145.667,#137F76,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1076,-6.75,145.5,#2E5E87,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1077,-6.333,146,#22618C,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1078,-6.083,145.4,#115C98,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1079,-6.333,145.3,#1B6B87,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1080,-6.05,145.25,#205FAA,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1081,-6.583,145.917,#1C7088,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1082,-6.5,146.083,#106E89,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1083,-6.417,145.417,#286388,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1084,-6.333,143.75,#3B9691,Trans New Guinea,Engan,Papua New Guinea
+1085,-5.5,144.083,#498AA9,Trans New Guinea,Engan,Papua New Guinea
+1086,-6.5,147.833,#3E55BB,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1087,-6.5,147,#486BAC,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1088,-5.75,146.5,#546DB6,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1089,-6.083,147.583,#504AA0,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1090,-5.833,145.917,#3D729E,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1091,-6,147.25,#196AB7,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1092,-8.083,146.917,#3A66B4,Trans New Guinea,Goilala,Papua New Guinea
+1093,-9.417,148,#55809D,Southeast Papuan,Owen Stanley Ranges,Papua New Guinea
+1094,-9.083,147.5,#4A61C0,Southeast Papuan,Owen Stanley Ranges,Papua New Guinea
+1095,-9.5,147.333,#5666C2,Southeast Papuan,Owen Stanley Ranges,Papua New Guinea
+1096,-9.333,147.083,#4668D2,Southeast Papuan,Owen Stanley Ranges,Papua New Guinea
+1097,-9.083,148.167,#3D869C,Southeast Papuan,Owen Stanley Ranges,Papua New Guinea
+1098,-6.417,143.167,#2C78C5,Papuan Gulf,Kikorian,Papua New Guinea
+1099,-6.333,143.5,#386AB5,Papuan Gulf,Kikorian,Papua New Guinea
+1100,-5.25,145.75,#806E9D,Trans New Guinea,Madang,Papua New Guinea
+1101,-4.667,145,#5268AD,Trans New Guinea,Madang,Papua New Guinea
+1102,-5.25,144.583,#578AB5,Trans New Guinea,Madang,Papua New Guinea
+1103,-5.167,144.417,#6576B6,Trans New Guinea,Madang,Papua New Guinea
+1104,-4.25,144.917,#416FB5,Trans New Guinea,Madang,Papua New Guinea
+1105,-5.5,146,#5984BF,Trans New Guinea,Madang,Papua New Guinea
+1106,-5.75,145.3,#59909D,Trans New Guinea,Madang,Papua New Guinea
+1107,-4.833,145.333,#704D9C,Trans New Guinea,Madang,Papua New Guinea
+1108,-4.583,145.917,#5664AD,Trans New Guinea,Madang,Papua New Guinea
+1109,-10.25,149,#2F56A5,Southeast Papuan,Owen Stanley Ranges,Papua New Guinea
+1110,-3.5,134,#7668B0,Tanah Merah-Mairasi,Etna Bay,Indonesia
+1111,-4.667,140,#3E6696,Trans New Guinea,Momuna-Mek,Indonesia
+1112,-4.333,139.5,#3072BD,Trans New Guinea,Momuna-Mek,Indonesia
+1113,-5.5,141,#5D59CE,Trans New Guinea,Ok,Indonesia
+1114,-4.917,141.75,#3247A3,Trans New Guinea,Ok,Papua New Guinea
+1115,-8.3,125.133,#9B63CC,Timor-Alor-Pantar,Alor-Pantar,Indonesia
+1116,-8.39,124.67,#A75FE1,Timor-Alor-Pantar,Alor-Pantar,Indonesia
+1117,-8.083,127.167,#91ADD1,Timor-Alor-Pantar,Mainland,Indonesia
+1118,-8.3,125,#9658D3,Timor-Alor-Pantar,Alor-Pantar,Indonesia
+1119,-8.25,124.833,#A562E6,Timor-Alor-Pantar,Alor-Pantar,Indonesia
+1120,-3.917,136.25,#5D5FB2,Trans New Guinea,Western Trans New Guinea,Indonesia
+1121,-3.583,136.833,#1F4D89,Trans New Guinea,Western Trans New Guinea,Indonesia
+1122,-13.5,-53,#58A384,Trumai,,Brazil
+1123,-0.25,-70.75,#3C7B7F,Tucanoan,East,Colombia
+1124,0.45,-71,#315B9F,Tucanoan,East,Colombia
+1125,1.33,-70.5,#335D5B,Tucanoan,Central,Colombia
+1126,1,-75.5,#3F5B86,Tucanoan,West,Colombia
+1127,-0.2,-76.5,#308278,Tucanoan,West,Ecuador
+1128,-0.25,-76,#1E6877,Tucanoan,West,Colombia
+1129,0.95,-70.1,#237F81,Tucanoan,North,Brazil
+1130,0.4,-70.2,#3D62AE,Tucanoan,East,Colombia
+1131,32.67,-91,#4D49A2,Tunica,,USA
+1132,-11,-61,#6F3F8E,Tupian,Mondé,Brazil
+1133,-7,-57,#893FA7,Tupian,Munduruku,Brazil
+1134,-9,-62.25,#6E4FAB,Tupian,Ramarama,Brazil
+1135,-12.5,-61.5,#7876AD,Tupian,Tupari,Brazil
+1136,-5,-74.3,#6D7265,Tupian,Tupi-Guarani,Peru
+1137,-5,-45,#9434A3,Tupian,Tupi-Guarani,Brazil
+1138,-23,-56,#996085,Tupian,Tupi-Guarani,Paraguay
+1139,-14.8,-62.5,#6B60AC,Tupian,Tupi-Guarani,Bolivia
+1140,-2,-47,#6D679B,Tupian,Tupi-Guarani,Brazil
+1141,59,25,#5BB02A,Uralic,Finnic,Estonia
+1142,60.2,24.95,#54A327,Uralic,Finnic,Finland
+1143,59.5,54.5,#2CA954,Uralic,Permic,Russia
+1144,65,55,#319345,Uralic,Permic,Russia
+1145,57,48,#11895C,Uralic,Mari,Russia
+1146,53,45.5,#2E9B34,Uralic,Mordvinic,Russia
+1147,70,28,#3FBD4D,Uralic,Sami,Finland
+1148,52,92,#19884F,Uralic,Samoyedic,Russia
+1149,70,76,#1B9344,Uralic,Samoyedic,Russia
+1150,71,93,#28726B,Uralic,Samoyedic,Russia
+1151,65,82,#18846A,Uralic,Samoyedic,Russia
+1152,47,19,#5BA22E,Uralic,Ugric,Hungary
+1153,64,69,#61A665,Uralic,Ugric,Russia
+1154,62,62,#2CA74B,Uralic,Ugric,Russia
+1155,-4,-75,#525E81,Urarina,,Peru
+1156,13.85,-89.55,#A9401A,Uto-Aztecan,South,El Salvador
+1157,31.67,-111.25,#63875C,Uto-Aztecan,South,USA
+1158,23.333,-99,#634147,Uto-Aztecan,South,Mexico
+1159,22,-104,#326182,Uto-Aztecan,South,Mexico
+1160,36,-110,#296875,Uto-Aztecan,North,USA
+1161,34.33,-115.17,#3E5C5A,Uto-Aztecan,North,USA
+1162,33.5,-101.5,#437059,Uto-Aztecan,North,USA
+1163,36,-117.5,#42497A,Uto-Aztecan,North,USA
+1164,38,-119,#525B62,Uto-Aztecan,North,USA
+1165,40.75,-118,#415863,Uto-Aztecan,North,USA
+1166,41,-115.5,#477275,Uto-Aztecan,North,USA
+1167,37,-117,#477F6B,Uto-Aztecan,North,USA
+1168,39,-109,#445D7B,Uto-Aztecan,North,USA
+1169,33.75,-117.75,#434A66,Uto-Aztecan,North,USA
+1170,33.33,-117.17,#448376,Uto-Aztecan,North,USA
+1171,27.75,-108.67,#6E4F80,Uto-Aztecan,South,Mexico
+1172,27.5,-107.5,#3D5B5B,Uto-Aztecan,South,Mexico
+1173,19,-98.25,#66596C,Uto-Aztecan,South,Mexico
+1174,32,-112,#834F42,Uto-Aztecan,South,USA
+1175,29,-111,#54815A,Uto-Aztecan,South,Mexico
+1176,-0.15,-67.05,#6BA08B,Nadahup,Vaupés,Brazil
+1177,0.167,-69.25,#4291A0,Nadahup,Vaupés,Brazil
+1178,-0.2,-67,#66657A,Nadahup,Nadëb,Brazil
+1179,54,-128.75,#AD3D41,Wakashan,North,Canada
+1180,51,-127,#874F4B,Wakashan,North,Canada
+1181,48.33,-124.67,#926A58,Wakashan,South,USA
+1182,49.67,-126.67,#905A51,Wakashan,South,Canada
+1183,-1,-76.5,#52859A,Waorani,,Ecuador
+1184,38.5,-122.5,#498C95,Wappo-Yukian,,USA
+1185,9,-62,#357E82,Warao,,Venezuela
+1186,39.25,-120,#425A95,Washo,,USA
+1187,-2.8,132.35,#5E54B3,Trans New Guinea,Bomberai,Indonesia
+1188,-2.833,132.75,#8258D1,Mor,,Indonesia
+1189,-1,134,#BD7DC9,Hatam,,Indonesia
+1190,-0.833,133,#C978AF,Mpur,,Indonesia
+1191,2,128.417,#C243B3,West Papuan,North Halmahera,Indonesia
+1192,1,127.417,#D3509D,West Papuan,North Halmahera,Indonesia
+1193,0.833,127.333,#CC8DAB,West Papuan,North Halmahera,Indonesia
+1194,0,127.75,#CB6C8D,West Papuan,North Halmahera,Indonesia
+1195,0.75,127.75,#AF54AF,West Papuan,North Halmahera,Indonesia
+1196,0.333,127.417,#D351A6,West Papuan,Birds Head,Indonesia
+1197,-0.833,132,#D4B6A8,West Papuan,Birds Head,Indonesia
+1198,-1.25,132.667,#CF749E,West Papuan,Birds Head,Indonesia
+1199,-9.92,144.08,#53D676,Eastern Trans Fly,,Australia
+1200,-3.833,141.333,#456FAC,Yale,,Papua New Guinea
+1201,-54.94,-67.62,#445D71,Yahgan,,Chile
+1202,4,-64,#718BAD,Yanomami,,Venezuela
+1203,-9.5,148.583,#387EAC,Southeast Papuan,Owen Stanley Ranges,Papua New Guinea
+1204,-1.875,136.22,#8661BB,West Papuan,Yapen,Indonesia
+1205,-11,154,#5640AA,Yeletnye,,Papua New Guinea
+1206,64,87,#817160,Dene-Yeniseic,Yeniseic,Russia
+1207,35.75,-86.75,#733DBD,Yuchi,,USA
+1208,65.75,150.833,#348771,Yukaghir,,Russia
+1209,-20.5,-59.25,#876777,Zamucoan,,Paraguay
+1210,-3,-74,#786F6B,Zaparoan,Iquito-Cahuarano,Peru
+1211,-2,-76.33,#608569,Zaparoan,Zaparo,Ecuador
+1212,35.08,-108.83,#539568,Zuni,,USA
+1213,-4,137.5,#3665BE,Trans New Guinea,Western Trans New Guinea,Indonesia
+1214,-3.75,138.2,#4040C9,Trans New Guinea,Western Trans New Guinea,Indonesia
+1215,-5.667,151,#B03489,Ata,,Papua New Guinea
+1216,-8.667,157.5,#5E6276,Touo,,Solomons
+1217,-3.75,35.17,#714950,Hadza,,Tanzania
+1218,48,-55,#254A6D,Beothuk,,Canada
+1219,26.5,87.35,#28756B,Dravidian,North,Nepal
+1220,22.833,121.083,#BD8337,Austronesian,Puyuma,Taiwan
+1221,50,70,#209C6E,Turkic,North-west,Kazakhstan
+1222,-2.333,136.667,#B84BB0,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+1223,28.667,84.08,#36C68C,Tibeto-Burman,Bodic,Nepal
+1224,31,121,#A5EF75,Tibeto-Burman,Sinitic,China
+1225,32.75,77.75,#1DC374,Tibeto-Burman,Bodic,India
+1226,32,77.55,#34BF5C,Tibeto-Burman,Western Himalayan,India
+1227,32.6,77.2,#2AB483,Tibeto-Burman,Western Himalayan,India
+1228,24.5,118,#B0E979,Tibeto-Burman,Sinitic,China
+1229,-4.833,152.25,#8A4296,Baining,,Papua New Guinea
+1230,-1.72,142.833,#BA625B,Oceanic,Admiralties,Papua New Guinea
+1231,-10.75,123.25,#CA526C,Malayo-Polynesian,Timoric,Indonesia
+1232,-6.083,134.5,#B1498D,Malayo-Polynesian,Southeast Maluku,Indonesia
+1233,18.65,109.4,#EBCE98,Tai-Kadai,South,China
+1234,-8.6,142.1,#506E8A,South New Guinea,East Morehead River,Papua New Guinea
+1235,27.4,87.1,#2C7386,Tibeto-Burman,Kiranti,Nepal
+1236,32.1,100.6,#486690,Tibeto-Burman,Qiangic,China
+1237,-16.53,167.123,#CD608B,Oceanic,Southern Oceanic,Vanuatu
+1238,-15.775,168.158,#99647F,Oceanic,Southern Oceanic,Vanuatu
+1239,-8.417,124.6,#A864BE,Timor-Alor-Pantar,Alor-Pantar,Indonesia
+1240,27.83,91,#3FB7AD,Tibeto-Burman,Bodic,Bhutan
+1241,-4.5,131.667,#CD6AA8,Malayo-Polynesian,Central Maluku,Indonesia
+1242,-2.833,132.083,#C687C5,Malayo-Polynesian,North Bomberai,Indonesia
+1243,-3.5,132.833,#AC67B0,Malayo-Polynesian,North Bomberai,Indonesia
+1244,-3.6,132.667,#74AAB3,Trans New Guinea,Bomberai,Indonesia
+1245,-13.25,166.5,#BD7B94,Oceanic,Southern Oceanic,Vanuatu
+1246,-2.667,132.5,#BE96C3,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+1247,-1.75,132.167,#BD6DBC,West Papuan,Birds Head,Indonesia
+1248,-5.417,159.65,#CDB983,Oceanic,Central Pacific,Solomons
+1249,60.5,-145,#5B4A9E,Dene-Yeniseic,Na-Dene,USA
+1250,-0.5,113,#D17262,Malayo-Polynesian,Barito,Indonesia
+1251,27.5,89.5,#399D98,Tibeto-Burman,Bodic,Bhutan
+1252,27.6,86.75,#2A6285,Tibeto-Burman,Kiranti,Nepal
+1253,27.14,95.75,#87C5AB,Tibeto-Burman,Jingpho,India
+1254,27.75,87.4,#55A6A9,Tibeto-Burman,Bodic,Nepal
+1255,-1.67,135.47,#B85992,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+1256,-2.25,138.92,#537EA1,Trans New Guinea,Tor,Indonesia
+1257,-2.67,134.25,#BD6AA3,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+1258,26.95,94.67,#E7C4A0,Tai-Kadai,South,India
+1259,0,119.83,#BC6F60,Malayo-Polynesian,Celebic,Indonesia
+1260,-6,144.917,#6483B8,Trans New Guinea,Chimbu,Papua New Guinea
+1261,-16.5,142,#66B99F,Pama-Nyungan,Central Paman,Australia
+1262,-25.5,153,#5AD298,Pama-Nyungan,WakaKabic,Australia
+1263,-34.5,150.5,#5AB883,Pama-Nyungan,Yuin-Kuri,Australia
+1264,-33.75,116,#51BFA3,Pama-Nyungan,South-west,Australia
+1265,26,69,#2B9F37,Indo-European,Indo-Iranian,Pakistan
+1266,46,-124,#9D3F2E,Chinook,,USA
+1267,-1.42,123.17,#B8545C,Malayo-Polynesian,Celebic,Indonesia
+1268,-7.95,112.95,#CB795D,Malayo-Polynesian,Javanic,Indonesia
+1269,-3.167,141.667,#4E73AF,Kwomtari,,Papua New Guinea
+1270,-33.1,151.75,#328078,Pama-Nyungan,Yuin-Kuri,Australia
+1271,-2.17,133,#4054A9,Trans New Guinea,South Birds Head,Indonesia
+1272,-9.67,124.25,#D2818A,Malayo-Polynesian,Timoric,Indonesia
+1273,-9.1,125.15,#B36EBF,Timor-Alor-Pantar,Mainland,Indonesia
+1274,23.5,121,#DB6E5E,Austronesian,Bunun,Taiwan
+1275,18.23,-94.87,#663A6A,Totozoquean-Chitimacha,Totozoquean,Mexico
+1276,68.13,-151.72,#1F497B,Eskimo-Aleut,Eskimo,USA
+1277,-5.25,-78,#344E94,Jivaroan,,Peru
+1278,25.5,90.5,#48B78B,Tibeto-Burman,Bodo-Garo,India
+1279,27.2,101,#8EC2C2,Tibeto-Burman,Naxi,China
+1280,25,108.5,#D4CD97,Tai-Kadai,South,China
+1281,-8.62,122.22,#CC8097,Malayo-Polynesian,Timoric,Indonesia
+1282,30,-93,#4D4ECF,Atakapa,,USA
+1283,4.55,96.95,#D97B66,Malayo-Polynesian,Batak-Barrier Islands,Indonesia
+1284,-3.083,119.083,#CA5664,Malayo-Polynesian,Greater South Sulawesi,Indonesia
+1285,-17.64,168.18,#C65AAC,Oceanic,Southern Oceanic,Vanuatu
+1286,-2.17,132,#6C40AF,Trans New Guinea,South Birds Head,Indonesia
+1287,-8.417,124.417,#B373C7,Timor-Alor-Pantar,Alor-Pantar,Indonesia
+1288,-8.333,124.2,#A970C2,Timor-Alor-Pantar,Alor-Pantar,Indonesia
+1289,-17,168.583,#C96BA1,Oceanic,Southern Oceanic,Vanuatu
+1290,-20.33,119.5,#49AE80,Pama-Nyungan,Pilbara,Australia
+1291,-4.367,143.867,#3FBE98,Yuat,,Papua New Guinea
+1292,-8.667,147.333,#67A2B4,Trans New Guinea,Goilala,Papua New Guinea
+1293,-4.667,141.25,#3865AA,Trans New Guinea,Ok,Papua New Guinea
+1294,-12,-60,#6764BE,Nambikwara,,Brazil
+1295,-5.6,151.9,#BF6890,Oceanic,Western Oceanic,Papua New Guinea
+1296,-8.5,126.5,#9FC3AF,Timor-Alor-Pantar,Mainland,Timor leste
+1297,-23,-69,#3A429C,Atacameño,,Chile
+1298,27.75,91.5,#2CACAD,Tibeto-Burman,Bodic,Bhutan
+1299,-32,152.5,#4FB879,Pama-Nyungan,Yuin-Kuri,Australia
+1300,33.17,-116.5,#2B6368,Uto-Aztecan,North,USA
+1301,27.25,86.67,#38698E,Tibeto-Burman,Kiranti,Nepal
+1302,28.25,84.9,#31B79A,Tibeto-Burman,Ghale,Nepal
+1303,27.65,86.23,#1F9884,Tibeto-Burman,Bodic,Nepal
+1304,15,107,#E4ABAB,Austroasiatic,Bahnaric,Laos
+1305,-16.5,139.5,#5FB569,Tangkic,,Australia
+1306,-16.4,139.35,#61B46A,Tangkic,,Australia
+1307,27.33,92,#379EB4,Tibeto-Burman,Bodic,Bhutan
+1308,27.3,92.35,#49C1A6,Kho-Bwa,Bugun,India
+1309,27.2,92.4,#2FB6AD,Kho-Bwa,Sherdukpen-Sartang,India
+1310,28,93,#5AB7C4,Tibeto-Burman,Tani,India
+1311,27.7,94.2,#5391A3,Tibeto-Burman,Tani,India
+1312,28.9,83.17,#2AA799,Tibeto-Burman,Bodic,Nepal
+1313,26.5,119,#A6E47C,Tibeto-Burman,Sinitic,China
+1314,27.28,90.75,#48B5C0,Tibeto-Burman,Bodic,Bhutan
+1315,27.25,92.8,#42B9A5,Tibeto-Burman,Siangic,India
+1316,29,83.91,#3CC3A8,Tibeto-Burman,Bodic,Nepal
+1317,54.2,-4.5,#687B34,Indo-European,Celtic,Britain
+1318,27.5,88.5,#62D3A9,Tibeto-Burman,Bodic,India
+1319,28,84.33,#39C472,Indo-European,Indo-Iranian,Nepal
+1320,-3.333,139.333,#2D649C,Nawa River,Kaure,Indonesia
+1321,-2.767,138,#96C5BF,Lakes Plains,Eastern,Indonesia
+1322,-2.78,132.7,#B791BB,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+1323,-2.7,132.6,#B388BA,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+1324,-2.7,132.43,#B584B5,Malayo-Polynesian,North Bomberai,Indonesia
+1325,-19.25,146.5,#399A6A,Pama-Nyungan,Greater Maric,Australia
+1326,25,85,#21AB51,Indo-European,Indo-Iranian,India
+1327,28.7,115.9,#A6DA91,Tibeto-Burman,Sinitic,China
+1328,26.57,73.43,#39B63B,Indo-European,Indo-Iranian,India
+1329,29.84,80.517,#3D9491,Tibeto-Burman,Western Himalayan,India
+1330,28.25,99.55,#49C3B0,Tibeto-Burman,Bodic,China
+1331,26.2,90.5,#38D088,Indo-European,Indo-Iranian,India
+1332,27.2,98.8,#71A295,Tibeto-Burman,Nungish,China
+1333,-3,132.5,#415FBA,Trans New Guinea,Bomberai,Indonesia
+1334,25,92.5,#A7954A,Austroasiatic,Khasic,India
+1335,22.9,93.67,#517C8C,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+1336,26.5,88.5,#15A342,Indo-European,Indo-Iranian,India
+1337,28,94.75,#4D8AA2,Tibeto-Burman,Tani,India
+1338,25.33,93,#51A0B0,Tibeto-Burman,Bodo-Garo,India
+1339,27.4,93.8,#40BD90,Tibeto-Burman,Tani,India
+1340,26.2,93.5,#4583AE,Tibeto-Burman,Mikir,India
+1341,29,94.8,#4CBBA8,Tibeto-Burman,Bodic,India
+1342,27.5,94.3,#3DBE9D,Tibeto-Burman,Tani,India
+1343,29,96,#559FAD,Tibeto-Burman,Tani,India
+1344,28,97,#2297A2,Tibeto-Burman,Kaman,India
+1345,-4,134,#B06494,Malayo-Polynesian,Koiwai,Indonesia
+1346,-3.083,137.333,#A6C7D1,Lakes Plains,Eastern,Indonesia
+1347,-2.833,137,#A6BDD5,Lakes Plains,Eastern,Indonesia
+1348,27.2,92.9,#408C9A,Tibeto-Burman,Hrusish,India
+1349,29,94.35,#5ACBA7,Tibeto-Burman,Tani,India
+1350,29,81.15,#4D7B96,Tibeto-Burman,Western Himalayan,Nepal
+1351,27.85,84.1,#278E52,Indo-European,Indo-Iranian,Nepal
+1352,26.6,86.75,#34A477,Tibeto-Burman,Bodic,Nepal
+1353,27.2,87.1,#225E8E,Tibeto-Burman,Kiranti,Nepal
+1354,26.1,90.25,#30BB83,Tibeto-Burman,Bodo-Garo,India
+1355,28.6,81.5,#2A836D,Tibeto-Burman,Western Himalayan,Nepal
+1356,27.25,86.15,#208E54,Indo-European,Indo-Iranian,Nepal
+1357,27.6,86.3,#298B93,Tibeto-Burman,Kiranti,Nepal
+1358,28.4,85.2,#36A9A6,Tibeto-Burman,Bodic,China
+1359,27.5,85,#179990,Tibeto-Burman,Chepang,Nepal
+1360,26.6,86.7,#31B361,Indo-European,Indo-Iranian,Nepal
+1361,28.5,84.25,#3FC873,Tibeto-Burman,Dura,Nepal
+1362,27.95,85,#3EBB8B,Tibeto-Burman,Western Himalayan,Nepal
+1363,27.85,85.6,#30B296,Tibeto-Burman,Bodic,Nepal
+1364,-26,115,#3CCD7F,Pama-Nyungan,Kardu,Australia
+1365,-15.7,167.2,#BB5869,Oceanic,Southern Oceanic,Vanuatu
+1366,-6,144.15,#3E74A3,Trans New Guinea,Chimbu,Papua New Guinea
+1367,-5.95,144.167,#43779C,Trans New Guinea,Chimbu,Papua New Guinea
+1368,5.9,101.5,#CB8A69,Austroasiatic,Aslian,Malaysia
+1369,27.12,86.45,#457A8F,Tibeto-Burman,Kiranti,Nepal
+1370,27.2,86.25,#3373A7,Tibeto-Burman,Kiranti,Nepal
+1371,24.5,98.5,#7B8DB2,Tibeto-Burman,Lolo-Burmese,China
+1372,6,121,#E67361,Malayo-Polynesian,Barito,Philippines
+1373,10.5,30,#AF6673,Kadu,Eastern Kadu,Sudan
+1374,-7.17,131.5,#C5509C,Malayo-Polynesian,Southeast Maluku,Indonesia
+1375,22.5,92.25,#748BB3,Tibeto-Burman,Kuki-Chin-Naga,India
+1376,-2.15,101.5,#B8A656,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1377,-8.5,119.5,#E38C70,Malayo-Polynesian,Bima,Indonesia
+1378,35.8,-110.4,#625BB1,Kiowa-Tanoan,Tewa-Tiwa,USA
+1379,-6,155.17,#767077,West Bougainville,,Papua New Guinea
+1380,16.42,-92.5,#A8492E,Mayan,Chol-Tzeltal,Mexico
+1381,36,-118.33,#49736F,Uto-Aztecan,North,USA
+1382,24,85.2,#38885B,Austroasiatic,Munda,India
+1383,18.5,82.733,#39667A,Austroasiatic,Munda,India
+1384,21.167,85.833,#3E6D79,Austroasiatic,Munda,India
+1385,18.583,82.867,#47787B,Austroasiatic,Munda,India
+1386,18.633,83.5,#457885,Austroasiatic,Munda,India
+1387,39,-3,#7B8D18,Indo-European,Romance,Spain
+1388,26.5,92.5,#3CB895,Tibeto-Burman,Bodo-Garo,India
+1389,-6,22,#C32769,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+1390,-19.6,134.2,#50AB7B,Pama-Nyungan,,Australia
+1391,-16.85,144.8,#5AC990,Pama-Nyungan,,Australia
+1392,27.2,90,#25989A,Tibeto-Burman,Black Mountain,Bhutan
+1393,36.725,104.05,#49C075,Mongolic,Eastern,China
+1394,35.05,102.1,#46B78B,Mongolic,Eastern,China
+1395,-5.25,133.17,#C283B5,Malayo-Polynesian,Central Maluku,Indonesia
+1396,-7,128.5,#A85A82,Malayo-Polynesian,West Damar,Indonesia
+1397,31.5,77,#1EA34E,Indo-European,Indo-Iranian,India
+1398,36,94,#56BABF,Tibeto-Burman,Bodic,China
+1399,27.5,109,#96D5B8,Tibeto-Burman,Tujia,China
+1400,27,63.5,#41B860,Indo-European,Indo-Iranian,Pakistan
+1401,54.63,24.93,#54A54F,Turkic,North-west,Lithuania
+1402,35.73,71.75,#309D58,Indo-European,Indo-Iranian,Pakistan
+1403,5.25,118.833,#C17F77,Malayo-Polynesian,North Borneo,Malaysia
+1404,-11.85,160.33,#AAA244,Oceanic,Central Pacific,Solomons
+1405,-1.25,130.92,#BF6D80,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+1406,-7.25,146,#473EA6,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1407,16.42,107.08,#D3C26D,Austroasiatic,Katuic,Vietnam
+1408,30.25,120.167,#A8D96F,Tibeto-Burman,Sinitic,China
+1409,30.9167,79.5,#2BBB6C,Tibeto-Burman,Western Himalayan,India
+1410,56.83,53.19,#409C6E,Uralic,Permic,Russia
+1411,1.1628,112.37,#E5586B,Malayo-Polynesian,Greater South Sulawesi,Indonesia
+1412,61,75,#44AA63,Uralic,Ugric,Russia
+1413,38,40,#3C9855,Indo-European,Indo-Iranian,Turkey
+1414,12.2,76.5,#0E8881,Dravidian,South,India
+1415,2.235,111.22,#F08461,Malayo-Polynesian,Malayo-Sumbawan,Malaysia
+1416,29,83,#48AFC4,Tibeto-Burman,Bodic,Nepal
+1417,-5.67,133.08,#C87A98,Malayo-Polynesian,Kei,Indonesia
+1418,27.6,85.75,#45D397,Tibeto-Burman,Bodic,Nepal
+1419,21.5,93,#94CA91,Tibeto-Burman,Mru,Myanmar
+1420,27.98,85.17,#55CE92,Tibeto-Burman,Bodic,Nepal
+1421,-6.4,120.5,#D45865,Malayo-Polynesian,Greater South Sulawesi,Indonesia
+1422,28.567,86.633,#44A69F,Tibeto-Burman,Bodic,China
+1423,29.18,83.96,#41ABA7,Tibeto-Burman,Bodic,Nepal
+1424,29.05,84.5,#40B6A9,Tibeto-Burman,Bodic,China
+1425,22.97,97.17,#E2C583,Austroasiatic,Palaungic,Myanmar
+1426,48,-122,#8D4E30,Salish,Coast,USA
+1427,-8.583,117.5,#E67D5D,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1428,0.8,111,#E0A274,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1429,6.39,10.12,#BD6767,Niger-Kongo,Atlantic-Congo,Cameroon
+1430,0.25,35,#8D2263,Nilo-Saharan,Nilotic,Kenya
+1431,-11.5,15,#AD3570,Niger-Kongo,Atlantic-Congo,Angola
+1432,19,76.5,#41B864,Indo-European,Indo-Iranian,India
+1433,30.65,97.55,#38BC91,Tibeto-Burman,Bodic,China
+1434,36.6,100.95,#35AE8D,Tibeto-Burman,Bodic,China
+1435,29.26,88.88,#38B98D,Tibeto-Burman,Bodic,China
+1436,22,100.67,#EAD396,Tai-Kadai,South,China
+1437,35.2,70.99,#259555,Indo-European,Indo-Iranian,Afghanistan
+1438,35.48,72.59,#42B355,Indo-European,Indo-Iranian,Pakistan
+1439,15.25,74.4,#30B253,Indo-European,Indo-Iranian,India
+1440,26.25,107.5,#ECBD9F,Tai-Kadai,South,China
+1441,35.4,71.75,#2EB54C,Indo-European,Indo-Iranian,Pakistan
+1442,27.5,90.88,#44B7B1,Tibeto-Burman,Bodic,Bhutan
+1443,10.58,30.5,#C26292,Talodi-Heiban,Talodi,Sudan
+1444,36.5,72.5,#1BA466,Indo-European,Indo-Iranian,Pakistan
+1445,-16.58,122.92,#6E5B82,Nyulnyul,West,Australia
+1446,6.67,17.5,#B5716C,Niger-Kongo,Atlantic-Congo,Central African Republic
+1447,1.33,30.25,#7C4A6E,Nilo-Saharan,Central Sudanic,Democratic Republic of the Congo
+1448,26,107.75,#E6D08B,Tai-Kadai,South,China
+1449,20.33,121.83,#B57F53,Malayo-Polynesian,Bashiic,Philippines
+1450,-8.25,123.75,#D4699B,Malayo-Polynesian,Timoric,Indonesia
+1451,15.67,101.67,#E8CEAA,Austroasiatic,Mon,Thailand
+1452,33.33,-93.5,#5827A8,Caddoan,Caddo,USA
+1453,-20,23.5,#AE3077,Niger-Kongo,Atlantic-Congo,Botswana
+1454,36.2,43.75,#736E3D,Afro-Asiatic,Semitic,Iraq
+1455,-10.12,142.12,#4AD281,Pama-Nyungan,Torres Strait,Australia
+1456,-0.5,121.75,#D57A78,Malayo-Polynesian,Celebic,Indonesia
+1457,-1.25,104.1,#F58F61,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1458,62,-150,#8428CB,Dene-Yeniseic,Na-Dene,USA
+1459,25.8,107,#FADD9F,Tai-Kadai,South,China
+1460,19.7,110,#E3D38D,Tai-Kadai,South,China
+1461,27.8,90.8,#48B8AA,Tibeto-Burman,Bodic,Bhutan
+1462,27.2,87.25,#33648E,Tibeto-Burman,Kiranti,Nepal
+1463,34.55,76.15,#2BAFA2,Tibeto-Burman,Bodic,India
+1464,25.9,91.58,#9E9258,Austroasiatic,Khasic,India
+1465,25,92.2,#59A399,Tibeto-Burman,Kuki-Chin-Naga,India
+1466,21,31,#1F5F8F,Nilo-Saharan,Nubian,Sudan
+1467,26.9,95.6,#4DA5AD,Tibeto-Burman,Konyak,India
+1468,-17.95,140.8,#48917F,Pama-Nyungan,,Australia
+1469,27.54,92.6,#4EABB1,Tibeto-Burman,Hrusish,India
+1470,-10.08,124.33,#C66880,Malayo-Polynesian,Timoric,Indonesia
+1471,-3.58,128.3,#A9668D,Malayo-Polynesian,Central Maluku,Indonesia
+1472,-8.58,126,#BA7C9B,Malayo-Polynesian,Timoric,Timor leste
+1473,-10.83,122.75,#CC6E7F,Malayo-Polynesian,Flores-Sawu-Sumba,Indonesia
+1474,-8.75,125.42,#DDA8A3,Malayo-Polynesian,Timoric,Timor leste
+1475,-10.25,123.67,#BF7E8F,Malayo-Polynesian,Timoric,Indonesia
+1476,23.3,100,#E0BAA4,Austroasiatic,Palaungic,China
+1477,23.6,108.3,#D8C58C,Tai-Kadai,South,China
+1478,-2.56,120.76,#DA4F57,Malayo-Polynesian,Celebic,Indonesia
+1479,1.1,127.7,#A845AA,West Papuan,North Halmahera,Indonesia
+1480,-8.135,125.638,#C46A8B,Malayo-Polynesian,Timoric,Timor leste
+1481,-8.83,121.25,#EDC284,Malayo-Polynesian,Flores-Sawu-Sumba,Indonesia
+1482,-4.05,19.65,#B16083,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+1483,-0.82,123.431,#C77166,Malayo-Polynesian,Celebic,Indonesia
+1484,22.6,101.7,#EDC58E,Austroasiatic,Palaungic,China
+1485,15,103.75,#EEC6A6,Austroasiatic,Khmer,Thailand
+1486,33,76,#2AA151,Indo-European,Indo-Iranian,India
+1487,28.51,85.08,#32919E,Tibeto-Burman,Bodic,Nepal
+1488,21.45,92.5,#97ADA3,Tibeto-Burman,Mru,Bangladesh
+1489,24.05,101.975,#7ADEB5,Tibeto-Burman,Lolo-Burmese,China
+1490,22.05,101,#7ED7BE,Tibeto-Burman,Lolo-Burmese,China
+1491,24.35,102.525,#94D9C4,Tibeto-Burman,Lolo-Burmese,China
+1492,-19.3,22.5,#567E80,Khoe,Khoe,Botswana
+1493,18.32,109.73,#D5CD9B,Malayo-Polynesian,Malayo-Sumbawan,China
+1494,-8.67,116.5,#DD7A55,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1495,28.531,84.846,#3B8991,Tibeto-Burman,Kuke,Nepal
+1496,2.2,102.5,#DA9243,Malayo-Polynesian,Malayo-Sumbawan,Malaysia
+1497,0.5,122,#CC7B64,Malayo-Polynesian,Philippines,Indonesia
+1498,14.78,-3.76,#939C9F,Banggime,,Mali
+1499,21.1,93.65,#6A8BA2,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+1500,-4,144.625,#5DB7B4,Lower Sepik-Ramu,Ramu,Papua New Guinea
+1501,-21,20,#B53E63,Niger-Kongo,Atlantic-Congo,Namibia
+1502,27.135,89.12,#3AB8BE,Tibeto-Burman,Bodic,Bhutan
+1503,15.6,-15.2,#96376A,Niger-Kongo,Atlantic-Congo,Senegal
+1504,-20,-56,#A43968,Arawak,South-Southwest,Brazil
+1505,-11,31,#AA3F73,Niger-Kongo,Atlantic-Congo,Zambia
+1506,6,36.6,#2B8C8D,Afro-Asiatic,Omotic,Ethiopia
+1507,27.675,86.71,#3CAE9D,Tibeto-Burman,Bodic,Nepal
+1508,30.41,-85.2,#4C28A7,Muskogean,Eastern,USA
+1509,6.083,10.0999,#A05D76,Niger-Kongo,Atlantic-Congo,Cameroon
+1510,39.67,-123.5,#4B9182,Wappo-Yukian,,USA
+1511,30.5,47.825,#71655B,Afro-Asiatic,Semitic,Iraq
+1512,32.45,101.55,#6A8996,Tibeto-Burman,Qiangic,China
+1513,6.6,1.5,#DFB4B1,Niger-Kongo,Volta-Niger,Togo
+1514,34.5,-117.5,#606D6F,Uto-Aztecan,North,USA
+1515,32.83,-114.33,#494FBB,Yuman-Cochimi,Yuman,USA
+1516,46.975,8.405,#69AF1D,Indo-European,Germanic,Switzerland
+1517,56,-3.25,#83B01F,Indo-European,Germanic,Britain
+1518,-8.5,126.33,#E1D3A5,Malayo-Polynesian,Timoric,Timor leste
+1519,12.48,108.025,#EAC684,Malayo-Polynesian,Malayo-Sumbawan,Vietnam
+1520,35.2,76,#39BC9D,Tibeto-Burman,Bodic,Pakistan
+1521,-8.22,125.61,#DBA09C,Malayo-Polynesian,Timoric,Timor leste
+1522,-3.2,136.2,#9EC7DA,Keuw,,Indonesia
+1523,15.75,40.25,#826C69,Afro-Asiatic,Semitic,Eritrea
+1524,-8.38,124.21,#A677C5,Timor-Alor-Pantar,Alor-Pantar,Indonesia
+1525,48.861,-71.357,#771A8C,Iroquoian,Northern,Canada
+1526,-2.06,125.98,#D376B9,Malayo-Polynesian,Central Maluku,Indonesia
+1527,-37.75,149,#49816D,Pama-Nyungan,,Australia
+1528,40,-83,#434364,Algic,Algonquian,USA
+1529,1.08,124.83,#C37554,Malayo-Polynesian,Philippines,Indonesia
+1530,24.9,125.3,#2EB28A,Japonic,Ryukyuan,Japan
+1531,28.33,84.42,#3FB09F,Tibeto-Burman,Bodic,Nepal
+1532,28.64,84.61,#439F97,Tibeto-Burman,Bodic,Nepal
+1533,27.27,86.56,#2D668C,Tibeto-Burman,Kiranti,Nepal
+1534,27.6,86.7,#367485,Tibeto-Burman,Kiranti,Nepal
+1535,27.4,86.9,#27587F,Tibeto-Burman,Kiranti,Nepal
+1536,20.65,110.2,#BBE67A,Tibeto-Burman,Sinitic,China
+1537,28.68,80.6,#3E9756,Indo-European,Indo-Iranian,Nepal
+1538,27.48,90.905,#409EA8,Tibeto-Burman,Bodic,Bhutan
+1539,21.183,100.367,#F1AE98,Austroasiatic,Palaungic,Myanmar
+1540,25.2,110.2,#C9DE9B,Tai-Kadai,South,China
+1541,24.583,112.267,#DBD492,Hmong-Mien,Mienic,China
+1542,24.08,110.17,#DFD592,Tai-Kadai,South,China
+1543,22.92,105.5,#DFD393,Tai-Kadai,North,China
+1544,24,104.8,#E5C4A3,Tai-Kadai,North,China
+1545,23.75,105,#D8B397,Austroasiatic,Pakanic,China
+1546,18,99,#EBCD99,Tai-Kadai,South,Thailand
+1547,25.75,107.333,#ECCE97,Tai-Kadai,North,China
+1548,23.4,100.1,#EACB8B,Austroasiatic,Palaungic,China
+1549,26.67,108.32,#DBC996,Hmong-Mien,Hmongic,China
+1550,23.039,114.807,#C5DB8A,Hmong-Mien,Hmongic,China
+1551,17.333,104.333,#E9C18F,Austroasiatic,Bahnaric,Thailand
+1552,15.333,106.333,#F1B7A3,Austroasiatic,Bahnaric,Laos
+1553,14,108.5,#E5D085,Austroasiatic,Bahnaric,Vietnam
+1554,28.53,84.79,#3A8498,Tibeto-Burman,Bodic,Nepal
+1555,27.833,99.7,#32B19F,Tibeto-Burman,Bodic,China
+1556,-12.62,-75.7,#368D60,Quechuan,I,Peru
+1557,19.02,96.58,#E3C3AA,Tibeto-Burman,Karen,Myanmar
+1558,28.6,94.5,#31CF9E,Tibeto-Burman,Siangic,India
+1559,28.2,96.25,#37C69E,Tibeto-Burman,Tani,India
+1560,34,-88,#6541C3,Muskogean,Western,USA
+1561,20.476,-98.09,#87354A,Totozoquean-Chitimacha,Totozoquean,Mexico
+1562,11.58,76.55,#0C8783,Dravidian,South,India
+1563,-31,149.5,#4D9D60,Pama-Nyungan,,Australia
+1564,-17.5,127.75,#41458D,Jarrakan,,Australia
+1565,-35.6,139.1,#317861,Pama-Nyungan,Lower Murray,Australia
+1566,-20.516,127.461,#36735C,Pama-Nyungan,Ngardi,Australia
+1567,-19,126,#397E78,Pama-Nyungan,Ngardi,Australia
+1568,11,98.5,#F5CCAD,Malayo-Polynesian,Malayo-Sumbawan,Myanmar
+1569,-1.83,124.92,#C27D9D,Malayo-Polynesian,Celebic,Indonesia
+1570,0.75,115.79,#E7A04D,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1571,11.15,120.95,#AC5E4B,Malayo-Polynesian,Philippines,Philippines
+1572,40.988,98.025,#3AA487,Turkic,South-east,China
+1573,11.28,-15.83,#A6297A,Niger-Kongo,Atlantic-Congo,Guinea-Bissau
+1574,-17,-41,#7488A8,Macro-Je,Maxakalí,Brazil
+1575,0.5,11,#C22F76,Niger-Kongo,Atlantic-Congo,Equatorial Guinea
+1576,-8.2,-37.3,#4746C0,Macro-Je,Yate,Brazil
+1577,-9.33,-140,#A0B84F,Oceanic,Central Pacific,French Polynesia
+1578,3.58,125.75,#AC7664,Malayo-Polynesian,Philippines,Indonesia
+1579,9,118,#BE7260,Malayo-Polynesian,Philippines,Philippines
+1580,4,126.67,#C6A061,Malayo-Polynesian,Philippines,Indonesia
+1581,-10.018,-74.793,#654A4F,Arawak,South-Southwest,Peru
+1582,12,125,#B06E4F,Malayo-Polynesian,Philippines,Philippines
+1583,9.5,118.5,#C27B54,Malayo-Polynesian,Philippines,Philippines
+1584,-38,-62.5,#6C6A86,Chonan,Chonan Proper,Argentina
+1585,43,-89,#A743B4,Siouan,Western,USA
+1586,-24.3,-50,#738694,Macro-Je,Je,Brazil
+1587,24.833,125.183,#33B692,Japonic,Ryukyuan,Japan
+1588,13,77,#14A370,Dravidian,South,India
+1589,6.07,-57.6,#6B5E8D,Arawak,North,Guyana
+1590,6.733122,-66.048767,#5A4684,Cariban,Venezuelan,Venezuela
+1591,1.216667,-54.656667,#412CA0,Cariban,Guianan Carib,Brazil
+1592,28.415,129.59,#2EB69E,Japonic,Ryukyuan,Japan
+1593,26.55,127.94,#21C08C,Japonic,Ryukyuan,Japan
+1594,31.6,130.55,#38C18D,Japonic,Japanese,Japan
+1595,12.5,54,#71632B,Afro-Asiatic,Semitic,Yemen
+1596,19.7,55.85,#706230,Afro-Asiatic,Semitic,Oman
+1597,16.21,52.2,#6C5E3E,Afro-Asiatic,Semitic,Oman
+1598,17.2,54.9,#74661E,Afro-Asiatic,Semitic,Oman
+1599,16,52,#685F28,Afro-Asiatic,Semitic,Yemen
+1600,-12.15,40.57,#BB377D,Niger-Kongo,Atlantic-Congo,Mozambique
+1601,0.7,110.5,#E1905F,Malayo-Polynesian,Land Dayak,Indonesia
+1602,1.08,-70,#216499,Kakua-Nukak,,Brazil
+1603,-12.5,-62.25,#534F98,Kanoê,,Brazil
+1604,4.215,-65.742,#4251A1,Sáliba-Piaroa,,Venezuela
+1605,17.6,95.2,#E9A4B7,Tibeto-Burman,Karen,Myanmar
+1606,12.43,98.6,#66C3A0,Tibeto-Burman,Lolo-Burmese,Myanmar
+1607,20.82,92.37,#27B750,Indo-European,Indo-Iranian,Myanmar
+1608,22.37,91.8,#36D544,Indo-European,Indo-Iranian,Bangladesh
+1609,25.81,42.87,#905A22,Afro-Asiatic,Semitic,Saudi Arabia
+1610,31.33,48.69,#8C522A,Afro-Asiatic,Semitic,Iran
+1611,36.7,67.12,#57694A,Afro-Asiatic,Semitic,Afghanistan
+1612,39.77,64.43,#497E41,Afro-Asiatic,Semitic,Uzbekistan
+1613,18.22,42.51,#8D4629,Afro-Asiatic,Semitic,Saudi Arabia
+1614,27.33,92.27,#33ACC1,Kho-Bwa,Sherdukpen-Sartang,India
+1615,33.25,69.5,#499C42,Indo-European,Indo-Iranian,Afghanistan
+1616,11.767,34.35,#AC6C86,Nilo-Saharan,Eastern Jebel,Sudan
+1617,32.61,76.91,#339772,Tibeto-Burman,Western Himalayan,India
+1618,-5.42,134.5,#CD6489,Malayo-Polynesian,Southeast Maluku,Indonesia
+1619,35.375,71.693,#269854,Indo-European,Indo-Iranian,Pakistan
+1620,-5.8,134.75,#D36189,Malayo-Polynesian,Southeast Maluku,Indonesia
+1621,4.33,33.6,#8A4057,Nilo-Saharan,Surmic,Sudan
+1622,6.25,36.33,#3C9A6B,Afro-Asiatic,Omotic,Ethiopia
+1623,4,11.5,#BE387D,Niger-Kongo,Atlantic-Congo,Cameroon
+1624,12.5,-16.5,#AD2781,Niger-Kongo,Atlantic-Congo,Senegal
+1625,18.9,81.15,#1C955D,Dravidian,South-central,India
+1626,31.9,102.43,#58748D,Tibeto-Burman,Qiangic,China
+1627,35.37,72.05,#26B965,Indo-European,Indo-Iranian,India
+1628,5.4,37.5,#6C7683,Afro-Asiatic,Cushitic,Ethiopia
+1629,34.55,73.84,#1FAA50,Indo-European,Indo-Iranian,Pakistan
+1630,3.75,30.5,#A7326F,Nilo-Saharan,Central Sudanic,Sudan
+1631,6.9,0.45,#B9649C,Niger-Kongo,Atlantic-Congo,Ghana
+1632,-15,39,#AD387C,Niger-Kongo,Atlantic-Congo,Mozambique
+1633,32.52,70,#48983E,Indo-European,Indo-Iranian,Pakistan
+1634,7,35.5,#38838A,Afro-Asiatic,Omotic,Ethiopia
+1635,16.58,2.83,#924784,Nilo-Saharan,Songhai,Mali
+1636,6.8,0.4,#AD64AB,Niger-Kongo,Atlantic-Congo,Ghana
+1637,8.2,34.4,#8F837E,Nilo-Saharan,Komuz,Somalia
+1638,20,73.79,#28AC5C,Indo-European,Indo-Iranian,India
+1639,15.5,32.56,#9B4148,Afro-Asiatic,Semitic,Sudan
+1640,5.6,9,#9D6991,Niger-Kongo,Atlantic-Congo,Cameroon
+1641,-8.75,146.58,#A54ACF,Oceanic,Western Oceanic,Papua New Guinea
+1642,6.332,8.104,#EEE9A5,Niger-Kongo,Volta-Niger,Nigeria
+1643,5.488,9.856,#C45B91,Niger-Kongo,Atlantic-Congo,Cameroon
+1644,-3.234,33.516,#B52975,Niger-Kongo,Atlantic-Congo,Tanzania
+1645,6.4,8.4,#D697AD,Niger-Kongo,Volta-Niger,Nigeria
+1646,28.2,96.2,#2FA69B,Tibeto-Burman,Tani,India
+1647,-2,130.33,#CD6BBA,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+1648,34.33,-117,#44866B,Uto-Aztecan,North,USA
+1649,26,56.3,#907589,Indo-European,Indo-Iranian,Oman
+1650,50.58,13,#638E27,Indo-European,Germanic,Germany
+1651,23.123,104.703,#E6CF9F,Tai-Kadai,North,China
+1652,28.76,113.67,#B5DA8B,Tibeto-Burman,Sinitic,China
+1653,-11,34.67,#BE3675,Niger-Kongo,Atlantic-Congo,Tanzania
+1654,-6,30.5,#BF3478,Niger-Kongo,Atlantic-Congo,Tanzania
+1655,3.13,101.68,#D8A264,Malayo-Polynesian,Malayo-Sumbawan,Malaysia
+1656,25.75,88.75,#267D68,Dravidian,North,Bangladesh
+1657,24.3,88.9,#13C467,Dravidian,North,Bangladesh
+1658,22.85,87.1,#398D45,Austroasiatic,Munda,India
+1659,29.6,74.3,#30AB34,Indo-European,Indo-Iranian,India
+1660,24.9,72.85,#27BF37,Indo-European,Indo-Iranian,India
+1661,25.52,91.27,#A2A55C,Austroasiatic,Khasic,India
+1662,16,103,#E7CE9B,Tai-Kadai,South,Thailand
+1663,22.9,92.23,#55CC52,Indo-European,Indo-Iranian,Bangladesh
+1664,27.49,77.67,#30B73D,Indo-European,Indo-Iranian,India
+1665,28.3,74.95,#2CB83A,Indo-European,Indo-Iranian,India
+1666,23.1,75.785,#3CB94B,Indo-European,Indo-Iranian,India
+1667,23.12,82.9,#1BC344,Indo-European,Indo-Iranian,India
+1668,23.84,73.72,#2CB945,Indo-European,Indo-Iranian,India
+1669,8.71,77.76,#179961,Dravidian,South,India
+1670,-8.25,141.5,#619372,South New Guinea,West Morehead River,Papua New Guinea
+1671,-6.02,146.97,#5269A1,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1672,-9.59,149.4,#A24CB2,Oceanic,Western Oceanic,Papua New Guinea
+1673,-4.168,141.671,#4444A3,Left May,,Papua New Guinea
+1674,-7.85,146.95,#3D62B6,Trans New Guinea,Goilala,Papua New Guinea
+1675,-7.22,146.25,#2C39B1,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1676,-7.456,145.583,#414CB8,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1677,-2.447,138.209,#5D5DB8,Burmeso,,Indonesia
+1678,-7.96,145.77,#5EC4A4,Trans New Guinea,Eleman,Papua New Guinea
+1679,-3.67,142.67,#DC839D,Torricelli,Urim,Papua New Guinea
+1680,-5.82,146.68,#466492,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1681,-8.67,146.54,#A94BAF,Oceanic,Western Oceanic,Papua New Guinea
+1682,-10.13,147.95,#6D4B98,Oceanic,,Papua New Guinea
+1683,-3.83,143.83,#A769BC,Torricelli,Marienberg,Papua New Guinea
+1684,-7.3,142.5,#3A6CC5,Trans New Guinea,Bosavi,Papua New Guinea
+1685,-6.639,145.377,#2456A3,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1686,-3.5,142.77,#BD6BBF,Torricelli,Kombio-Arapesh,Papua New Guinea
+1687,-5.655,142.07,#5D65CE,Papuan Gulf,Strickland,Papua New Guinea
+1688,-2.995,152.05,#D3596E,Oceanic,,Papua New Guinea
+1689,-6.513,143.005,#54A5B7,Trans New Guinea,Bosavi,Papua New Guinea
+1690,-5.046,143.848,#439A76,Trans New Guinea,Engan,Papua New Guinea
+1691,-8.92,146.67,#A36DB1,Oceanic,,Papua New Guinea
+1692,-4.25,141.83,#4B81A4,Sepik,Iwam,Papua New Guinea
+1693,-4.228,142.121,#4A8099,Sepik,Iwam,Papua New Guinea
+1694,-3.635,141.398,#4676B7,Kwomtari,,Papua New Guinea
+1695,-5,141.33,#4838B2,Trans New Guinea,Ok,Papua New Guinea
+1696,-45,-68,#716C88,Chonan,Chonan Proper,Argentina
+1697,-6.05,146.25,#5C70B9,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1698,-6.534,147.502,#4C65B9,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1699,26.53,91,#2EAB55,Indo-European,Indo-Iranian,India
+1700,-4.87,145.76,#7151CE,Trans New Guinea,Madang,Papua New Guinea
+1701,-9.418,150.437,#B353A1,Oceanic,,Papua New Guinea
+1702,-5.891,146.849,#C14CB0,Oceanic,,Papua New Guinea
+1703,-3.67,138.814,#4C42D1,Trans New Guinea,Western Trans New Guinea,Indonesia
+1704,-3.5,137.5,#5154CA,Trans New Guinea,Western Trans New Guinea,Indonesia
+1705,-10.5,150.33,#B65DB7,Oceanic,,Papua New Guinea
+1706,-3.67,152.5,#B65A57,Oceanic,,Papua New Guinea
+1707,-5.315,145.613,#826EB1,Oceanic,,Papua New Guinea
+1708,-6.137,147.281,#496ABA,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1709,-4.589,142.315,#6F58CC,Sepik,Sepik Hill,Papua New Guinea
+1710,-3.713,142.709,#67B7C2,Sepik,Nukuma,Papua New Guinea
+1711,-5.807,146.143,#6966B9,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1712,-4,152.83,#D46855,Oceanic,,Papua New Guinea
+1713,-4.17,152.42,#DA6759,Oceanic,,Papua New Guinea
+1714,-5.975,150.667,#9873A8,Oceanic,,Papua New Guinea
+1715,-7.027,146.924,#C978A5,Oceanic,,Papua New Guinea
+1716,24.4,71.625,#2F9B37,Indo-European,Indo-Iranian,India
+1717,-6.444,147.515,#5E5FAA,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+1718,21.25,81.25,#42B141,Indo-European,Indo-Iranian,India
+1719,25.1,76.52,#3AB933,Indo-European,Indo-Iranian,India
+1720,17.8,77.15,#24A467,Dravidian,South,India
+1721,12.5,92.83,#31619B,Andaman,,India
+1722,3.25,116.5,#D45D75,Malayo-Polynesian,North Borneo,Malaysia
+1723,4.27,97.87,#D4A35D,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1724,-8,141.83,#21938F,Papuan Gulf,Gogodala-Suki,Papua New Guinea
+1725,19.01,98.76,#EEC98F,Austroasiatic,Waic,Thailand
+1726,20.18,97.38,#DDCBB4,Tibeto-Burman,Karen,Myanmar
+1727,17.167,104.333,#FDC3AE,Austroasiatic,Katuic,Thailand
+1728,20.29,94.39,#517097,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+1729,27.1,97.07,#497EA9,Tibeto-Burman,Nungish,Myanmar
+1730,26.05,98.5,#72AC98,Tibeto-Burman,Lolo-Burmese,Myanmar
+1731,22.5,99,#D5B393,Austroasiatic,Palaungic,China
+1732,25.45,94.95,#B6C9B8,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+1733,22,76,#21B652,Indo-European,Indo-Iranian,India
+1734,19.8,110.55,#C4DE88,Tibeto-Burman,Sinitic,China
+1735,-8.409,124.007,#B265CD,Timor-Alor-Pantar,Alor-Pantar,Indonesia
+1736,27.875,102.275,#60C493,Tibeto-Burman,Qiangic,China
+1737,31.9,102.22,#455896,Tibeto-Burman,Qiangic,China
+1738,10.7,14.31,#9A7793,Afro-Asiatic,Chadic,Cameroon
+1739,11.23,29.68,#AA677E,Kadu,Western Kadu,Sudan
+1740,10,126,#C27E55,Malayo-Polynesian,Philippines,Philippines
+1741,8,123,#C47849,Malayo-Polynesian,Philippines,Philippines
+1742,44,18,#5BB722,Indo-European,Balto-Slavic,Bosnia
+1743,45.5,17.3,#5ABA21,Indo-European,Balto-Slavic,Croatia
+1744,43.4,-5.8,#869C13,Indo-European,Romance,Spain
+1745,42.1,9.5,#8C991A,Indo-European,Romance,France
+1746,38.1,13.34,#878633,Indo-European,Romance,Italy
+1747,29.18,25.55,#B34A4A,Afro-Asiatic,Berber,Egypt
+1748,22,113,#BADD7F,Tibeto-Burman,Sinitic,China
+1749,36.07,120.39,#A7E07D,Tibeto-Burman,Sinitic,China
+1750,12.167,103,#F9C9AF,Austroasiatic,Pearic,Cambodia
+1751,-0.3,116.53,#EC795B,Malayo-Polynesian,Malayo-Sumbawan,Malaysia
+1752,14.75,40.15,#45545E,Afro-Asiatic,Cushitic,Eritrea
+1753,10.23,106.38,#F1D489,Austroasiatic,Vietic,Vietnam
+1754,27.35,118.15,#C4EA83,Tibeto-Burman,Sinitic,China
+1755,23.65,116.625,#CAD784,Tibeto-Burman,Sinitic,China
+1756,38.91,121.61,#B4E184,Tibeto-Burman,Sinitic,China
+1757,40.82,111.65,#B1DE87,Tibeto-Burman,Sinitic,China
+1758,30.583,114.317,#B4E080,Tibeto-Burman,Sinitic,China
+1759,34.34,108.94,#AAE381,Tibeto-Burman,Sinitic,China
+1760,19.3,109.5,#D4CF9A,Hmong-Mien,Mienic,China
+1761,23.6,111.75,#D6E697,Hmong-Mien,Mienic,China
+1762,45,-63,#7E2E63,Algic,Algonquian,Canada
+1763,-8.43,162.9,#B7A677,Oceanic,Central Pacific,Solomons
+1764,5.25,102,#EAA97E,Malayo-Polynesian,Malayo-Sumbawan,Malaysia
+1765,19.52,109.65,#B8E785,Tibeto-Burman,Sinitic,China
+1766,-36.4,142.75,#5C7E56,Pama-Nyungan,,Australia
+1767,-19.475,169.401,#B957B1,Oceanic,Oceanic,Vanuatu
+1768,-16,167.25,#CB499D,Oceanic,Southern Oceanic,Vanuatu
+1769,27,91.5,#40B0B0,Tibeto-Burman,Bodic,Bhutan
+1770,8,124.25,#C57350,Malayo-Polynesian,Philippines,Philippines
+1771,-0.32,120.01,#DE5B7B,Malayo-Polynesian,Celebic,Indonesia
+1772,-6.33,141.17,#3F72B6,Trans New Guinea,Ok,Indonesia
+1773,-16.184,167.478,#E5699B,Oceanic,Southern Oceanic,Vanuatu
+1774,9.83,-1.9,#B1A1A3,Niger-Kongo,Atlantic-Congo,Ghana
+1775,-10.4,34.74,#BC4373,Niger-Kongo,Atlantic-Congo,Tanzania
+1776,-6.99,36.92,#983A63,Niger-Kongo,Atlantic-Congo,Tanzania
+1777,0.579,-69.067,#3B7A7D,Tucanoan,East,Colombia
+1778,11.667,108,#EBBD86,Austroasiatic,Bahnaric,Vietnam
+1779,40,40,#419B30,Indo-European,Armenian,Turkey
+1780,15.68,-91.3,#C43D55,Mayan,Kanjobal-Chuj,Guatemala
+1781,3.48,115,#F4B881,Malayo-Polynesian,North Borneo,Malaysia
+1782,15.45,-92.17,#A9492F,Mayan,Kanjobal-Chuj,Mexico
+1783,14.47,-90.99,#AB4C4A,Mayan,Quiche-Mam,Guatemala
+1784,14.07,-90.42,#AE6145,Xinca,,Guatemala
+1785,14.08,-90.38,#AF6441,Xinca,,Guatemala
+1786,14.34,-90.26,#B0624D,Xinca,,Guatemala
+1787,14.19,-89.79,#B36249,Xinca,,Guatemala
+1788,-27.12,134.84,#3973AD,Pama-Nyungan,Western Desert,Australia
+1789,-23.3,131.9,#3973AD,Pama-Nyungan,Western Desert,Australia
+1790,-26.13,126.58,#3F6F97,Pama-Nyungan,Western Desert,Australia
+1791,-22.65,128.18,#3F769C,Pama-Nyungan,Western Desert,Australia
+1792,5.85,10.45,#BF6C73,Niger-Kongo,Atlantic-Congo,Cameroon
+1793,10.68,124.8,#C58554,Malayo-Polynesian,,Philippines
+1794,7.5,124.08,#B77C56,Malayo-Polynesian,Philippines,Philippines
+1795,14.02,122.35,#BC7F55,Malayo-Polynesian,Philippines,Philippines
+1796,16.28,121.1,#BC8A5F,Malayo-Polynesian,Philippines,Philippines
+1797,17.85,121.35,#BC7F4A,Malayo-Polynesian,Philippines,Philippines
+1798,15.5,120,#E37156,Malayo-Polynesian,Philippines,Philippines
+1799,2.3,14.12,#B83378,Niger-Kongo,Atlantic-Congo,Cameroon
+1800,6.75,124.17,#CF8E54,Malayo-Polynesian,Philippines,Philippines
+1801,21.548,107.972,#EFD192,Austroasiatic,Vietic,China
+1802,-13.08,143.5,#50C373,Pama-Nyungan,North Cape York,Australia
+1803,28,113,#87DF6D,Tibeto-Burman,Sinitic,China
+1804,18.553,109.69,#C7CA91,Jiamao,,China
+1805,39.133,117.183,#A0B181,Tibeto-Burman,Sinitic,China
+1806,22.6,114.51,#B3EA77,Tibeto-Burman,Sinitic,China
+1807,6,8,#D26688,Niger-Kongo,Atlantic-Congo,Nigeria
+1808,6.205,9.972,#B1815E,Niger-Kongo,Atlantic-Congo,Cameroon
+1809,-12.166,135.466,#7CC752,Pama-Nyungan,,Australia
+1810,-3,138.8,#2E5EAD,Abinomn,,Indonesia
+1811,-20,-158,#C2B772,Oceanic,Central Pacific,Cook Islands
+1812,-21.33,-159.75,#A9AB5E,Oceanic,Central Pacific,Cook Islands
+1813,-3.669,142.897,#BD46A2,Torricelli,Wapei,Papua New Guinea
+1814,29,95.2,#30D5AE,Tibeto-Burman,Tani,India
+1815,-12.1,-60.6,#3D50A0,Aikaná,,Brazil
+1816,-4,-64,#7440B8,Tupian,Arikem,Brazil
+1817,26.5,96.4,#F6BFA9,Tai-Kadai,South,Myanmar
+1818,12.888,75.282,#169A5F,Dravidian,South,India
+1819,-15.0146,-67.8341,#09557D,Leco,,Bolivia
+1820,-5.7,-76.1,#4B4D60,Muniche,,Peru
+1821,21,103.67,#EECA9A,Tai-Kadai,South,Vietnam
+1822,10.8,30.2,#993A7C,Talodi-Heiban,Talodi,Sudan
+1823,11.05,29.5,#927184,Kadu,Central Kadu,Sudan
+1824,24.88,93.69,#3DA8B6,Tibeto-Burman,Kuki-Chin-Naga,India
+1825,15.36,75.09,#10C036,Indo-European,Indo-Iranian,India
+1826,0.85,104.18,#EC995E,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1827,1.8,101.5,#F39B66,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1828,2.89,105.77,#F39B64,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1829,2.16,100.83,#F39B64,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1830,3.3,99.15,#F39B64,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1831,-3.65,37.65,#AB2A78,Niger-Kongo,Bantoid,Kenya
+1832,14.883,105.866,#F4C89E,Tai-Kadai,South,Vietnam
+1833,31.32,48.67,#6C4A57,Afro-Asiatic,Semitic,Iran
+1834,36.34,102.86,#5AE088,Tibeto-Burman,Sinitic,China
+1835,29.55,114.17,#A4E476,Tibeto-Burman,Sinitic,China
+1836,27.12,104.73,#F4F3A9,Tai-Kadai,North,China
+1837,-33.05,151.55,#54A46F,Pama-Nyungan,Yuin-Kuri,Australia
+1838,-34.33,150,#3D6C92,Pama-Nyungan,Yuin-Kuri,Australia
+1839,-14.86,-66.75,#CB5292,Chapacura,More-Waric,Bolivia
+1840,26.99,95.71,#468C7F,Tibeto-Burman,Kuki-Chin-Naga,India
+1841,-5.36,-70.99,#57A5AF,Panoan,Main,Brazil
+1842,13.02,-15.32,#B63266,Niger-Kongo,Atlantic-Congo,Guinea-Bissau
+1843,9.15,9.51,#C39C95,Afro-Asiatic,Chadic,Nigeria
+1844,-4.64,35.72,#796766,Afro-Asiatic,Cushitic,Tanzania
+1845,28.435,95.04,#22A9AB,Tibeto-Burman,Tani,India
+1846,22.48,91.48,#2FBA64,Indo-European,Indo-Iranian,Myanmar
+1847,11.08,76.58,#0A9C79,Dravidian,South,India
+1848,15.83,78.05,#15A86C,Indo-European,Indo-Iranian,India
+1849,21.64,69.89,#19AC57,Indo-European,Indo-Iranian,India
+1850,8.17,77.43,#0B9A63,Dravidian,South,India
+1851,-17.3,13.44,#B1385F,Niger-Kongo,Bantoid,Namibia
+1852,43.825,87.6,#7DE76F,Tibeto-Burman,Sinitic,China
+1853,2.67,-60,#725A60,Arawak,North,Brazil
+1854,6.384,36.651,#566E6E,Afro-Asiatic,Omotic,Ethiopia
+1855,14.365,0.185,#9FAB62,Nilo-Saharan,Songhai,Burkina Faso
+1856,-24.654,25.927,#AA2B76,Niger-Kongo,Atlantic-Congo,Botswana
+1857,10.75,14.3,#B667A0,Afro-Asiatic,Chadic,Cameroon
+1858,50,-120,#BB3F50,Salish,Interior,Canada
+1859,-9.36,34.23,#A61995,Niger-Kongo,Bantoid,Kenya
+1860,5.3,37.02,#676C8F,Ongota,,Ethiopia
+1861,4.58,7.5,#6DB06A,Ijoid,Defaka,Nigeria
+1862,7.6,6.04,#A7428A,Niger-Kongo,Atlantic-Congo,Nigeria
+1863,-1,42.04,#B3395A,Niger-Kongo,Bantoid,Comoros
+1864,-4.62,39.18,#B03074,Niger-Kongo,Bantoid,Comoros
+1865,-4.86,103.48,#FF9D6B,Malayo-Polynesian,,Indonesia
+1866,3.46,15.73,#A65377,Ubangian,,Democratic Republic of the Congo
+1867,-24,29,#C12193,Niger-Kongo,Bantoid,South Africa
+1868,9.97,-11.28,#A49A80,Mande,Central-West,Guinea
+1869,-7.6,144.62,#657293,Kiwaian,,Papua New Guinea
+1870,-10.99,39.51,#B72A82,Niger-Kongo,Atlantic-Congo,Tanzania
+1871,-22.039,34.139,#AE2780,Niger-Kongo,Atlantic-Congo,Mozambique
+1872,-24.506,31.514,#B11885,Niger-Kongo,Atlantic-Congo,South Africa
+1873,-19.57,20.5,#D2AEA0,Kx'aa,,Namibia
+1874,5.31,36.91,#6A6386,Afro-Asiatic,Cushitic,Ethiopia
+1875,8.15,-0.28,#BCA4A4,Niger-Kongo,Atlantic-Congo,Ghana
+1876,21.39,110.87,#D2E486,Tai-Kadai,South,China
+1877,28.65,97.45,#88BDCF,Tibeto-Burman,Tani,China
+1878,22.329,109.717,#AFE884,Tibeto-Burman,Sinitic,China
+1879,21.38,109.97,#CAE08C,Tibeto-Burman,Sinitic,China
+1880,23.41,115.82,#AEEE81,Tibeto-Burman,Sinitic,China
+1881,18.24,109.37,#BAE289,Tibeto-Burman,Sinitic,China
+1882,11.56,109,#EEC992,Malayo-Polynesian,Malayo-Sumbawan,Vietnam
+1883,19.71,109.275,#C3E383,Tibeto-Burman,Sinitic,China
+1884,11.29,35.38,#9A3B74,Nilo-Saharan,Gumuz,Ethiopia
+1885,26.8,104.8,#E9D494,Hmong-Mien,Hmongic,China
+1886,19.5,103.5,#E5D28A,Hmong-Mien,Hmongic,Laos
+1887,24,104.2,#E6D58B,Hmong-Mien,Hmongic,China
+1888,4.71,-64.39,#6728AB,Cariban,Guianan Carib,Venezuela
+1889,1,-69.75,#3A8A7B,Tucanoan,East,Colombia
+1890,10.911,5.703,#D0457F,Niger-Kongo,Atlantic-Congo,Nigeria
+1891,11.53,4.84,#AF907D,Niger-Kongo,Atlantic-Congo,Nigeria
+1892,40.65,-124.31,#5C38A3,Dene-Yeniseic,Na-Dene,USA
+1893,48,-74,#68365E,Algic,Algonquian,Canada
+1894,38.93,-122.67,#468D6E,Miwok,Western,USA
+1895,39.7,-121.52,#0F4E8C,Maiduan,,USA
+1896,34,-113.33,#593DA4,Yuman-Cochimi,Yuman,USA
+1897,39.33,-123.5,#52AA92,Pomoan,Western,USA
+1898,34.61,-120.09,#882472,Chumash,,USA
+1899,-3.42,136.75,#3959AE,Trans New Guinea,Western Trans New Guinea,Indonesia
+1900,17.23,-97.88,#B89B4F,Otomanguean,Mixtecan,Mexico
+1901,-23.98,23.93,#B79392,Kx'aa,,Botswana
+1902,-19.25,17.7,#E2C79D,Kx'aa,,Namibia
+1903,-3.88,35.8,#AF2B77,Niger-Kongo,Atlantic-Congo,Tanzania
+1904,-13.83,-65.67,#933E53,Movima,,Bolivia
+1905,8.07,13.882,#8B67A4,Niger-Kongo,Atlantic-Congo,Cameroon
+1906,-8.817,143.034,#557F64,Eastern Trans Fly,,Papua New Guinea
+1907,-17.75,168.25,#CC5088,Oceanic,Southern Oceanic,Vanuatu
+1908,44.5,-123,#894347,Kalapuyan,,USA
+1909,40.45,-124.4,#74308F,Dene-Yeniseic,Na-Dene,USA
+1910,23,93.167,#4D7CAF,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+1911,-1.32,-70.8,#506B79,Boran,Bora,Colombia
+1912,-19.75,163.67,#BD5878,Oceanic,Southern Oceanic,New Caledonia
+1913,-9.27,35.04,#B8376A,Niger-Kongo,Atlantic-Congo,Tanzania
+1914,6,-59.5,#4A5097,Cariban,Venezuelan,Guyana
+1915,-20.64,-58.8,#864766,Mascoian,,Paraguay
+1916,51.65,3.92,#7CAA0F,Indo-European,Germanic,Netherlands
+1917,-8.33,146.25,#4BBCCC,Trans New Guinea,Eleman,Papua New Guinea
+1918,-12.74,-60.8,#8174B1,Tupian,Tupari,Brazil
+1919,-11.599,-61.915,#6344A7,Tupian,Tupari,Brazil
+1920,0.25,-69.5,#4C8EA6,Nadahup,Vaupés,Brazil
+1921,-10.8734,-75.245,#6B4877,Arawak,South-Southwest,Peru
+1922,-12.0452,-72.339,#74356C,Arawak,,Peru
+1923,-22.7,-64,#7151A1,Tupian,Tupi-Guarani,Argentina
+1924,-26,137.5,#4A9B87,Pama-Nyungan,,Australia
+1925,-10,-50.2,#634DAB,Macro-Je,Karaja,Brazil
+1926,22.5,113.53,#CDE08C,Tibeto-Burman,Sinitic,China
+1927,-14.184,144.255,#4F7C84,Pama-Nyungan,,Australia
+1928,-30,145.2,#46AF54,Pama-Nyungan,Baagandji,Australia
+1929,-21.67,165.83,#BA535A,Oceanic,Southern Oceanic,New Caledonia
+1930,-11.643081,-53.308853,#84658F,Macro-Je,Je,Brazil
+1931,-15.17,166.75,#EA7C87,Oceanic,Southern Oceanic,Vanuatu
+1932,-2.56,147.28,#CB2E94,Oceanic,Admiralties,Papua New Guinea
+1933,23.25,120.7,#A06B4C,Austronesian,Tsouic,Taiwan
+1934,28.64,102.508,#5EB496,Tibeto-Burman,Qiangic,China
+1935,-0.974,119.998,#E4644E,Malayo-Polynesian,Celebic,Indonesia
+1936,-2.17,121.322,#CC3D70,Malayo-Polynesian,Celebic,Indonesia
+1937,-19,130,#64737C,Pama-Nyungan,,Australia
+1938,48.22,-118.45,#983F49,Salish,Interior,USA
+1939,16.19,6.84,#6C447C,Nilo-Saharan,Songhai,Niger
+1940,18.285,109.475,#B4DC7E,Malayo-Polynesian,Malayo-Sumbawan,China
+1941,12.2,108.65,#ECCEAB,Malayo-Polynesian,Malayo-Sumbawan,Vietnam
+1942,-1.62,133.15,#BC6B99,East Bird's Head,,Indonesia
+1943,6.743,6.142,#E79571,Niger-Kongo,Atlantic-Congo,Nigeria
+1944,-17.401,130.805,#687D82,Pama-Nyungan,,Australia
+1945,28,120.7,#A3DB7D,Tibeto-Burman,Sinitic,China
+1946,-4.013,140.494,#4E87A2,Yetfa-Biksi,,Papua New Guinea
+1947,-3.75,142.58,#457EA4,Sepik,Tama,Papua New Guinea
+1948,-2.5,140.75,#8B74B8,Oceanic,Western Oceanic,Indonesia
+1949,-12.25,-67.5,#3A658A,Tacanan,Araona-Tacana,Bolivia
+1950,28.552,84.24,#37B880,Tibeto-Burman,Bodic,Nepal
+1951,14.18,-2.58,#687896,Niger-Kongo,Dogon,Mali
+1952,28.617,109.951,#97DB7E,Tibeto-Burman,Sinitic,China
+1953,65.61,-37.63,#2E3F89,Eskimo-Aleut,Eskimo,Greenland (Denmark)
+1954,62.2,-75.65,#323C86,Eskimo-Aleut,Eskimo,Canada
+1955,77.47,-69.25,#303D87,Eskimo-Aleut,Eskimo,Greenland (Denmark)
+1956,36.25,-121.75,#588C9D,Esselen,,USA
+1957,6.158,38.196,#228B7A,Afro-Asiatic,Cushitic,Ethiopia
+1958,8.39,0.57,#9A4EA7,Niger-Kongo,Atlantic-Congo,Ghana
+1959,11.02,9.3,#3AA64E,Afro-Asiatic,Chadic,Nigeria
+1960,39.19,69.303,#3B986C,Indo-European,Indo-Iranian,Tajikistan
+1961,26.63,101.27,#94CEAE,Tibeto-Burman,Lolo-Burmese,China
+1962,26.65,108.35,#DED3A7,Hmong-Mien,Hmongic,China
+1963,-12.78,45.22,#AE257C,Niger-Kongo,Atlantic-Congo,Comoros
+1964,-2.52,30.71,#AB1E7A,Niger-Kongo,Atlantic-Congo,Tanzania
+1965,7.6,-10.81,#B58679,Niger-Kongo,Atlantic-Congo,Liberia
+1966,43.75,26.1,#15A458,Turkic,South-west,Moldova
+1967,0.4,33.39,#A02F69,Niger-Kongo,Atlantic-Congo,Uganda
+1968,7,5.9,#C78F83,Niger-Kongo,Atlantic-Congo,Nigeria
+1969,11.86,18.18,#7D4599,Afro-Asiatic,Chadic,Chad
+1970,35.57,-5.37,#B85641,Afro-Asiatic,Berber,Morocco
+1971,34.76,113.66,#ACDE7C,Tibeto-Burman,Sinitic,China
+1972,37.75,112.833,#A0D67B,Tibeto-Burman,Sinitic,China
+1973,38.04,114.5,#A5D276,Tibeto-Burman,Sinitic,China
+1974,17.917,105.5,#F0B18A,Austroasiatic,Vietic,Laos
+1975,-14.67,142.89,#728E8E,Pama-Nyungan,North Cape York,Australia
+1976,-6.55,144.58,#2AB2BB,Papuan Gulf,Tua River,Papua New Guinea
+1977,-2.872,141.188,#957EB2,Trans New Guinea,Border,Papua New Guinea
+1978,-8.5,160.92,#E35C64,Oceanic,Southeast Solomonic,Solomons
+1979,-4.459,145.089,#8755B8,Trans New Guinea,Madang,Papua New Guinea
+1980,-5.497,148.63,#B454AA,Oceanic,,Papua New Guinea
+1981,-9.328,148.734,#4980A7,Trans New Guinea,Binanderean,Papua New Guinea
+1982,-4.524,145.4,#61639C,Trans New Guinea,Madang,Papua New Guinea
+1983,33.33,44.38,#71655B,Afro-Asiatic,Semitic,Iran
+1984,-5.5,122,#C13669,Malayo-Polynesian,Celebic,Indonesia
+1985,-6.21,107.02,#D6905C,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+1986,10.6,73,#29984F,Indo-European,Indo-Iranian,Maldives
+1987,4.002,-72.814,#6C658D,Arawak,North,Colombia
+1988,-13.73,142.43,#598285,Pama-Nyungan,,Australia
+1989,11,-71.62,#843976,Arawak,,Venezuela
+1990,1.4091,-68.1358,#886865,Arawak,,Brazil
+1991,1.6,-66.8,#7F606F,Arawak,North,Venezuela
+1992,-24.5,146.592,#59A0AC,Pama-Nyungan,Greater Maric,Australia
+1993,-2.25,-71.75,#394CA2,Boran,Bora,Peru
+1994,-33.57,151.31,#3E8A6A,Pama-Nyungan,Yuin-Kuri,Australia
+1995,-26.222,152.081,#3AB37A,Pama-Nyungan,Central-East,Australia
+1996,6.95,-65.85,#496075,Cariban,Venezuelan,Venezuela
+1997,33.93,-118.4,#45838A,Uto-Aztecan,North,USA
+1998,-29.05,152.02,#44A17C,Pama-Nyungan,Central-East,Australia
+1999,8.77,-81.73,#76BD92,Chibchan,West,Panama
+2000,-18.549,144.484,#4DAA99,Pama-Nyungan,Greater Maric,Australia
+2001,8,-77.33,#729AA1,Chibchan,East,Panama
+2002,-27.06,145.86,#40888B,Pama-Nyungan,Greater Maric,Australia
+2003,-32.92,151.79,#468673,Pama-Nyungan,Yuin-Kuri,Australia
+2004,42.7,-114.4,#4C929B,Uto-Aztecan,North,USA
+2005,1.25,-76.67,#26726D,Quechuan,II-B,Colombia
+2006,-33.5,138.75,#459583,Pama-Nyungan,,Australia
+2007,0.5,-69.3,#52AB7D,Tucanoan,,Brazil
+2008,-22.21,117.51,#51B88D,Pama-Nyungan,Pilbara,Australia
+2009,4.8,-67.5,#495780,Arawak,North,Venezuela
+2010,4.71,-64.39,#415E76,Cariban,Guianan Carib,Venezuela
+2011,-0.2,-70.15,#435560,Tucanoan,East,Colombia
+2012,-20,141,#5AAE77,Pama-Nyungan,,Australia
+2013,-34.35,137.62,#3B738A,Pama-Nyungan,Lower Murray,Australia
+2014,9.07,-82.96,#6DBCC2,Chibchan,West,Panama
+2015,-34.25,139.6,#4ABC7F,Pama-Nyungan,Lower Murray,Australia
+2016,1.695783,-67.260483,#98708C,Tupian,Tupi-Guarani,Brazil
+2017,4,-69.3,#71675B,Arawak,,Colombia
+2018,-13.15,-74.25,#347D53,Quechuan,II-C,Peru
+2019,5.82,-68.98,#583483,Guahiban,,Colombia
+2020,37.83,-113.33,#3E816D,Uto-Aztecan,North,USA
+2021,-0.505,-70.61,#495076,Tucanoan,Central,Colombia
+2022,-30.87,153.02,#67B287,Pama-Nyungan,Yuin-Kuri,Australia
+2023,-20,137,#49AE54,Pama-Nyungan,Ngarna,Australia
+2024,-21.887,120.107,#3A9752,Pama-Nyungan,,Australia
+2025,-17.5,145,#559A73,Pama-Nyungan,Greater Maric,Australia
+2026,12.2,-72,#664F43,Arawak,North,Colombia
+2027,-33.8,147.5,#49BD8D,Pama-Nyungan,Wiradhuric,Australia
+2028,-38,146,#5D6C89,Pama-Nyungan,,Australia
+2029,-22,140,#45AC74,Pama-Nyungan,,Australia
+2030,-12.09,134.88,#3ECE79,Pama-Nyungan,Yolngu,Australia
+2031,-27,140.55,#5CA671,Pama-Nyungan,,Australia
+2032,2,-64,#4E48AB,Yanomami,,Venezuela
+2033,2.767,-67.998,#914B65,Arawak,North,Colombia
+2034,-19.24,137.59,#4BB682,Pama-Nyungan,Ngarna,Australia
+2035,-36,146,#428D6E,Pama-Nyungan,,Australia
+2036,-27.6,152.997,#45C47B,Pama-Nyungan,,Australia
+2037,-0.76,-71.103,#70578E,Arawak,North,Colombia
+2038,-21.3,123.7,#41876C,Pama-Nyungan,,Australia
+2039,2.5,-76.67,#36B56C,Barbacoan,Northern,Colombia
+2040,-25.084,152.529,#52CAA0,Pama-Nyungan,,Australia
+2041,-21,129,#517F85,Pama-Nyungan,,Australia
+2042,-17.67,134.6,#4F7A50,Mirndi,Barkly,Australia
+2043,-2.85,141.625,#8770BD,Skou,West,Papua New Guinea
+2044,-2.88,141.74,#A066B5,Skou,Central,Papua New Guinea
+2045,11,-73.9,#3943A5,Chibchan,East,Colombia
+2046,-3,-72,#4123AC,Witoto,Ocaina,Peru
+2047,4,-67.33,#455477,Puinave,,Colombia
+2048,-11,-73.5,#82587E,Arawak,,Peru
+2049,-14,-57,#66419C,Arawak,,Brazil
+2050,5.85,-60.68,#4F5574,Cariban,Venezuelan,Guyana
+2051,0.148,-70.708,#6A56A6,Cariban,Guianan Carib,Colombia
+2052,2.709,-71.98,#6866C8,Guahiban,,Colombia
+2053,6.459,-71.286,#6460A9,Guahiban,,Colombia
+2054,4.924,-61.055,#455485,Cariban,Venezuelan,Venezuela
+2055,1.1,-70.44,#2A919F,Tucanoan,East,Colombia
+2056,-19.9891,-57.028,#8A3A64,Arawak,,Brazil
+2057,16.43,-95.02,#D9546F,Otomanguean,Zapotecan,Mexico
+2058,4.04,-62.78,#685FAA,Yanomami,,Venezuela
+2059,-6.05,-77.86,#25736B,Quechuan,,Peru
+2060,-9.31,-77.85,#276B6C,Quechuan,,Peru
+2061,31.89,97.8,#43ACA2,Tibeto-Burman,Qiangic,China
+2062,21.62,101.567,#6EC7AF,Tibeto-Burman,Lolo-Burmese,China
+2063,24.5,117.67,#C0E37D,Tibeto-Burman,Sinitic,China
+2064,-1,-78.6,#2D975C,Quechuan,II-B,Ecuador
+2065,9.02,8.34,#D99A96,Niger-Kongo,Atlantic-Congo,Nigeria
+2066,9.93,9.1,#D09192,Niger-Kongo,Atlantic-Congo,Nigeria
+2067,-8.49,122.97,#C5759E,Malayo-Polynesian,Timoric,Indonesia
+2068,-8.46,123.555,#D17E88,Malayo-Polynesian,Timoric,Indonesia
+2069,-0.05,130.7,#D270A9,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+2070,-8.83,120.67,#EEB78A,Malayo-Polynesian,Flores-Sawu-Sumba,Indonesia
+2071,-1.915,136.292,#A75CB4,West Papuan,Yapen,Indonesia
+2072,-8.618,141.55,#4B6C73,South New Guinea,West Morehead River,Papua New Guinea
+2073,-8,143.33,#1C8A7F,Trans New Guinea,Waia,Papua New Guinea
+2074,7.18,0.6,#8F5983,Niger-Kongo,Atlantic-Congo,Togo
+2075,23.2,104.7,#E4D58F,Hmong-Mien,Hmongic,China
+2076,29.68,118.1,#A8DD7E,Tibeto-Burman,Sinitic,China
+2077,-20.15,28.38,#A51876,Niger-Kongo,Atlantic-Congo,Botswana
+2078,9.18,5.4,#C0B0B1,Niger-Kongo,Volta-Niger,Nigeria
+2079,6.5,35.5,#51576D,Nilo-Saharan,Surmic,Ethiopia
+2080,8.43,-9.51,#A08091,Mande,Central-West,Sierra Leone
+2081,22.333,99.333,#D3BFAA,Austroasiatic,Palaungic,Myanmar
+2082,-8.275,124.202,#9E80D6,Timor-Alor-Pantar,Alor-Pantar,Indonesia
+2083,6.4,37.93,#296B78,Afro-Asiatic,Omotic,Nigeria
+2084,8.98,10.03,#BCBDAC,Niger-Kongo,Atlantic-Congo,Nigeria
+2085,6.33,9.87,#5A7167,Niger-Kongo,Atlantic-Congo,Nigeria
+2086,6.01,116.12,#DB6964,Malayo-Polynesian,Barito,Malaysia
+2087,-17.72,16.58,#BB3977,Niger-Kongo,Atlantic-Congo,Namibia
+2088,6.03,35.08,#88378E,Nilo-Saharan,Surmic,Ethiopia
+2089,-17.72,24.43,#A2287F,Niger-Kongo,Atlantic-Congo,Namibia
+2090,30.055,101.964,#3CB7A9,Tibeto-Burman,Qiangic,China
+2091,-8.18,127.94,#C07490,Malayo-Polynesian,Southeast Maluku,Indonesia
+2092,-20.49,120.1,#43A558,Pama-Nyungan,,Australia
+2093,10.5,13.86,#995086,Afro-Asiatic,Chadic,Cameroon
+2094,24.156,94.939,#528BA4,Tibeto-Burman,Jingpho,Myanmar
+2095,-3.48,152.19,#D25776,Oceanic,,Papua New Guinea
+2096,25.417,107.88,#F3D992,Hmong-Mien,Mienic,China
+2097,-4.7,145.29,#4E5BCA,Trans New Guinea,Madang,Papua New Guinea
+2098,11.72,29.16,#AE1589,Katla,,Sudan
+2099,15.74,15.85,#5877A5,Nilo-Saharan,Saharan,Chad
+2100,4.24,13.45,#C78E85,Niger-Kongo,Atlantic-Congo,Cameroon
+2101,5.83,118.12,#D96851,Malayo-Polynesian,Barito,Philippines
+2102,-9.006,146.932,#9266BA,Oceanic,,Papua New Guinea
+2103,-6.79,142.316,#3A90C9,Papuan Gulf,Strickland,Papua New Guinea
+2104,-6.753,146.107,#384BC5,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+2105,-5.494,144.668,#285DAC,Trans New Guinea,Chimbu,Papua New Guinea
+2106,-9.142,149.279,#8862BA,Oceanic,,Papua New Guinea
+2107,12.18,18.68,#8A707E,Afro-Asiatic,Chadic,Chad
+2108,-1.75,138.25,#3789B8,Massep,,Indonesia
+2109,9.91,78.12,#138B66,Indo-European,Indo-Iranian,India
+2110,6,125.17,#C65F58,Malayo-Polynesian,Philippines,Philippines
+2111,29.18,-9.711,#943D4A,Afro-Asiatic,Berber,Morocco
+2112,-17.829,35.342,#9B1A86,Niger-Kongo,Atlantic-Congo,Mozambique
+2113,62,-145,#8424C0,Dene-Yeniseic,Na-Dene,USA
+2114,64.42,-173.95,#1E6780,Eskimo-Aleut,Eskimo,Russia
+2115,4,22,#C57F7F,Ubangian,Ngbandi,Democratic Republic of the Congo
+2116,-4.8,38.29,#AA3577,Niger-Kongo,Atlantic-Congo,Tanzania
+2117,-9.08,149.17,#2F66B4,Trans New Guinea,Binanderean,Papua New Guinea
+2118,9.91,-83.68,#3C63A7,Chibchan,West,Costa Rica
+2119,-7.141,144.14,#6C88C8,Papuan Gulf,Kikorian,Papua New Guinea
+2120,9,-13.16,#B38091,Niger-Kongo,Atlantic-Congo,Sierra Leone
+2121,56.5,27.5,#3E9748,Indo-European,Balto-Slavic,Latvia
+2122,24.33,93.99,#2240AB,Tibeto-Burman,Kuki-Chin-Naga,India
+2123,-12.41,25.76,#AB3A87,Niger-Kongo,Atlantic-Congo,Zambia
+2124,6.33,37.75,#1A7A53,Afro-Asiatic,Omotic,Ethiopia
+2125,6.53,10.48,#C5788D,Niger-Kongo,Atlantic-Congo,Cameroon
+2126,-8.4,36.03,#B94575,Niger-Kongo,Atlantic-Congo,Tanzania
+2127,-8.55,33.48,#AE2E75,Niger-Kongo,Atlantic-Congo,Tanzania
+2128,24.35,81.43,#2FB252,Indo-European,Indo-Iranian,India
+2129,-4.672,143.712,#3A6272,Arafundi,,Papua New Guinea
+2130,-2.55,-77.63,#304B81,Jivaroan,,Ecuador
+2131,-17.34,37.12,#A72D69,Niger-Kongo,Atlantic-Congo,Mozambique
+2132,9.83,34.65,#2A716F,Afro-Asiatic,Omotic,Ethiopia
+2133,9.4,34.4,#797F6C,Nilo-Saharan,Komuz,Ethiopia
+2134,31.95,100.93,#57A5A2,Tibeto-Burman,Bodic,China
+2135,29.44,53.01,#33A24A,Indo-European,Indo-Iranian,Iran
+2136,12.6,35.8,#9F4F7B,Nilo-Saharan,Gumuz,Ethiopia
+2137,-4.26,-77.84,#32598A,Jivaroan,,Peru
+2138,12.18,-12.73,#903371,Niger-Kongo,Atlantic-Congo,Guinea
+2139,11.13,-3.65,#923374,Niger-Kongo,Atlantic-Congo,Mali
+2140,49,19,#3B973D,Indo-European,Balto-Slavic,Slovakia
+2141,-3.37,119.87,#DD5A4D,Malayo-Polynesian,Greater South Sulawesi,Indonesia
+2142,7.2,79.83,#18A46C,Dravidian,South,Sri Lanka
+2143,61,165,#38514F,Chukotko-Kamchatkan,Main,Russia
+2144,9.67,8.81,#C37A9E,Niger-Kongo,Atlantic-Congo,Nigeria
+2145,12,12,#2A656A,Afro-Asiatic,Cushitic,Ethiopia
+2146,42.03,43.98,#26895F,Turkic,Urum,Russua
+2147,27.5,81.5,#2FB140,Indo-European,Indo-Iranian,India
+2148,-8.9,141.265,#1D6E8C,South New Guinea,West Morehead River,Papua New Guinea
+2149,-29.631,151.385,#47CB90,Pama-Nyungan,,Australia
+2150,-16.33,136.6,#67BD75,Mirndi,Barkly,Australia
+2151,-7.49,144.82,#376DA5,Trans New Guinea,Purari,Papua New Guinea
+2152,-7.226,146.991,#C863B9,Oceanic,,Papua New Guinea
+2153,-6.1,146.83,#373AB3,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+2154,-9.629,147.914,#678FB2,Southeast Papuan,Owen Stanley Ranges,Papua New Guinea
+2155,-5.43,141.942,#533F9F,Trans New Guinea,Ok,Papua New Guinea
+2156,-10.119,149.706,#695EBB,Southeast Papuan,Dagan,Papua New Guinea
+2157,-16.211,168.011,#BF568E,Oceanic,Southern Oceanic,Vanuatu
+2158,-5.967,145.292,#2F4DB4,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+2159,-5.584,146.349,#9E5CC2,Oceanic,,Papua New Guinea
+2160,-3.714,141.883,#5D7B94,Sepik,Ram,Papua New Guinea
+2161,-16.269,167.964,#D36691,Oceanic,Southern Oceanic,Vanuatu
+2162,-5.066,142.489,#8883E0,Sepik,Sepik Hill,Papua New Guinea
+2163,13.914,107.753,#F2B892,Malayo-Polynesian,Malayo-Sumbawan,Vietnam
+2164,3.736,115.468,#E98175,Malayo-Polynesian,North Borneo,Malaysia
+2165,-16.42,167.5,#9361B2,Oceanic,Southern Oceanic,Vanuatu
+2166,-19.377,169.298,#BB44AC,Oceanic,Southern Oceanic,Vanuatu
+2167,-16.25,167.55,#C856A2,Oceanic,Southern Oceanic,Vanuatu
+2168,-16.25,167.33,#BD50AD,Oceanic,Southern Oceanic,Vanuatu
+2169,-11.8,133.7,#85318E,Macro-Gunwinygu,Gunwingyuan proper,Australia
+2170,5.11,10.61,#B6A276,Niger-Kongo,Atlantic-Congo,Cameroon
+2171,-16.32,168.04,#AD44AF,Oceanic,Southern Oceanic,Vanuatu
+2172,28.33,101.35,#53A4C3,Tibeto-Burman,Qiangic,China
+2173,-2.596,151.995,#A74A7C,Oceanic,,Papua New Guinea
+2174,2.466,114.25,#E98B77,Malayo-Polynesian,North Borneo,Malaysia
+2175,-16.08,168.08,#C15E87,Oceanic,Southern Oceanic,Vanuatu
+2176,48.14,-123.57,#8C4047,Salish,Coast,USA
+2177,-4.256,142.834,#326172,Sepik,Ndu,Papua New Guinea
+2178,49.275,-123.2,#A5304C,Salish,Coast,Canada
+2179,48.59,-123.38,#923A4D,Salish,Coast,Canada
+2180,9.85,8.65,#C8BA7E,Niger-Kongo,Atlantic-Congo,Nigeria
+2181,-19.563,169.315,#B8569C,Oceanic,Southern Oceanic,Vanuatu
+2182,2.908,112.106,#FE9671,Malayo-Polynesian,Malayo-Sumbawan,Malaysia
+2183,4.083,114.355,#F58C72,Malayo-Polynesian,North Borneo,Malaysia
+2184,63,32,#4BAE3B,Uralic,Finnic,Russia
+2185,-3.17,141,#596DB6,Trans New Guinea,Border,Papua New Guinea
+2186,27.29,99.17,#46BFB2,Tibeto-Burman,Bodic,China
+2187,63.5,13,#7FBB28,Indo-European,Germanic,Sweden
+2188,69.27,19.96,#5DA71F,Uralic,Finnic,Norway
+2189,52,45.5,#2B8356,Uralic,Mordvin,Russia
+2190,52.43,43.45,#219963,Uralic,Mordvin,Russia
+2191,41.5,86.1,#288C78,Turkic,South-east,China
+2192,43,89.25,#20917F,Turkic,South-east,China
+2193,29.7,80.48,#44A98F,Tibeto-Burman,Western Himalayan,India
+2194,32.2,96.48,#3CB59D,Tibeto-Burman,Bodic,China
+2195,27.88,109.29,#E2D094,Hmong-Mien,Hmongic,China
+2196,4,101.667,#CC957C,Austroasiatic,Aslian,Malaysia
+2197,-11.431967,-53.185075,#687ABF,Macro-Je,Je,Brazil
+2198,-5.25,-48.9166,#6D6DC0,Macro-Je,,Brazil
+2199,-4.2422,-53.3745,#804FB0,Cariban,Pekodian,Brazil
+2200,-9,-52,#8C8FB4,Macro-Je,Je,Brazil
+2201,2.9266,-53.0419,#6C26A8,Tupian,Tupi-Guarani,French Guiana
+2202,-12.3,-64.98,#9D715E,Chapacura,More-Waric,Bolivia
+2203,-5.5,-53,#8F75A9,Tupian,Juruna,Brazil
+2204,-13,-54.2,#90528C,Cariban,Nahukwa,Brazil
+2205,-3.156,-56.558,#854D99,Tupian,Mawe,Brazil
+2206,-11.014,-61.222,#8460BD,Tupian,Mondé,Brazil
+2207,-22.7,-42.1,#8F53BE,Tupian,Tupi-Guarani,Brazil
+2208,-7.441,-73.465,#A4CBDB,Panoan,Main,Brazil
+2209,-15.251,-57.309,#AC65D5,Macro-Je,Bororo,Brazil
+2210,34.9,-106.675,#571C92,Kiowa-Tanoan,Tewa-Tiwa,USA
+2211,-10.2567,-51.014352,#8849BE,Tupian,Tupi-Guarani,Brazil
+2212,-12.3262,-62.6181,#7357BB,Tupian,Tupari,Brazil
+2213,-7.17,-75,#427B9C,Panoan,Main,Peru
+2214,28.2,94.6,#44A7BB,Tibeto-Burman,Tani,India
+2215,28,94.8,#49A99F,Tibeto-Burman,Tani,India
+2216,28.7,94.3,#3D9E9C,Tibeto-Burman,Tani,India
+2217,28.8,94.2,#3EA1B6,Tibeto-Burman,Tani,India
+2218,-1.73,135.806,#CF6999,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia
+2219,36.42,41.225,#876136,Afro-Asiatic,Semitic,Turkey
+2220,20.7,58.2,#864F26,Afro-Asiatic,Semitic,Oman
+2221,23.63,58.55,#943F36,Afro-Asiatic,Semitic,Oman
+2222,-9.58,119.33,#D6726F,Malayo-Polynesian,Flores-Sawu-Sumba,Indonesia
+2223,10.9,-4.4,#915E96,Niger-Kongo,Atlantic-Congo,Burkina Faso
+2224,10.45,-4.72,#8AB17C,Mande,Central-West,Burkina Faso
+2225,7.05,-8.86,#8A9591,Mande,Eastern,Liberia
+2226,7.83,-4.25,#A18EA5,Mande,Eastern,Côte d'Ivoire
+2227,10.54,-5.22,#7991AD,Mande,Northwest,Burkina Faso
+2228,7.85,-8.26,#8653A3,Mande,Central-West,Liberia
+2229,12.7,-12.3,#8BAB8C,Mande,Central-West,Senegal
+2230,-5.2,122.67,#CA4757,Malayo-Polynesian,Celebic,Indonesia
+2231,0.25,-77,#53AA81,Kofan,,Ecuador
+2232,-1.5,-78,#33926F,Quechuan,II-B,Ecuador
+2233,0.858,-72.029,#2B8D9B,Kakua-Nukak,,Colombia
+2234,35.5,33,#3E8F2E,Turkic,South-west,Cyprus
+2235,-0.1302,-70.6927,#B56E8A,Arawak,North,Colombia
+2236,26.83,89.31,#39B597,Tibeto-Burman,Bodic,India
+2237,-13.87,167.42,#D49EA8,Oceanic,Southern Oceanic,Vanuatu
+2238,45.973,13.378,#5FA523,Indo-European,Balto-Slavic,Italy
+2239,46.2,13,#7CA023,Indo-European,Romance,Italy
+2240,46.1,11.3,#70AC1E,Indo-European,Germanic,Italy
+2241,45.62,11.13,#76A925,Indo-European,Germanic,Italy
+2242,46.68,11.9,#8BA126,Indo-European,Romance,Italy
+2243,46.38,13.3,#61B027,Indo-European,Balto-Slavic,Italy
+2244,45.73,11.85,#78AA25,Indo-European,Romance,Italy
+2245,45,1,#81AB1F,Indo-European,Romance,France
+2246,5.21,36.17,#37A374,Afro-Asiatic,Omotic,Ethiopia
+2247,27.58,84.41,#42BE49,Indo-European,Indo-Iranian,Nepal
+2248,5.84,42.11,#638E75,Afro-Asiatic,Cushitic,Somalia
+2249,6.28,37.76,#43905F,Afro-Asiatic,Cushitic,Somalia
+2250,-19.18,24,#4EA075,Khoe,Khoe,South Africa
+2251,-2.75,115.64,#ED9C4F,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+2252,-4.4,143.99,#7888AB,Yuat,,Papua New Guinea
+2253,15.41,120.2,#AD8540,Malayo-Polynesian,Philippines,Philippines
+2254,-2.27,102.55,#ECB785,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+2255,10.45,-72.8,#6052BB,Cariban,Yukpa,Venezuela
+2256,-12,-54,#654197,Cariban,Pekodian,Brazil
+2257,7.563,-67.422,#4E916A,Yaruro,,Venezuela
+2258,27.075,91.145,#2D8CA6,Tibeto-Burman,Gongduk,Bhutan
+2259,27.46,90.45,#50A6A6,Tibeto-Burman,Bodic,Bhutan
+2260,-12.86,-63.19,#5447B6,Tupian,Tupi-Guarani,Bolivia
+2261,7.13,-77.57,#4B8A8F,Chocoan,Emberá,Colombia
+2262,3,-77,#446C88,Chocoan,Emberá,Colombia
+2263,30,101.9,#2EB3A0,Tibeto-Burman,Qiangic,China
+2264,13.335,108.907,#F5B78A,Malayo-Polynesian,Malayo-Sumbawan,Vietnam
+2265,6.08,0.43,#A3768A,Niger-Kongo,Volta-Niger,Ghana
+2266,-5.43,37.19,#80447E,Nilo-Saharan,Nilotic,Kenya
+2267,1.225,35.65,#8A4267,Nilo-Saharan,Nilotic,Kenya
+2268,1.75,33.21,#B73766,Nilo-Saharan,Nilotic,Uganda
+2269,26.92,89.24,#22B6AA,Tibeto-Burman,Lhokpu,Bhutan
+2270,4.751,11.231,#A6467E,Niger-Kongo,Atlantic-Congo,Cameroon
+2271,6.58,10.23,#D4977F,Niger-Kongo,Atlantic-Congo,Cameroon
+2272,-15.87,168.08,#C05488,Oceanic,Southern Oceanic,Vanuatu
+2273,19.96,104.09,#F6C396,Austroasiatic,Khmuic,Laos
+2274,10.55,34.28,#A66271,Nilo-Saharan,Nilotic,Uganda
+2275,-8.648,121.861,#F4C28F,Malayo-Polynesian,Flores-Sawu-Sumba,Indonesia
+2276,-4,131,#EC81AD,Malayo-Polynesian,Central Maluku,Indonesia
+2277,3.13,97.45,#F59263,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+2278,-3.33,102.25,#E17E6A,Malayo-Polynesian,Lampungic,Indonesia
+2279,-2.55,101.1,#E98C63,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+2280,-3.3,102.86,#F2A275,Malayo-Polynesian,Malayo-Sumbawan,Indonesia
+2281,4,117.75,#D47B67,Malayo-Polynesian,North Borneo,Indonesia
+2282,-0.5,114.5,#EC9B72,Malayo-Polynesian,Barito,Indonesia
+2283,17.83,-96.39,#AE2F6B,Otomanguean,Chinantec,Mexico
+2284,17.67,-97.33,#C13863,Otomanguean,Popolocan,Mexico
+2285,17.57,-96.55,#B93A5D,Otomanguean,Chinantec,Mexico
+2286,17.32,-95.93,#B13355,Otomanguean,Chinantec,Mexico
+2287,40.5,-122,#462E92,Yana,,USA
+2288,2.5,-53.1569,#7F51A9,Tupian,Tupi-Guarani,French Guiana
+2289,31.57,101.93,#325C84,Tibeto-Burman,Qiangic,China
+2290,10.6,-11.44,#8DA289,Mande,Western,Guinea
+2291,-5.92,155.29,#8B387F,Oceanic,,Papua New Guinea
+2292,18.23,-94.87,#A0557F,Totozoquean-Chitimacha,Totozoquean,Mexico
+2293,12.58,102.53,#F9C498,Austroasiatic,Pearic,Thailand
+2294,13.442,120.572,#A9B471,Malayo-Polynesian,Philippines,Philippines
+2295,19.333,101.25,#ECD3A3,Austroasiatic,Khmuic,Laos
+2296,15.17,107.83,#F0BA90,Austroasiatic,Bahnaric,Vietnam
+2297,19.167,97.159,#DCBEC4,Tibeto-Burman,Karen,Myanmar
+2298,19.55,97.15,#DAC2B2,Tibeto-Burman,Karen,Myanmar
+2299,-3.54,119.66,#D75D56,Malayo-Polynesian,Greater South Sulawesi,Indonesia
+2300,-3,122.33,#DA5D67,Malayo-Polynesian,Celebic,Indonesia
+2301,17.75,105.75,#F4AF85,Austroasiatic,Vietic,Vietnam
+2302,-22.488,116.506,#60B784,Pama-Nyungan,,Australia
+2303,40.42,114.091,#A4DE86,Tibeto-Burman,Sinitic,China
+2304,-3.05,139.21,#9BB2CF,Lakes Plains,Eastern,Indonesia
+2305,-5.5,150,#D76876,Oceanic,,Papua New Guinea
+2306,27.88,102.27,#A2D8A7,Tibeto-Burman,Lolo-Burmese,China
+2307,26.22,109.04,#EDD79F,Hmong-Mien,Pa-Hng,China
+2308,33.35,75.275,#27A549,Indo-European,Indo-Iranian,India
+2309,31.92,50.86,#55725F,Indo-European,Indo-Iranian,Iran
+2310,22.78,103.225,#CDCF9E,Tai-Kadai,South,China
+2311,28.25,109.96,#E2DC85,Hmong-Mien,Hmongic,China
+2312,26.64,107.91,#E1D69C,Hmong-Mien,Hmongic,China
+2313,4.8,33,#914169,Nilo-Saharan,Nilotic,Sudan
+2314,6.66,8.96,#B67D92,Niger-Kongo,Atlantic-Congo,Nigeria
+2315,11.47,-15.13,#8B2978,Niger-Kongo,Atlantic-Congo,Guinea-Bissau
+2316,24,98,#F8CEA9,Tai-Kadai,South,China
