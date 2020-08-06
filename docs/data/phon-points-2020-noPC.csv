@@ -2079,7 +2079,6 @@ Mwakai [yla],-4.3,143.97,#969861,Yuat ,,Papua New Guinea
 Arctic Bay_Inuit [ikt-5],73.036,-85.15,#72777C,Eskimo-Aleut ,Eskimo,Canada
 Dolgan [sah-3],70.11,94.29,#709197,Turkic ,North-east Turkic,Russia
 Baniwa_do_Içana [bwi],2.18,-67.77,#708574,Arawak ,Northern Maipuran,Brazil
-Rawat [jml],28.6,81.5,#8F936C,Tibeto-Burman ,Western Himalayan,India
 Lamkang [lmk],24.15,94.27,#B3A168,Tibeto-Burman ,Kuki-Chin-Naga,India
 Dũya [ldb-3],9.34,8.02,#76697B,Niger-Kongo ,Atlantic-Congo,Nigeria
 Hdi [xed],11.87,13.72,#A9C59A,Afro-Asiatic ,Chadic,Nigeria
@@ -3169,7 +3168,6 @@ Vietnamese_Nghean [vie-4],18.83,105.58,#80809E,Austroasiatic ,Vietic,Vietnam
 Hungarian_Central [hun-3],47.2,18.4,#99AF89,Uralic ,Hungarian,Hungary
 Tweants [twd],52.32,6.77,#CF716C,Indo-European ,Germanic,Netherlands
 Hewa [ski-2],-8.603,122.73,#B05E84,Malayo-Polynesian,Timoric,Indonesia-NTT
-Bediondo [bjv],10.2,17,#7A6A7F,Nilo-Saharan ,Central_Sudanic,Chad
 Chinantec_Quetzalapa [xxx-166],17.34,-95.88,#927D79,Otomanguean ,Western Otomanguean,Mexico
 Kham_Gamale [kgj-2],28.39,82.88,#D17879,Tibeto-Burman ,Kham,Nepal
 Chinantec_Teotalcingo [xxx-167],17.42,-95.95,#927D79,Otomanguean ,Western Otomanguean,Mexico
@@ -4149,10 +4147,8 @@ Thai_Southern_Songkhla [sou-10],7.2,100.6,#B56882,Tai-Kadai ,South Tai-Kadai,Tha
 Thai_Surat-Thani [sou-11],9.1,99.3,#B56882,Tai-Kadai ,South Tai-Kadai,Thailand
 Faroese_Sudhuroy [fao-2],61.5,-6.84,#C4AC70,Indo-European ,Germanic,Denmark
 Gronings [nld-14],53.22,6.57,#C8BF67,Indo-European ,Germanic,Netherlands
-Stellingwerfs [nld-15],53,6.3,#C8BF67,Indo-European ,Germanic,Netherlands
 Drenthe [nld-16],52.92,6.58,#C8BF67,Indo-European ,Germanic,Netherlands
 Wijhe [nld-17],52.38,6.13,#C8BF67,Indo-European ,Germanic,Netherlands
-Twente [nld-18],52.32,6.77,#C8BF67,Indo-European ,Germanic,Netherlands
 Gelderland [nld-19],52.06,5.95,#C8BF67,Indo-European ,Germanic,Netherlands
 Rusyn [bel-2],48.63,22.29,#8C9D70,Indo-European ,Balto-Slavic,Ukraine
 Tamil_Kanniyakumari [],8.084,77.546,#849C81,Dravidian ,South Dravidian,India
@@ -4161,18 +4157,14 @@ Tsou_Tfuya [],23.22,120.79,#6E8071,Austronesian ,Tsouic,Taiwan
 Endo_Marakwet [],1,35,#95A094,Nilo-Saharan ,Nilotic,Kenya
 Tingzicun [yue-28],22.782,108.324,#84926A,Tibeto-Burman ,Sinitic,China
 Oshimaura [mvi-3],28.45,129.6,#84926A,Japonic ,Ryukyuan,Japan-Ryukyu
-Kunigami [mvi-3],27.37,128.57,#8D9766,Japonic ,Ryukyuan,Japan-Ryukyu
 Diebu_Dianga [khg],27.76,99.83,#808D64,Tibeto-Burman ,Bodic,China
 Kuroshima [mvi-3],24.235,124.01,#92866A,Japonic ,Ryukyuan,Japan-Ryukyu
 Shiraho [mvi-3],24.4,124.25,#849174,Japonic ,Ryukyuan,Japan-Ryukyu
 Samish [str-4],48.48,-122.875,#7997AC,Salish ,Central Salish,Canada
-Tu [mjg],36.82,102.12,#85568B,Mongolic ,Core Mongolic,China
 Manx English [eng],54.15,-4.48,#B8B277,Indo-European ,Germanic,Britain
 Izon_Bumo [ijc-2],-0.48,14.29,#6D8074,Ijoid ,Ijo,Nigeria
 Arabic_Ilbahariyya [arz],5.18,5.52,#687F7F,Afro-Asiatic ,Semitic,Egypt
 Ghale_Barpak [ghe],28.35,28.35,#CE7172,Tibeto-Burman ,Ghale,Nepal
-Diebu_Wangzang [khg],27.76,99.83,#6C8173,Tibeto-Burman ,Bodic,China
-Diebu_Mingda [khg],27.76,99.83,#6C8173,Tibeto-Burman ,Bodic,China
 Qianxi [hmq],27.01,106.03,#B18D6F,Hmong-Mien ,Hmongic,China
 Shuichengdou [hmq],26.47,105.13,#AB8E66,Hmong-Mien ,Hmongic,China
 Huishuibaibang [hmq],25.985,106.93,#B18D6F,Hmong-Mien ,Hmongic,China
