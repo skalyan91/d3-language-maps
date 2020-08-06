@@ -3090,7 +3090,7 @@ Hateruma [rys],24.06,123.78,#998F8E,Japonic ,Ryukyuan,Japan-Ryukyu
 Kansai [jpn-3],34.65,133.92,#968F68,Japonic ,Japanese,Japan
 Yonaguni [yoi],24.46,123,#A6A28B,Japonic ,Ryukyuan,Japan-Ryukyu
 Kukuya [kkw],-2.6,14.2,#A19860,Niger-Kongo ,Atlantic-Congo,Congo
-"Hmu_Northern [hea, hms]",26.77,108.22,#908F67,Hmong-Mien ,Hmongic,China
+Hmu_Northern [hea; hms],26.77,108.22,#908F67,Hmong-Mien ,Hmongic,China
 Khmer_Kiengang [khm-4],12,105,#876291,Austroasiatic ,Khmer,Vietnam
 Kitsai [kii],31.75,-95.62,#8C8F7C,Caddoan ,Northern Caddoan,USA
 Qo_Xiong [mmr-2],28.33,109.43,#948272,Hmong-Mien ,Hmongic,China
