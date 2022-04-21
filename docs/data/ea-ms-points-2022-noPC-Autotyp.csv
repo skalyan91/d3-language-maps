@@ -1,0 +1,981 @@
+name,latitude,longitude,color,family,subgroup,country
+!Xoon [nmn],-24,21.5,#738AA2,Tuu,Hua,Botswana
+|Xam [xam],-30.34,21.82,#6C899A,Tuu,/Xam,South Africa
+Aari [aiw],6,36.6,#8C4463,Afro-Asiatic,Omotic,Ethiopia
+Ababda,24,34,#AC8696,Afro-Asiatic,Semitic,Egypt
+Abenaki_Western [abe],44,-72.25,#98A04C,Algic,Algonquian,USA
+Abipon [axb],-26,-61,#77A47E,Guaicuruan,Southern Guaicuruan,Argentina
+Abkhaz [abk],43,41.03,#A4733D,Northwest Caucasus,Abaza-Abkhaz,Abkhazia
+Abui [abz],-8.417,124.6,#9A92A1,Timor-Alor-Pantar,Alor-Pantar,Indonesia-NTT
+Achumawi [acv],41.5,-121,#659852,Palaihnihan,,USA
+Acoma [kjq-2],34.92,-107.58,#9AA455,Keresan,Western Keresan,USA
+Adzera [azr],-6.417,146.25,#829BA3,Oceanic,Western Oceanic,Papua New Guinea
+Afar [aar],11.85,42,#9B5739,Afro-Asiatic,Cushitic,Djibouti
+Afrikaans [afr],-33.9,18.5,#BA5FCF,Indo-European,Germanic,South Africa
+Agta [agt],17.967,121.833,#91A9C2,Malayo-Polynesian,Philippines,Philippines
+Ainu [ain],43.5,142,#819F65,Ainu,,Japan
+Aiwoo [nfl],-10.5,166.5,#97B79D,Oceanic,Te Motu,Solomons_East
+Aka [axk],3.46,15.73,#96A5A3,Ubangian,,Central African Republic
+Akabea [abj-2],12.38,92.78,#69915C,Andaman,,India_Andaman-Nicobars
+Akan [aka],6.5,-1.25,#A78FB1,Niger-Kongo,Atlantic-Congo,Ghana
+Akha [ahk],20.3,99.6,#7E6BAA,Tibeto-Burman,Lolo-Burmese,Thailand
+Akie [oki],-5.43,37.19,#7E9A69,Nilo-Saharan,Eastern Sudanic,Kenya
+Alagwa [wbj],-4.64,35.72,#8F8C81,Afro-Asiatic,Cushitic,Tanzania
+Albanian_Gheg_Kosovo [aln],42.58,21,#A95D9A,Indo-European,Albanian,Kosovo
+Aleut [ale],54,-166,#6E772A,Eskimo-Aleut,Aleut,USA-Alaska
+Alsea [aes],44.67,-123.93,#74B47A,Alsean,,USA
+Alyawarr [aly],-24.6,134.5,#3F57A1,Pama-Nyungan,Arandic,Australia
+Amahuaca [amc],-10.8,-73.5,#757B52,Panoan,Southern Panoan,Peru
+Amarar,20,36,#AE4654,Afro-Asiatic,Cushitic,Sudan
+Ambonese Malay [abs],-3.7,128.2,#9F8BE2,Malayo-Polynesian,Malayo-Sumbawan,Indonesia-Maluku-north
+Amharic [amh],10,38,#C15E5A,Afro-Asiatic,Semitic,Ethiopia
+Amis [ami],23.333,121.333,#90A6B5,Austronesian,East Formosan,Taiwan
+Amo [amo],10.33,8.67,#A891A5,Niger-Kongo,Atlantic-Congo,Nigeria
+Amoy [nan],24.5,118,#B26EDA,Tibeto-Burman,Sinitic,China
+Anal [anm],24.33,93.99,#8B6D55,Tibeto-Burman,Kuki-Chin-Naga,India
+Andalusian [spa-4],37.5,-3.6,#CD5AA6,Indo-European,Romance,Spain
+Angali [pes-2],29.75,50.96,#C9518B,Indo-European,Indo-Iranian,Iran
+Angami [njm],25.667,94.5,#8863AB,Tibeto-Burman,Kuki-Chin-Naga,India
+Angas [anc],9.75,8.75,#928BCD,Afro-Asiatic,Chadic,Nigeria
+Anindilyagwa [aoi],-14,136.5,#51AC74,Macro-Gunwinygu,East Arnhem,Australia
+Antwerps [nld-2],51.22,4.4,#D754B3,Indo-European,Germanic,Belgium
+Añú [pbg],11,-71.62,#83BA76,Arawak,Northern Maipuran,Venezuela
+Anyin [any],5.9,-2.9,#9A9BC5,Niger-Kongo,Atlantic-Congo,Côte d'Ivoire
+Apache_Western [apw],33.9,-109.55,#84A75D,Dene-Yeniseic,Na-Dene,USA
+Apinaye [apn],-6.25,-48,#79A3A1,Macro-Je,Je,Brazil
+Apma [app],-15.775,168.158,#8498AC,Oceanic,Southern Oceanic,Vanuatu
+Arabic [arb],30,42,#A77C83,Afro-Asiatic,Semitic,Saudi Arabia
+Arabic_Basra [acm],30.5,47.825,#BA6A8F,Afro-Asiatic,Semitic,Iraq
+Arabic_Egyptian [arz],30,30,#D870A3,Afro-Asiatic,Semitic,Egypt
+Arabic_Libyan [ayl],32,20.25,#C07E9F,Afro-Asiatic,Semitic,Libya
+Arabic_Moroccan [ary],34,-7,#CF859D,Afro-Asiatic,Semitic,Morocco
+Arabic_Sa'idi [aec],25,32.75,#BC7CA6,Afro-Asiatic,Semitic,Egypt
+Arabic_Sudanese [apd-2],15.5,32.56,#B1828C,Afro-Asiatic,Semitic,Sudan
+Arabic_Syrian [apc],33,37,#C57E9F,Afro-Asiatic,Semitic,Syria
+Arabic_Tunisian [aeb],36,10,#CA7E8F,Afro-Asiatic,Semitic,Tunisia
+Arabic_Yemeni [jye-2],14,47,#C6829B,Afro-Asiatic,Semitic,Yemen
+Arapaho [arp],39.565,-105.345,#6DB720,Algic,Algonquian,USA
+Arctic Bay_Inuit [ikt],73.036,-85.15,#667E1F,Eskimo-Aleut,Eskimo,Canada
+Arikara [ari],40,-97,#77B11F,Caddoan,Northern Caddoan,USA
+Arizona Tewa [tew],35.8,-110.4,#989652,Kiowa-Tanoan,Tewa,USA
+Armenian [hye],40,45,#AC5369,Indo-European,Armenian,Armenia
+Arrernte_Central [are],-22.85,133.7,#434E9B,Pama-Nyungan,Arandic,Australia
+Arrernte_Mparntwe [aer],-24,136,#425598,Pama-Nyungan,Arandic,Australia
+Assiniboine [asb],49,-100,#71A154,Siouan,Western Siouan,Canada
+Atayal [tay],24.5,121,#8FAEBF,Austronesian,Atayalic,Taiwan
+Atsugewi [atw],40.75,-121,#6D9852,Palaihnihan,,USA
+Awadhi [awa],27.5,81.5,#C2287E,Indo-European,Indo-Iranian,India
+Aymara [ayr],-16,-69.5,#9D6749,Aymaran,Aymara,Peru
+Baarin [mon-2],43.53,118.67,#9E475A,Mongolic,Core Mongolic,China
+Babungo [bav],6.12,10.42,#AB88D8,Niger-Kongo,Atlantic-Congo,Cameroon
+Bafut [bfd],6.083,10.0999,#9A84AA,Niger-Kongo,Atlantic-Congo,Cameroon
+Bagirmi [bmi],10.202,17,#AB86A3,Nilo-Saharan,Central Sudanic,Chad
+Bai [bca],26,100,#B563C7,Tibeto-Burman,Macro-Bai,China
+Bajuni [swh-2],-1,42.04,#9F9C90,Niger-Kongo,Atlantic-Congo,Kenya
+Bakairí [bkq],-14,-55,#7D9753,Cariban,Pekodian,Brazil
+Bakhtiari [ldd],31.92,50.86,#A6577A,Indo-European,Indo-Iranian,Iran
+Balanta [ble],12,-15,#91A780,Niger-Kongo,Atlantic-Congo,Guinea Bissau
+Balante_Sofa [bjt],12.54,-15.67,#92A686,Niger-Kongo,Atlantic-Congo,Guinea Bissau
+Balinese [ban],-8.583,115.25,#B280E3,Malayo-Polynesian,Malayo-Sumbawan,Indonesia-NTB
+Bambara [bam],12.5,-7.5,#996592,Mande,Western Mande,Mali
+Bari [bfa],3.8,31,#9578C2,Nilo-Saharan,Eastern Sudanic,South Sudan
+Barí [mot],9,-73.5,#828668,Chibchan,Core Chibchan,Venezuela
+Basà [bzw],8.03,7.06,#A289B8,Niger-Kongo,Atlantic-Congo,Nigeria
+Basari [bsc],12.25,-13,#A4A685,Niger-Kongo,Atlantic-Congo,Senegal
+Basketo [bst],6.384,36.651,#A4685B,Afro-Asiatic,Omotic,Ethiopia
+Basque [eus],42.82,-1.95,#B25A66,Basque,,Spain
+Basque_Navarro [eus-2],43.17,-1.24,#B65664,Basque,,France
+Baule [bci],7.5,-5,#939BB2,Niger-Kongo,Atlantic-Congo,Côte d'Ivoire
+Beja [bej],18,36,#A9494E,Afro-Asiatic,Cushitic,Sudan
+Belarussian [bel],54,27,#B4599B,Indo-European,Balto-Slavic,Belarus
+Bella Coola [blc],52.5,-126.67,#75BC74,Salish,Bella Coola,Canada
+Bemba [bem],-11,31,#96A27C,Niger-Kongo,Atlantic-Congo,Zambia
+Bena [bez],-9.27,35.04,#A3A28D,Niger-Kongo,Atlantic-Congo,Tanzania
+Bende [bdp],-6,30.5,#9BA68F,Niger-Kongo,Atlantic-Congo,Tanzania
+Bengali [ben],22.5,90,#BF378E,Indo-European,Indo-Iranian,Bangladesh
+Beniamer,18,38,#AB4D53,Afro-Asiatic,Cushitic,Sudan
+Berom [bom-2],9.67,8.81,#9D94B1,Niger-Kongo,Atlantic-Congo,Nigeria
+Berta [wti],10.67,34.5,#97827A,Nilo-Saharan,Berta,Ethiopia
+Bhili [bhb],22,73,#95586B,Indo-European,Indo-Iranian,India
+Bhojpuri [bho],26.8,85.3,#A3496A,Indo-European,Indo-Iranian,India
+Biafada [bif],11.47,-15.13,#9D9E6B,Niger-Kongo,Atlantic-Congo,Guinea Bissau
+Biaka [axk-2],3.65,17.27,#9C9AD2,Niger-Kongo,Atlantic-Congo,Congo
+Bijago [bjg],11.28,-15.83,#A4AA7F,Niger-Kongo,Atlantic-Congo,Guinea Bissau
+Bikinians,12,165,#8FA9C9,Oceanic,Micronesian,USA Federated States of Micronesia
+Bilin [byn],15.9,38.3,#9B5D52,Afro-Asiatic,Cushitic,Eritrea
+Bini_Edo [bin],6.42,5.83,#A28AC8,Niger-Kongo,Atlantic-Congo,Nigeria
+Birom [bom],9.67,8.83,#9A95C0,Niger-Kongo,Atlantic-Congo,Nigeria
+Blackfoot [bla],50,-112.67,#73B32D,Algic,Algonquian,Canada
+Blood,51,-115,#73AE2D,Algic,Algonquian,Canada
+Bobangi [bni],0,17.8,#9AB0B1,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Bokala [lin-2],4.57,19.02,#A09993,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Bokyi [bky],6.1,9.06,#9D8EAC,Niger-Kongo,Atlantic-Congo,Nigeria
+Bola [bnp],-5.5,150,#8DA7B7,Oceanic,Western Oceanic,Papua New Guinea-Bismarcks
+Bongo [bot],7.5,28,#8A98BE,Nilo-Saharan,Central Sudanic,South Sudan
+Bontok [bnc],17.083,120.917,#93A4C6,Malayo-Polynesian,Philippines,Philippines
+Boróro [bor],-15,-52,#799D6D,Macro-Je,Bororo,Brazil
+Brajbhasha [bra],27.49,77.67,#C02783,Indo-European,Indo-Iranian,India
+Bribri [bzd],9.5,-83,#787988,Chibchan,Core Chibchan,Costa Rica
+Buduma [bdm],13.6,14,#A58E9F,Afro-Asiatic,Chadic,Chad
+Buin [buo],-6.75,155.833,#89895E,South Bougainville,Buin,Papua New Guinea-Bougainville
+Bukiyip_Arapesh [ape],-3.667,142.5,#8AA0AA,Torricelli,Kombio-Arapesh,Papua New Guinea
+Bulgarian [bul],43,25,#BD5F97,Indo-European,Balto-Slavic,Bulgaria
+Bumbita_Arapesh [aon],-3.667,142.833,#8B9FA8,Torricelli,Kombio-Arapesh,Papua New Guinea
+Bunun [bnn],23.5,121,#8CAABC,Austronesian,Bunun,Taiwan
+Burarra [bvr],-12.25,134.667,#559071,Macro-Gunwinygu,Maningrida,Australia
+Burmese [mya],20,96,#AC509D,Tibeto-Burman,Lolo-Burmese,Myanmar
+Burushaski [bsk],36.5,74.5,#AA5752,Burushaski,,Pakistan
+Buryat [bxm],52,108,#8D464F,Mongolic,Core Mongolic,Russia
+Bushong [buf],-4.67,21.3,#A2ABA9,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+C'lela [dri],11.47,5.27,#8C8FA8,Niger-Kongo,Atlantic-Congo,Nigeria
+Caddo [cad],33.33,-93.5,#80AF27,Caddoan,Caddo,USA
+Cahuilla [chl],33.75,-117.75,#6A8448,Uto-Aztecan,North Uto-Aztecan,USA
+Campa [cni],-12,-74,#73947C,Arawak,Southern Maipuran,Peru
+Canela-Krahô [ram],-6.5,-45,#769990,Macro-Je,Je,Brazil
+Cantonese [yue],22.333,114,#A46FD0,Tibeto-Burman,Sinitic,Hong Kong
+Car [caq],9.167,92.75,#8EA1BB,Austroasiatic,Nicobar,India_Andaman-Nicobars
+Carib [car],7.85,-59,#8C9151,Cariban,Guianan Carib,Guyana
+Carolinian [cal],15,146,#94AEA8,Oceanic,Micronesian,USA Northern Mariana Islands
+Cayapa [cbi],1.2,-78.75,#796876,Barbacoan,Southern Barbacoan,Ecuador
+Cayuga [cay],42.75,-76.75,#81BF4A,Iroquoian,Northern Iroquoian,USA
+Cebuano [ceb],10,124,#9FA5B6,Malayo-Polynesian,Philippines,Philippines
+Cemuhi [cam],-20.833,165,#89B6AD,Oceanic,Southern Oceanic,New Caledonia
+Central Banda [tor],6.64,22.76,#857BD0,Ubangian,Bandaic,Central African Republic
+Chacobo [cao],-12.25,-65,#6C8052,Panoan,Southern Panoan,Bolivia
+Chaha [sgw],8.2,38,#B76650,Afro-Asiatic,Semitic,Ethiopia
+Chakma [ccp],22.9,92.23,#8A598D,Indo-European,Indo-Iranian,Bangladesh
+Cham_Eastern [cjm],10.93,108.1,#A884FA,Malayo-Polynesian,Malayo-Sumbawan,Vietnam
+Chamorro [cha],13.583,145,#A1A7B0,Malayo-Polynesian,Chamorro,USA Federated States of Micronesia Guam
+Chara [cra],6.64,36.42,#9D4078,Afro-Asiatic,Omotic,Ethiopia
+Chattisgarhi [hne],21.25,81.25,#815B81,Indo-European,Indo-Iranian,India
+Chechen [che],43.13,45.54,#9B4D55,Nakh-Daghestanian,Nakh,Russia
+Chemehuevi [ute-2],34.33,-115.17,#757D49,Uto-Aztecan,Numic,USA
+Chenchu [cde],15.88,79.25,#80635A,Dravidian,South-Central Dravidian,India
+Cherokee [chr],35.5,-83.5,#81AE56,Iroquoian,Southern Iroquoian,USA
+Cheyenne [chy],43.5,-104,#79B00F,Algic,Algonquian,USA
+Chichewa [nya-2],-14.8,32.81,#9AA88B,Niger-Kongo,Atlantic-Congo,Malawi
+Chichimec [pei],24.87,-103.7,#80A43B,Otomanguean,Western Otomanguean,Mexico
+Chickasaw [cic],34,-88,#7D9E46,Muskogean,Western Muskogean,USA
+ChiKunda [kdn],-15.73,30.28,#95A985,Niger-Kongo,Atlantic-Congo,Mozambique
+Chimariko [cid],41,-123,#6B9F3C,Chimariko,,USA
+Chin_Daai [dao],21.1,93.65,#8A6F90,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+Chin_Falam [cfm],22.9,93.67,#8A697F,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+Chin_Tiddim [ctd],23.333,93.667,#8E7C86,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+Chinantec_Comaltepec [cco],17.57,-96.55,#ACBA8F,Otomanguean,Western Otomanguean,Mexico
+Chinantec_Lealao [cle],17.32,-95.93,#AABA88,Otomanguean,Western Otomanguean,Mexico
+Chinantec_Palantla [cpa],17.83,-96.39,#A9B487,Otomanguean,Western Otomanguean,Mexico
+Chinantec_Sochiapam [cso],17.825,-96.67,#A5A876,Otomanguean,Western Otomanguean,Mexico
+Chinook [chh],46,-124,#71C374,Chinook,Lower Chinook,USA
+ChiNyanja [nya],-15,35,#9EA68F,Niger-Kongo,Atlantic-Congo,Malawi
+Chiquitano [cax],-17.5,-62,#A88F6C,Chiquitano,,Bolivia
+Chiricahua [apm],33.5,-108,#78A43E,Dene-Yeniseic,Na-Dene,USA
+Chitimacha [ctm],29.67,-91,#6E7F40,Totozoquean-Chitimacha,Chitimacha,USA
+Choctaw [cho],32.25,-88.5,#7D9C3B,Muskogean,Western Muskogean,USA
+Chokwe [cjk],-9.702,22.876,#9EA398,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Chontal [clo],16.3,-95.5,#9FC17C,Tequistlatecan,,Mexico
+Chukchi [ckt],67,-173,#7F8130,Chukotko-Kamchatkan,Main Chukotko-Kamchatkan,Russia
+Chumash [boi],34.5,-120.25,#7BB964,Chumashan,South Chumashan,USA
+Chumash_Ineseño [inz],34.61,-120.09,#79C161,Chumashan,South Chumashan,USA
+Chuukese [chk],7.333,151.75,#8DB4B4,Oceanic,Micronesian,USA Federated States of Micronesia
+CiLuba [lua],-6,22,#A596A6,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Cisuundi [sdj],-5.56,12.19,#A0A597,Niger-Kongo,Atlantic-Congo,Angola
+Cocama-Cocamilla [cod],-5,-74.3,#788D72,Tupian,Tupi-Guarani,Peru
+Cochiti,35.61,-106.34,#91984A,Keresan,Eastern Keresan,USA
+Cocopa [coc],32.5,-115,#7C8E3F,Yuman-Cochimi,Yuman,USA
+Coeur d'Alene [crd],47.33,-117,#6CB466,Salish,Interior Salish,USA
+Comanche [com],33.5,-101.5,#677F34,Uto-Aztecan,Numic,USA
+Comox [coo],49.75,-125,#77B570,Salish,Central Salish,Canada
+Coos [csz],43.5,-124.17,#72A95B,Coos,,USA
+Cree_Plains [crk],54,-116,#6FAF4A,Algic,Algonquian,Canada
+Cree_Woods [cwd],57.5,-100.5,#6CB639,Algic,Algonquian,Canada
+Creek [mus],30.41,-85.2,#7FA53D,Muskogean,Creek,USA
+Crow [cro],45.5,-108,#6D9B33,Siouan,Western Siouan,USA
+Cubeo [cub],1.33,-70.5,#748169,Tucanoan,Central Tucanoan,Colombia
+Cupeño [cup],33.17,-116.5,#65763D,Uto-Aztecan,North Uto-Aztecan,USA
+Czech [ces],50,14.5,#C3459A,Indo-European,Balto-Slavic,Czech Republic
+Dagaare [dga],11.5,-2.5,#8F7EBF,Niger-Kongo,Atlantic-Congo,Burkina Faso
+Dagbani [dag],9.58,-0.5,#9478AA,Niger-Kongo,Atlantic-Congo,Ghana
+Dagur [dta],48,124,#8A5570,Mongolic,Core Mongolic,China
+Damana [mbp],10.9,-73.6,#7D8C52,Chibchan,Core Chibchan,Colombia
+Dan [dnj],7.5,-8,#857284,Mande,Eastern Mande,Côte d'Ivoire
+Dani [dni],-4,138.917,#7D7A62,Trans New Guinea,Western Trans New Guinea,Indonesia-Papua
+Darfur Arabic [apd-3],13,25,#AE8EB2,Afro-Asiatic,Semitic,Sudan
+Datooga_Asimjeeg [tcc],-3.52,35.34,#92847B,Nilo-Saharan,Eastern Sudanic,Tanzania
+Dazaga [dzg],15.74,15.85,#916073,Nilo-Saharan,Saharan,Chad
+Dela-Oenale [row],-10.92,123,#9A9EAC,Malayo-Polynesian,Timoric,Indonesia-NTT
+Delaware [unm],41.5,-74.67,#75C640,Algic,Algonquian,USA
+Dena'ina [tfn],62,-150,#6FAE5F,Dene-Yeniseic,Na-Dene,USA-Alaska
+Dene Suline [chp],59,-106,#6E9B42,Dene-Yeniseic,Na-Dene,Canada
+Dhuwal [duj-2],-12.78,136.01,#3865AE,Pama-Nyungan,Yolngu,Australia
+Didinga [did],4.33,33.6,#9B9181,Nilo-Saharan,Eastern Sudanic,South Sudan
+Diegueño [dih],32.67,-116.17,#69913D,Yuman-Cochimi,Yuman,USA
+Digo [dig],-4.62,39.18,#97A38F,Niger-Kongo,Atlantic-Congo,Kenya
+Dime [dim],6.25,36.33,#A7435C,Afro-Asiatic,Omotic,Ethiopia
+Dingri [bod-4],28.567,86.633,#AD3F77,Tibeto-Burman,Bodic,China
+Dinka [dip],8.5,28,#92709F,Nilo-Saharan,Eastern Sudanic,South Sudan
+Diola [dyo],13,-16,#9A9D9E,Niger-Kongo,Atlantic-Congo,Senegal
+Diyari [dif],-28,139,#435F89,Pama-Nyungan,Karnic,Australia
+Djambarrpuyngu [djr],-12,135.5,#395BAB,Pama-Nyungan,Yolngu,Australia
+Djapu [duj],-12.667,136,#3760AF,Pama-Nyungan,Yolngu,Australia
+Djinang [dji],-12.5,134.833,#3D539B,Pama-Nyungan,Yolngu,Australia
+Dogon [dbu],14.5,-2.5,#9A5863,Niger-Kongo,Dogon,Mali
+Dongolawi [doo],18,32,#91625D,Nilo-Saharan,Eastern Sudanic,Sudan
+Doyayo [dow],8.67,13.08,#9C928B,Niger-Kongo,Atlantic-Congo,Cameroon
+Drawa,31,-7,#CA8B93,Afro-Asiatic,Berber,Morocco
+Drokpa [bod-5],29.05,84.5,#A63B88,Tibeto-Burman,Bodic,China
+Duala [dua],4.3,9.8,#9895BD,Niger-Kongo,Atlantic-Congo,Cameroon
+Dutch [nld],52,7,#D54FB2,Indo-European,Germanic,Netherlands
+Dyula [dyu],10.45,-4.72,#A65CA1,Mande,Western Mande,Burkina Faso
+Eastern Lawa [lwl],19.01,98.76,#A391FF,Austroasiatic,Khasi-Palaung,Thailand
+Eastern Ojibwe [ojg-2],44.7,-79.3,#65BB3E,Algic,Algonquian,Canada
+Ebrie [igb],5.3,-4,#9285B8,Niger-Kongo,Atlantic-Congo,Côte d'Ivoire
+Efik [efi],4.92,8.5,#A98EA8,Niger-Kongo,Atlantic-Congo,Nigeria
+Ejagham [etu],5.6,9,#A882AC,Niger-Kongo,Atlantic-Congo,Cameroon
+Ekagi [ekg],-3.917,136.25,#7A7B79,Trans New Guinea,Western Trans New Guinea,Indonesia-Papua
+Ekoka !Kung [knw],-19.25,17.7,#6789C1,Kx'aa,Ju-Kung,Namibia
+Embera_Baudo [bdc],5.2,-76.8,#7C7B60,Chocoan,Emberá,Colombia
+Embera_Chamí [cmi],4.88,-76.07,#807355,Chocoan,Emberá,Colombia
+Embera_Northern [emp],7.13,-77.57,#7C705E,Chocoan,Emberá,Colombia
+Epena [sja],3,-77,#7C814B,Chocoan,Emberá,Colombia
+Esa,7.01,47.49,#A4677A,Afro-Asiatic,Cushitic,Somalia
+Eudave [opt],28.5,-110,#81703C,Uto-Aztecan,Opatan,Mexico
+Ewe [ewe],6.1,1.18,#A18CB3,Niger-Kongo,Atlantic-Congo,Ghana
+Eyak [eya],60.5,-145,#6EA157,Dene-Yeniseic,Na-Dene,USA-Alaska
+Fang [fan],0.5,11,#8FA1A1,Niger-Kongo,Atlantic-Congo,Equatorial Guinea
+Farsi [pes],32.86,57,#C85594,Indo-European,Indo-Iranian,Iran
+Figuig [grr],29.11,0.02,#BC7D94,Afro-Asiatic,Berber,Morocco
+Fijian [fij],-17.8,178.525,#89B3BE,Oceanic,Central Pacific,Fiji
+Fijian_Nadrau [wyy],-17.71,177.95,#7CB5B4,Oceanic,Central Pacific,Fiji
+Foe [foi],-6.333,143.5,#736E69,Papuan Gulf,Kikorian,Papua New Guinea
+Fon Gbe [fon],6.42,2.17,#A26DD5,Niger-Kongo,Atlantic-Congo,Benin
+Fore [for],-6.75,145.5,#766C56,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+Fula [fuh],11.498,-12.5,#8D8A79,Niger-Kongo,Atlantic-Congo,Guinea
+Fur [fvr],12.05,23.64,#A16376,Nilo-Saharan,Fur,Sudan
+Futuna_East [fud],-14.29,-178.16,#8698D8,Oceanic,Central Pacific,Wallis and Futuna
+Futuna_West [fut],-19.667,170.667,#7C89C6,Oceanic,Central Pacific,Vanuatu
+Fuyuge [fuy],-8.667,147.333,#736D99,Trans New Guinea,Oro-Wharton,Papua New Guinea
+Gã [gaa],5.67,-0.17,#978BA0,Niger-Kongo,Atlantic-Congo,Ghana
+Ga'anda [gqa],10.33,12.58,#978F8E,Afro-Asiatic,Chadic,Nigeria
+Gaahmg [tbi],11.767,34.35,#B1968A,Nilo-Saharan,Eastern Sudanic,Sudan
+Gabrielino [xgf],33.93,-118.4,#5C6761,Uto-Aztecan,Tongva,USA
+Galo [adi],28,94.75,#8F6C7F,Tibeto-Burman,Macro-Tani,India
+Gapapaiwa [pwg],-9.8,149.833,#83A293,Oceanic,Western Oceanic,Papua New Guinea
+Garifuna [cab],15.85,-85,#90BD9A,Arawak,Northern Maipuran,Honduras
+Garo [grt],26,90,#7E6E8A,Tibeto-Burman,Bodo-Garo,India
+Gbaya-Kara [gya],6,15,#8387C8,Niger-Kongo,Atlantic-Congo,Central African Republic
+Gedeo [drs],6.158,38.196,#964158,Afro-Asiatic,Cushitic,Ethiopia
+Georgian [kat],41.72,44.78,#B55F63,Kartvelian,Georgian,Georgia
+Gikuyu [kik],-0.75,36.75,#A18B98,Niger-Kongo,Atlantic-Congo,Kenya
+Giziga [gis],10.68,14.22,#9E939C,Afro-Asiatic,Central Afro-Asiatic,Cameroon
+Gogo_central [gog],-5.91,35.11,#A17D94,Niger-Kongo,Atlantic-Congo,Tanzania
+Gola [gol],7.6,-10.81,#898AC6,Niger-Kongo,Atlantic-Congo,Liberia
+Golpu [dhg],-11.23,136.63,#4259B4,Pama-Nyungan,Yolngu,Australia
+Gorwaa [gow],-4.24,35.8,#A68068,Afro-Asiatic,Cushitic,Tanzania
+Great Andamanese [abj],12.5,92.83,#6B7B5C,Andaman,,India_Andaman-Nicobars
+Greek [ell],38,23,#CB57AD,Indo-European,Graeco-Phrygian,Greece
+Green Hmong [hnj],18.816,98.883,#9E81E7,Hmong-Mien,Hmongic,Thailand
+Guajajara [gub],-5,-45,#81BD6C,Tupian,Tupi-Guarani,Brazil
+Guajira [guc],12,-72,#91B47C,Arawak,Northern Maipuran,Colombia
+Guató [gta],-16,-66,#73C28C,Macro-Je,Guato,Bolivia
+Gude [gde],10.05,14.3,#8C9FBA,Afro-Asiatic,Chadic,Cameroon
+Gujarati [guj],23.25,72.7,#B7388A,Indo-European,Indo-Iranian,India
+Gupapuyngu [guf],-12.166,135.466,#3E5DBC,Pama-Nyungan,Yolngu,Australia
+Gwama [kmq],9.4,34.4,#8D759B,Nilo-Saharan,Koman,Ethiopia
+Gwari [gby],9.5,7,#90A194,Niger-Kongo,Atlantic-Congo,Nigeria
+Hadendowa,18.01,35.59,#A94E55,Afro-Asiatic,Cushitic,Sudan
+Hadza [hts],-3.75,35.17,#709F68,Hadza,,Tanzania
+Haida [hdn],53,-132,#749F6A,Haida,,Canada
+Haisla [has],54,-128.75,#70C689,Wakashan,North Wakashan,Canada
+Halia [hla],-5.25,154.75,#80A0B4,Oceanic,Western Oceanic,Papua New Guinea-Bougainville
+Halkomelem [hur],49.5,-121.85,#7ABA5C,Salish,Central Salish,Canada
+Halkomelem_Musqueam [hur-2],49.275,-123.2,#7CBF72,Salish,Central Salish,Canada
+Hamer [amf],5,36.5,#93555D,Afro-Asiatic,Omotic,Ethiopia
+Hangaza [han],-2.52,30.71,#A89685,Niger-Kongo,Atlantic-Congo,Tanzania
+Hangzhou [wuu-2],30.25,120.167,#B46AD6,Tibeto-Burman,Sinitic,China
+Hanunoo [hnn],12.33,121.25,#87A7AA,Malayo-Polynesian,Philippines,Philippines
+Hausa [hau],12,7,#B589AB,Afro-Asiatic,Chadic,Nigeria
+Hawaiian [haw],21.905,-160.2,#8A8FCD,Oceanic,Central Pacific,USA-Hawaii
+Hazaragi [haz],33.37,64.51,#A9526B,Indo-European,Indo-Iranian,Iran
+Hebrew [heb],31.75,35.17,#C862A8,Afro-Asiatic,Semitic,Israel
+Herero [her],-21,20,#8E9691,Niger-Kongo,Atlantic-Congo,Namibia
+Hidatsa [hid],48,-110,#78AD1A,Siouan,Western Siouan,USA
+Hiligaynon [hil],10.254,123,#88B0C0,Malayo-Polynesian,Philippines,Philippines
+Hill_Madia [mrr],18.9,81.15,#7F536E,Dravidian,South-Central Dravidian,India
+Hindi [hin],27.2,79.5,#C42B86,Indo-European,Indo-Iranian,India
+Hlai [lic],18.65,109.4,#938CE7,Tai-Kadai,Hlaic,China
+Hmar [hmr],25,92.2,#885E88,Tibeto-Burman,Kuki-Chin-Naga,India
+Hmong Nzhuab_East [hnj-3],23.2,104.7,#A488ED,Hmong-Mien,Hmongic,China
+Ho [hoc],22,86,#99676A,Austroasiatic,Munda,India
+Holoholo [hoo],-5.5,28.25,#9F9D9D,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Hopi [hop],36,-110,#8A8139,Uto-Aztecan,Hopi,USA
+Huave [huv],16.2,-95,#99B7A0,Huave,,Mexico
+Huichol [hch],22,-104,#987156,Uto-Aztecan,Corachol,Mexico
+Huitoto_Minica [huu],-2.4,-72.25,#737569,Boran,Witoto,Colombia
+Huitoto_Murui [hux],-1,-73.5,#787163,Boran,Witoto,Colombia
+Hungarian [hun],47,19,#B3578B,Uralic,Hungarian,Hungary
+Hupa [hup],41.08,-123.67,#6E9952,Dene-Yeniseic,Na-Dene,USA
+Iatmul [ian],-4.25,143.25,#785E77,Ndu,Nuclear Ndu,Papua New Guinea
+Iban [iba],2,112,#959DDF,Malayo-Polynesian,Malayo-Sumbawan,Malaysia-Borneo
+Icelandic [isl],64.1,-21.9,#AF59A3,Indo-European,Germanic,Iceland
+Idaho Shoshone [shh-2],42.7,-114.4,#647353,Uto-Aztecan,Numic,USA
+Ifugao_Batad [ifb],16.833,121.083,#8FACCA,Malayo-Polynesian,Philippines,Philippines
+Igbo [ibo],6,7.33,#9B7CB0,Niger-Kongo,Atlantic-Congo,Nigeria
+Ilokano [ilo],18.17,120.45,#92A4C4,Malayo-Polynesian,Philippines,Philippines
+Ingush [inh],42.97,44.77,#984765,Nakh-Daghestanian,Nakh,Russia
+Inpui [nkf],24.88,93.69,#8A5B88,Tibeto-Burman,Kuki-Chin-Naga,India
+Inuktun [kal-3],77.47,-69.25,#6B8620,Eskimo-Aleut,Eskimo,Denmark Greenland
+Inutttitut_Labrador [ike-2],58.4855,-62.674,#6B7E21,Eskimo-Aleut,Eskimo,Canada
+Irabu_Ryukyu [mvi-2],24.833,125.183,#854769,Japonic,Ryukyuan,Japan-Ryukyu
+Iraqw [irk],-3.5,35,#A5647E,Afro-Asiatic,Cushitic,Tanzania
+Irish [gle],52.67,-8.6,#B47BAB,Indo-European,Celtic,Ireland
+Jacaltec [jac],15.75,-91.75,#A2B991,Mayan,Core Mayan,Guatemala
+Jahai [jhi],5.9,101.5,#74A7BA,Austroasiatic,Aslian,Malaysia
+Jamsay Dogon [djm],14.18,-2.58,#9E6172,Niger-Kongo,Dogon,Mali
+Jamul Tiipay [dih-2],32.17,-116.5,#7B8F4B,Yuman-Cochimi,Yuman,USA
+Japanese [jpn],37,140,#B93989,Japonic,Japanese,Japan
+Japanese_Iyo [jpn-13],33.75,132.7,#B5358E,Japonic,Japanese,Japan
+Japanese_Kagoshima [jpn-2],31.6,130.55,#B13493,Japonic,Japanese,Japan
+Japanese_Kansai [jpn-4],34.69,135.2,#B43687,Japonic,Japanese,Japan
+Japanese_Tohoku [jpn-3],40.82,140.75,#B53A92,Japonic,Japanese,Japan
+Jarawa [anq],11.55,92.7,#697C62,Andaman,,India_Andaman-Nicobars
+Javanese [jav],-7.5,110.667,#AB8DE2,Malayo-Polynesian,Javanic,Indonesia-Java
+Jebala,35,-5,#C090A2,Afro-Asiatic,Semitic,Morocco
+Jejara [pzn],25.45,94.95,#9576C6,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+Jicarilla [apj],36,-104,#77A547,Dene-Yeniseic,Na-Dene,USA
+Jingpho [kac],25.46,97.33,#9368C8,Tibeto-Burman,Jingpho,Myanmar
+Jivaro [jiv],-3,-78.25,#78746E,Jivaroan,Shuaric,Ecuador
+Jukun [jbu],6.92,10.42,#9D85C1,Niger-Kongo,Atlantic-Congo,Nigeria
+Jukun_Akum [jbu-2],7.21,10.25,#A48DB3,Niger-Kongo,Atlantic-Congo,Nigeria
+K'chò [mwq],20.29,94.39,#896F6D,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+Kabardian [kbd],43.52,43.63,#A06A33,Northwest Caucasus,Ubykh-Circassian,Russia
+Kabiye [kbp],7,1.15,#988F82,Niger-Kongo,Atlantic-Congo,Togo
+Kabui [nbu],24.76,93.92,#856B72,Tibeto-Burman,Kuki-Chin-Naga,India
+Kabyle [kab],36.5,5,#C58397,Afro-Asiatic,Berber,Algeria
+Kadazan [kzj],5.917,117.167,#8AA4D1,Malayo-Polynesian,North Borneo,Malaysia-Borneo
+Kadiwéu [kbc],-20,-57,#94AFA4,Guaicuruan,Northern Guaicuruan,Brazil
+Kagulu [kki],-6.38,37.05,#9EA991,Niger-Kongo,Atlantic-Congo,Tanzania
+Kaingang [kgp],-22,-48,#696A96,Macro-Je,Je,Brazil
+Kaiping [yue-5],22.38,112.7,#AC62D1,Tibeto-Burman,Sinitic,China
+Kalaallisut [kal],61,-48,#797639,Eskimo-Aleut,Eskimo,Denmark Greenland
+Kaliai-Kove [kvc],-5.667,149.75,#99B8AD,Oceanic,Western Oceanic,Papua New Guinea-Bismarcks
+Kalmyk [xal],45,47,#8D4C4D,Mongolic,Core Mongolic,Russia
+Kamaiurá [kay],-12,-52.67,#749B4E,Tupian,Tupi-Guarani,Brazil
+Kamba [kam],-2,38,#B28997,Niger-Kongo,Atlantic-Congo,Kenya
+Kambera [xbr],-9.833,120.5,#93ACCD,Malayo-Polynesian,Flores-Sawu-Sumba,Indonesia-NTT
+Kamia,33,-115,#7C9640,Yuman-Cochimi,Yuman,USA
+Kamoro [kgq],-4.333,136,#759839,Trans New Guinea,Asmat-Kamoro,Indonesia-Papua
+Kanawa,12,9,#BD82A4,Afro-Asiatic,Chadic,Nigeria
+Kangri [xnr],31.5,77,#B23E7D,Indo-European,Indo-Iranian,India
+Kanuri [knc],11.25,14.25,#A36D6A,Nilo-Saharan,Saharan,Cameroon
+Kapingamarangi [kpg],1,155,#839AD5,Oceanic,Central Pacific,USA Federated States of Micronesia
+Kara [kah],9,24,#9679A6,Nilo-Saharan,Central Sudanic,Central African Republic
+Karajá [kpj],-10,-50.2,#7B9568,Macro-Je,Karaja,Brazil
+Karankawa [zkk],28.91,-96.49,#64944C,Karankawa,,USA
+Karbi [mjw],26.2,93.5,#7C6E52,Tibeto-Burman,Kuki-Chin-Naga,India
+Karen [bwe],17,98,#8C98E2,Tibeto-Burman,Karen,Myanmar
+Karen_Geba [kvq],19.02,96.58,#8D97D9,Tibeto-Burman,Karen,Myanmar
+Karen_Pho [pwo],14.333,98.3,#8C94DF,Tibeto-Burman,Karen,Myanmar
+Karen_Pho_Kyonbyaw [pwo-2],17.6,95.2,#94A6D6,Tibeto-Burman,Karen,Myanmar
+Karen_Sgaw [ksw],16.9,94.9,#8996E3,Tibeto-Burman,Karen,Myanmar
+Karok [kyh],41.67,-123,#71A352,Karok,,USA
+Kashmiri [kas],34,76,#BB3F86,Indo-European,Indo-Iranian,India
+Kaska [kkz],60.05,-128.7,#739D4B,Dene-Yeniseic,Na-Dene,Canada
+Kati_North [yon],-5.5,141,#7D7471,Trans New Guinea,Ok,Indonesia-Papua
+Katikiteg,44.46,-78.37,#6AB642,Algic,Algonquian,Canada
+Kawaiisu [xaw],36,-117.5,#708931,Uto-Aztecan,Numic,USA
+Kaytetye [gbb],-22,135.5,#3F5699,Pama-Nyungan,Arandic,Australia
+Kazakh [kaz],50,70,#934C4E,Turkic,Common Turkic,Kazakhstan
+Kei [kei],-5.67,133.08,#839DC0,Malayo-Polynesian,Kei,Indonesia-Maluku-south
+Keiga [kec],11.23,29.68,#948E91,Kadugli-Krongo,Keiga,Sudan
+Kele [khy],0.37,24.31,#9E99A5,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Kele [sbc],-2.083,147.333,#7CA7BC,Oceanic,Admiralties,Papua New Guinea-Bismarcks
+Kensiw [kns],6.034,100.998,#7196D9,Austroasiatic,Aslian,Malaysia
+Kenta' Bong [knq],6.235,100.84,#749ED1,Austroasiatic,Aslian,Malaysia
+Kermani [pes-6],31.27,56.81,#CC5682,Indo-European,Indo-Iranian,Iran
+Ket [ket],64,87,#828B61,Dene-Yeniseic,Yeniseic,Russia
+Keweyipay,34,-111,#75974D,Yuman-Cochimi,Yuman,USA
+Khalkha [khk],47,108,#904364,Mongolic,Core Mongolic,Mongolia
+Khanty [kca],64,69,#856A6E,Uralic,Khantyic,Russia
+Kharia [khr],22.5,83.5,#9C6462,Austroasiatic,Munda,India
+Khasi [kha],26,92,#A287B7,Austroasiatic,Khasi-Palaung,India
+Khmer [khm],12.05,105.02,#A985F1,Austroasiatic,Khmer,Cambodia
+Khmer_Surin [kxm],15,103.75,#A386F6,Austroasiatic,Khmer,Thailand
+Kickapoo [kic],41.94,-83.734,#74B537,Algic,Algonquian,USA
+Kikaonde [kqn],-12.41,25.76,#98A891,Niger-Kongo,Atlantic-Congo,Zambia
+Kikongo [kng],-5,16.8,#A2A8B5,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Kildin_Sami [sjd],67.67,35.9,#836268,Uralic,Sami,Russia
+Kilivila [kij],-8.5,151,#86C7C1,Oceanic,Western Oceanic,Papua New Guinea
+Kiliwa [klb],31.33,-115.67,#678755,Yuman-Cochimi,Yuman,USA
+Kiluba [lub],-8.5,26,#9F9DA7,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Kimaama [kig],-8,138.883,#808A96,Trans New Guinea,Kayagar-Kolopom,Indonesia-Papua
+Kinga [zga],-9.36,34.23,#9F9388,Niger-Kongo,Atlantic-Congo,Kenya
+Kinnauri Pahari [kjo],31.78,77.06,#B0407A,Indo-European,Indo-Iranian,India
+KinyaRwanda [kin],-2,30,#AB9084,Niger-Kongo,Atlantic-Congo,Rwanda
+Kiowa [kio],37,-99,#68923D,Kiowa-Tanoan,Kiowa,USA
+Kire [geb],-4.417,144.75,#7D6797,Lower Sepik-Ramu,Ramu,Papua New Guinea
+Kiribati [gil],1.333,173,#91B8C0,Oceanic,Micronesian,Kiribati
+Kisan [kxl-2],22.12,84.02,#A95473,Dravidian,North Dravidian,India
+Kisi [kss],8.57,-10.13,#9A81A6,Niger-Kongo,Atlantic-Congo,Guinea
+Kiwai [kjd],-8.583,143.25,#778C60,Kiwaian,Southern Kiwai,Papua New Guinea
+Klallam [clm],48.14,-123.57,#75B676,Salish,Central Salish,USA
+Klamath [kla],42.5,-121.5,#72A249,Klamath-Modoc,,USA
+Klao [klu],4.75,-8.75,#917C7C,Niger-Kongo,Atlantic-Congo,Liberia
+Kodagu [kfa],13.08,76.42,#A54371,Dravidian,South Dravidian,India
+Koiari [kbk],-9.5,147.333,#767C71,Southeast Papuan,Owen Stanley Ranges,Papua New Guinea
+Koita [kqi],-9.333,147.083,#7A7F70,Southeast Papuan,Owen Stanley Ranges,Papua New Guinea
+Kolokuma [ijc],4.92,5.67,#86706C,Ijoid,Ijo,Nigeria
+Komnzo [tci],-8.618,141.55,#6F6E7D,South New Guinea,East Morehead,Papua New Guinea
+Komo [xom],9,33.75,#8B99A4,Nilo-Saharan,Koman,South Sudan
+Konkomba [xon],9.408,0.431,#9A8389,Niger-Kongo,Atlantic-Congo,Ghana
+Konkow [nmu-2],39.7,-121.52,#677B2A,Maiduan,Northwest Maidu,USA
+Konni [kma],10.24,-1.54,#9885A6,Niger-Kongo,Atlantic-Congo,Ghana
+Konso [kxc],5.4,37.5,#B25B64,Afro-Asiatic,Cushitic,Ethiopia
+Koraga [kfd],12.888,75.282,#A1456C,Dravidian,South Dravidian,India
+Korana [kqz],-26,22,#69827B,Khoe,Khoe,Botswana
+Korean [kor],37,128,#A7508E,Korean,,Korea
+Koryak [kpy],63.9,166.8,#838440,Chukotko-Kamchatkan,Main Chukotko-Kamchatkan,Russia
+Kosraean [kos],5.3,163,#97A8B8,Oceanic,Micronesian,USA Federated States of Micronesia
+Koya [kff],17.5,81.333,#823F72,Dravidian,South-Central Dravidian,India
+Kpa' [ksf],4.751,11.231,#9993A3,Niger-Kongo,Atlantic-Congo,Cameroon
+Kpelle [xpe],7,-10,#9D8495,Mande,Western Mande,Liberia
+Krongo [kgo],10.5,30,#959897,Kadugli-Krongo,Central-western Kadugli-Krongo,Sudan
+Kui [kxu],20,83.5,#923D75,Dravidian,South-Central Dravidian,India
+Kuikuro [kui],-13,-54.2,#6EA882,Cariban,Nahukwa,Brazil
+Kullu [kfx],31.96,77.11,#AF3B7F,Indo-European,Indo-Iranian,India
+Kuman [kue],-5.917,144.917,#7C6866,Trans New Guinea,Chimbu-Wahgi,Papua New Guinea
+Kumyk [kum],42.6,47.8,#AC4452,Turkic,Common Turkic,Russia
+Kuna [kvn],8,-77.33,#8F7793,Chibchan,Core Chibchan,Panama
+Kunama [kun],14.5,37,#8B7E4F,Nilo-Saharan,Kunama,Eritrea
+Kuot [kto],-3.083,151.5,#85BDB3,Kuot,,Papua New Guinea-Bismarcks
+Kurdish [kur],36,44,#BB4D75,Indo-European,Indo-Iranian,Iraq
+Kurmanji [kmr],38,42,#BB496E,Indo-European,Indo-Iranian,Turkey
+Kurux [kxl],26.5,87.35,#A65866,Dravidian,North Dravidian,Nepal
+Kusaal [kus],10.891,-0.363,#968D9E,Niger-Kongo,Atlantic-Congo,Ghana
+Kutenai [kut],49.5,-116,#78B771,Kutenai,,Canada
+Kwaio [kwd],-8.917,161.083,#9FA8A9,Oceanic,Southeast Solomonic,Solomons
+Kwakw'ala [kwk],51,-127,#72AB7C,Wakashan,North Wakashan,Canada
+Kwamera [tnk],-19.649,169.445,#849CA5,Oceanic,Southern Oceanic,Vanuatu
+Kwanyama [kua],-17.72,16.58,#A1A493,Niger-Kongo,Atlantic-Congo,Namibia
+Kwerba [kwe],-2.167,138.5,#6E735B,Tor-Kwerba,West Foya Range,Indonesia-Papua
+Kwere [cwe],-6.51,38.44,#9FA199,Niger-Kongo,Atlantic-Congo,Tanzania
+Kyaka_Enga [kyc],-5.5,144.083,#776477,Trans New Guinea,Engan,Papua New Guinea
+Laguna [kjq],35.25,-107.33,#98A15C,Keresan,Western Keresan,USA
+Lakhota [lkt],45,-102,#75AC60,Siouan,Western Siouan,USA
+Lala-Bisa [leb],-12.95,30.23,#96A984,Niger-Kongo,Atlantic-Congo,Zambia
+Lamaholot [slp],-8.25,123,#9E8EC7,Malayo-Polynesian,Timoric,Indonesia-NTT
+Lamba [lam],-13,28,#99A395,Niger-Kongo,Atlantic-Congo,Zambia
+Lamkang [lmk],24.15,94.27,#8D6D66,Tibeto-Burman,Kuki-Chin-Naga,India
+Lamnso [lns],6.159,10.769,#9576C2,Niger-Kongo,Atlantic-Congo,Cameroon
+Lampung [ljp],-5,105,#73A8CE,Malayo-Polynesian,Lampungic,Indonesia-Sumatra
+Lango [laj],2,33,#9B959C,Nilo-Saharan,Eastern Sudanic,Uganda
+Lele [lln],9.08,15.58,#9E98B8,Afro-Asiatic,Chadic,Chad
+Lenakel [tnl],-19.499,169.314,#8CA79F,Oceanic,Southern Oceanic,Vanuatu
+Lepcha [lep],27,88.2,#8C5E90,Tibeto-Burman,Bodic,India
+Lewo [lww],-16.667,168.333,#8DB0A3,Oceanic,Southern Oceanic,Vanuatu
+Liangmai [njn],25.16,93.54,#8C577E,Tibeto-Burman,Kuki-Chin-Naga,India
+Lillooet [lil],50.75,-122,#74B972,Salish,Interior Salish,Canada
+Lingala [lin],1,18.5,#A3A29F,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Lithuanian [lit],54.9,23.9,#B84E86,Indo-European,Balto-Slavic,Lithuania
+Lodha [ben-4],22.4,87.4,#BE3785,Indo-European,Indo-Iranian,Bangladesh
+Logbara [lgg],3.08,30.92,#917987,Nilo-Saharan,Central Sudanic,Democratic Republic of the Congo
+Lokono [arw-2],6.07,-57.6,#80946F,Arawak,Northern Maipuran,Guyana
+Longgu [lgu],-9.696,160.658,#8BCAAB,Oceanic,Southeast Solomonic,Solomons
+Loniu [los],-2.1,147.417,#7CA3C6,Oceanic,Admiralties,Papua New Guinea-Bismarcks
+Looma [lom],7.97,-9.6,#9B83A5,Mande,Western Mande,Liberia
+Lotha [njh],26.5,94.25,#855585,Tibeto-Burman,Kuki-Chin-Naga,India
+Lou [loj],-2.367,147.333,#86A9CB,Oceanic,Admiralties,Papua New Guinea-Bismarcks
+Loyela [zmq],-0.93,23.3,#9E9F9F,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Lozi [loz],-15,23,#989090,Niger-Kongo,Atlantic-Congo,Zambia
+Luangiua [ojv],-5.417,159.65,#8798D8,Oceanic,Central Pacific,Solomons
+Luchazi [lch],-13.71,19.86,#92A28F,Niger-Kongo,Atlantic-Congo,Angola
+LuGanda [lug],0.5,32.17,#B6948A,Niger-Kongo,Atlantic-Congo,Uganda
+Luhya [lwg],0.38,34.47,#A69398,Niger-Kongo,Atlantic-Congo,Kenya
+Luiseño [lui],33.33,-117.17,#636C6B,Uto-Aztecan,North Uto-Aztecan,USA
+Lumbu [lup],-3.42,10.65,#969CA2,Niger-Kongo,Atlantic-Congo,Gabon
+Lunda [lun],-11.18,23.87,#9A9E8C,Niger-Kongo,Atlantic-Congo,Zambia
+Luo [luo],-0.4,34.4,#9B988A,Nilo-Saharan,Eastern Sudanic,Kenya
+Lurö [tef],8.24,93.13,#8A8EB0,Austroasiatic,Nicobar,India_Andaman-Nicobars
+Lushootseed [lut],48,-122,#72AD87,Salish,Central Salish,USA
+Lusoga [xog],0.4,33.39,#A78E87,Niger-Kongo,Atlantic-Congo,Uganda
+Luvale [lue],-12,22,#99AD9C,Niger-Kongo,Atlantic-Congo,Angola
+Maasai [mas],-3,36,#959A75,Nilo-Saharan,Eastern Sudanic,Tanzania
+Maasinankoore [ffm],11.13,-3.65,#A08D77,Niger-Kongo,Atlantic-Congo,Mali
+Macha,9,37,#AA4D7F,Afro-Asiatic,Cushitic,Ethiopia
+Macushi [mbc],4.5,-60,#75846E,Cariban,Venezuelan,Brazil
+Madi [mhi],3.45,31.17,#967E9D,Nilo-Saharan,Central Sudanic,Uganda
+Magar [mgp],28,83,#9D4D75,Tibeto-Burman,Magar,Nepal
+Magi [mgu],-10.25,149,#797A66,Southeast Papuan,Owen Stanley Ranges,Papua New Guinea
+Maidu [nmu],40,-120.67,#667332,Maiduan,Northeast Maidu,USA
+Maithili [mai],26.5,86,#9B4E72,Indo-European,Indo-Iranian,India
+Makah [myh],48.33,-124.67,#77B188,Wakashan,South Wakashan,USA
+Makassar [mak],-5.417,119.583,#A9A8B4,Malayo-Polynesian,Greater South Sulawesi,Indonesia-Sulawesi
+Makhuwa-Enehara [vmw-2],-15,39,#9FA281,Niger-Kongo,Atlantic-Congo,Mozambique
+Makiritare [mch-3],4.71,-64.39,#738954,Cariban,Guianan Carib,Venezuela
+Makonde [kde],-10.99,39.51,#9CAA89,Niger-Kongo,Atlantic-Congo,Tanzania
+Makua [vmw],-15,38,#A8A58B,Niger-Kongo,Atlantic-Congo,Mozambique
+Malagasy [bhr],-20,47,#A09CC7,Malayo-Polynesian,Barito,Madagascar
+Malagasy_Antanosy [bhr-3],-25.03,46.98,#90A7C0,Malayo-Polynesian,Barito,Madagascar
+Malagasy_Sakalava [bhr-4],-15.72,46.32,#93A2C6,Malayo-Polynesian,Barito,Madagascar
+Malagasy_Vevo [bhr-2],-22.07,43.23,#9C9FCA,Malayo-Polynesian,Barito,Madagascar
+Malay [zlm-2],3.13,101.68,#A88CDB,Malayo-Polynesian,Malayo-Sumbawan,Malaysia
+Malay_Kelantan [zlm-4],5.25,102,#A38DE2,Malayo-Polynesian,Malayo-Sumbawan,Malaysia
+Malayalam [mal],8.5,77,#A84789,Dravidian,South Dravidian,India
+Mam [mam],15.25,-92,#A5B387,Mayan,Core Mayan,Guatemala
+Mambila [mzk],6.75,11.5,#A289D6,Niger-Kongo,Atlantic-Congo,Cameroon
+Mampruli [maw],10.39,-0.75,#9D81AA,Niger-Kongo,Atlantic-Congo,Ghana
+Mamvu [mdi],3.5,29,#8A8180,Nilo-Saharan,Central Sudanic,Democratic Republic of the Congo
+Manam [mva],-4.083,145.083,#7E9A96,Oceanic,Western Oceanic,Papua New Guinea
+Manchu [mnc],45,125,#A25168,Tungusic,South Tungusic,China
+Mandan [mhq],46,-100,#81992C,Siouan,Western Siouan,USA
+Mandinka [man],13,-15.67,#976BA3,Mande,Western Mande,Senegal
+Mangbetu [mdj],2.5,27,#97879F,Nilo-Saharan,Central Sudanic,Democratic Republic of the Congo
+Maninka [emk],13,-10,#935994,Mande,Western Mande,Mali
+Maninka_Niokolo [msc],12.7,-12.3,#8F629E,Mande,Western Mande,Senegal
+Maori [mri],-37,175,#7591C7,Oceanic,Central Pacific,New Zealand
+Mapudungun [arn],-36,-67,#918E75,Araucanian,,Chile
+Mara [mrh],23,93.167,#916C77,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+Maram [kha-2],25.52,91.27,#A08AB6,Austroasiatic,Khasi-Palaung,India
+Margi [mrt],11,13,#9D87B8,Afro-Asiatic,Chadic,Nigeria
+Mari_Meadow [mhr],57,48,#94475D,Uralic,Mari,Russia
+Maricopa [mrc],33.17,-113.17,#7E913C,Yuman-Cochimi,Yuman,USA
+Marind [mrz],-8,140.5,#889466,Anim,Marind-Yaqay,Indonesia-Papua
+Marquesan_Ua_Pou [mrq],-9.33,-140,#8385D3,Oceanic,Central Pacific,French Polynesia
+Marshallese,12.49,162.51,#82B1C7,Oceanic,Micronesian,USA Federated States of Micronesia
+Marshallese [mah],12.5,162.5,#8FADCF,Oceanic,Micronesian,USA Federated States of Micronesia
+Mattole [mvb],40.45,-124.4,#75A44E,Dene-Yeniseic,Na-Dene,USA
+Mawé [mav],-3.156,-56.558,#80A175,Tupian,Mawe,Brazil
+Mbiliakamba [lol-3],-4.5,18.6,#9A9199,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Mbugwe [mgz],-3.88,35.8,#AA9D88,Niger-Kongo,Atlantic-Congo,Tanzania
+Mbum [mdd],7.8,13.1,#8893C8,Niger-Kongo,Atlantic-Congo,Cameroon
+Mekeo [mek],-8.5,146.467,#799579,Oceanic,Western Oceanic,Papua New Guinea
+Mende [men],8,-11.5,#8E7E99,Mande,Western Mande,Sierra Leone
+Menominee [mez],45.5,-88.33,#78AB41,Algic,Algonquian,USA
+Mentawai [mwv],-1.5,99,#90A7D7,Malayo-Polynesian,Batak-Barrier Islands,Indonesia-Sumatra
+Meryam Mir [ulk],-9.92,144.08,#707168,Eastern Trans Fly,,Australia
+Mewati [wtm],28.1,77,#974881,Indo-European,Indo-Iranian,India
+Meyma'i [soj],33.45,51.17,#C75685,Indo-European,Indo-Iranian,Iran
+Miami [mia],39,-89,#74B33E,Algic,Algonquian,USA
+Micmac [mic],45,-63,#74AC4B,Algic,Algonquian,Canada
+Midob [mei],15.32,26.47,#8B5C5E,Nilo-Saharan,Eastern Sudanic,Sudan
+Mikasuki [mik],32,-85,#738F33,Muskogean,Mikasuki,USA
+Minangkabau [min],-0.95,100.36,#9E9FE4,Malayo-Polynesian,Malayo-Sumbawan,Indonesia-Sumatra
+Miskito [miq],15.16,-84.29,#8D817B,Misumalpan,Miskito,Nicaragua
+Miwok [skd],37.5,-120,#58734C,Yok-Utian,Utian,USA
+Miwok_Lake [lmw],38.93,-122.67,#6D7545,Yok-Utian,Utian,USA
+Mixe [mco],17,-95.5,#A0A46D,Totozoquean-Chitimacha,Totozoquean,Mexico
+Mixtec [mim],17,-99,#B3ABC2,Otomanguean,Eastern Otomanguean,Mexico
+Mixtec_Tù’un Ndá’vi [mks],17.36,-98.24,#B8A1AC,Otomanguean,Eastern Otomanguean,Mexico
+Miyakans,24.717,125.017,#A43B61,Dravidian,South-Central Dravidian,India
+Mizo [lus],23.167,92.833,#7C6999,Tibeto-Burman,Kuki-Chin-Naga,India
+Moghol [mhj],35,62,#AC4670,Mongolic,Core Mongolic,Afghanistan
+Mohave [mov],34.67,-114.58,#799138,Yuman-Cochimi,Yuman,USA
+Mohawk [moh],45,-74.66,#80B859,Iroquoian,Northern Iroquoian,Canada
+Moloko [mlw],10.75,14.3,#9D8CA7,Afro-Asiatic,Chadic,Cameroon
+Mong Leng [hnj-2],19.5,103.5,#A08BF1,Hmong-Mien,Hmongic,Laos
+Mongguor [mjg],36,102,#A14D60,Mongolic,Core Mongolic,China
+Mongo Oli [lol],4.1,9.5,#9F9FB1,Niger-Kongo,Atlantic-Congo,Cameroon
+Mongo-Nkundu [lol-2],-0.846,20.563,#919BA0,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Mongsen Ao [njo],27,95,#896190,Tibeto-Burman,Kuki-Chin-Naga,India
+Mono [mnr],38,-119,#688F4A,Uto-Aztecan,Numic,USA
+Montagnais [moe],52,-65,#70AB3A,Algic,Algonquian,Canada
+Mooré [mos],12.83,-1.25,#9D6BA2,Niger-Kongo,Atlantic-Congo,Burkina Faso
+Moro [mor],11,30.17,#A0A179,Talodi-Heiban,Heiban,Sudan
+Moru [mgd],4.75,29.75,#937E7E,Nilo-Saharan,Central Sudanic,South Sudan
+Motu [meu],-9.5,147.25,#939792,Oceanic,Western Oceanic,Papua New Guinea
+Muisca [chb],6.25,-74.17,#7F835B,Chibchan,Core Chibchan,Colombia
+Mumuye_Zinna [mzm],8.75,11.5,#958BDD,Niger-Kongo,Atlantic-Congo,Nigeria
+Mundang [mua],10.1,14.45,#A290B1,Niger-Kongo,Atlantic-Congo,Chad
+Mundurukú [myu],-7,-57,#7CA476,Tupian,Munduruku,Brazil
+Murcian [spa-3],37.99,-1.13,#D059A9,Indo-European,Romance,Spain
+Murrinh-Patha [mwf],-14.667,129.667,#5D977A,Southern Daly,,Australia
+Musgu [mug],11,15,#A48390,Afro-Asiatic,Chadic,Cameroon
+Mwera [mwe],-10,39,#A9A394,Niger-Kongo,Atlantic-Congo,Tanzania
+Myebon Sumtu [csv],20.12,93.84,#8A716C,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+Nahavaq [sns],-16.53,167.123,#7F9CC7,Oceanic,Southern Oceanic,Vanuatu
+Nahuatl_Tetelcingo [nhg],19.67,-99,#AD9773,Uto-Aztecan,Aztecan,Mexico
+Nakanai [nak],-5.5,150.833,#89AAC9,Oceanic,Western Oceanic,Papua New Guinea-Bismarcks
+Nama [naq],-24,18,#7E686F,Khoe,Khoe,Botswana
+Nambikwara [nab],-13,-59.5,#75903F,Nambikwara,Core Nambikwaran,Brazil
+Nancowry [ncb],8,93.5,#8995BD,Austroasiatic,Nicobar,India_Andaman-Nicobars
+Nandi [kln],0.25,35,#A2996F,Nilo-Saharan,Eastern Sudanic,Kenya
+Nanggu [ngr],-10.74,165.89,#97BF71,Oceanic,Te Motu,Solomons_East
+Nara [nrb],16,37.5,#8B6958,Nara,,Eritrea
+Natchez [ncz],31.75,-91.33,#7A9748,Natchez,,USA
+Nauru [nau],-0.5,166.917,#8BB5AA,Oceanic,Micronesian,Nauru
+Navajo [nav],36.17,-108,#939B54,Dene-Yeniseic,Na-Dene,USA
+Ndonga [ndo],-18,17,#A09490,Niger-Kongo,Atlantic-Congo,Namibia
+Negrisemb,2,102,#9494E6,Malayo-Polynesian,Malayo-Sumbawan,Indonesia-Sumatra
+Nen [baz],4.8,10.5,#919086,Niger-Kongo,Atlantic-Congo,Cameroon
+Nenets [yrk],70,76,#76594A,Uralic,Samoyedic,Russia
+Nez Perce [nez],46,-117,#6F974A,Sahaptian,,USA
+Ngbaka [nga],4.25,21.17,#888AC5,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Ngbaka Manza [mzv],5.57,18.25,#8573D7,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Ngbandi [ngb],4,22,#9291A8,Ubangian,Ngbandi,Democratic Republic of the Congo
+Ngiyambaa [wyb],-31.75,145.5,#4C6E79,Pama-Nyungan,Wiradhuric,Australia
+Ngizim [ngi],12.08,10.92,#957F84,Afro-Asiatic,Chadic,Nigeria
+Ningbo [wuu-5],29.85,121.55,#AE6EDE,Tibeto-Burman,Sinitic,China
+Nipigon,50,-88,#6AB641,Algic,Algonquian,Canada
+Nisenan [nsz],39.33,-120.83,#666C4F,Maiduan,Nisenan,USA
+Niue [niu],-19,-169.5,#7BACDC,Oceanic,Central Pacific,Niue
+Nivaclé [cag],-41.5,-65.6,#7AAF3F,Matacoan,Mataguayo I,Argentina
+Nivkh [niv],53.333,142,#757663,Chukotko-Kamchatkan,Nivkh,Russia
+Njem [njy],2.3,14.119,#9E99A4,Niger-Kongo,Atlantic-Congo,Cameroon
+Nkore-Kiga [cgg],-0.92,29.83,#AC959C,Niger-Kongo,Atlantic-Congo,Uganda
+Noakhati [ben-3],22.7,91.1,#C03990,Indo-European,Indo-Iranian,Bangladesh
+Nootka [noo],49.67,-126.67,#76AD86,Wakashan,South Wakashan,Canada
+North Ambrym [mmg],-16.08,168.08,#8C9FAC,Oceanic,Southern Oceanic,Vanuatu
+North Tanna [tnn],-19.377,169.298,#879DA9,Oceanic,Southern Oceanic,Vanuatu
+Northern Mao [myf],9.83,34.65,#7D603C,Afro-Asiatic,Omotic,Ethiopia
+Ntomba [nto],-1,18,#A19D9D,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Nubian [kzh],12.5,31,#8E5A5B,Nilo-Saharan,Eastern Sudanic,Sudan
+Nubian_Kunuz [kzh-2],23,33,#A4614B,Nilo-Saharan,Eastern Sudanic,Egypt
+Nuer [nus],8.6,33.3,#8C8177,Nilo-Saharan,Eastern Sudanic,South Sudan
+Nunamiut,68,-152,#6D8C1E,Eskimo-Aleut,Eskimo,USA-Alaska
+Nunavik [ike],62.2,-75.65,#6D7C20,Eskimo-Aleut,Eskimo,Canada
+Nung [nut],21.917,106.5,#8F82F4,Tai-Kadai,Kam-Tai,Vietnam
+Nunivak,60,-166,#74822D,Eskimo-Aleut,Eskimo,USA-Alaska
+Nupe [nup],9.18,5.4,#A17DC9,Niger-Kongo,Atlantic-Congo,Nigeria
+Nyakyusa [nyy],-9.557,33.938,#9A968F,Niger-Kongo,Atlantic-Congo,Tanzania
+Nyimang [nyi],12.1,29.4,#8C6A57,Nilo-Saharan,Eastern Sudanic,Sudan
+Nyoro [nyo],1.5,31,#B185A1,Niger-Kongo,Atlantic-Congo,Uganda
+Nzadi [nzd],-4.05,19.65,#969DAE,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+O'odham [ood],32,-112,#88A370,Uto-Aztecan,Tepiman,USA
+Ogami [mvi],24.9,125.3,#8C4575,Japonic,Ryukyuan,Japan-Ryukyu
+Ojibwe [ojg],49,-92.5,#71B94C,Algic,Algonquian,Canada
+Okanagan [oka],50,-120,#71C77B,Salish,Interior Salish,Canada
+Omaha [oma],42,-97.25,#7FA83C,Siouan,Western Siouan,USA
+Ometo [wal],6.6,37.75,#A9424C,Afro-Asiatic,Omotic,Ethiopia
+Onge [oon],10.75,92.5,#66786E,Andaman,,India_Andaman-Nicobars
+Onotoa,1.33,172.99,#93C3C1,Oceanic,Micronesian,Kiribati
+Oriya [ori],21,85,#8A4B7E,Indo-European,Indo-Iranian,India
+Orokaiva [ork],-8.75,148.25,#7D757E,Trans New Guinea,Oro-Wharton,Papua New Guinea
+Oromo [hae],6.5,40,#AE4A7D,Afro-Asiatic,Cushitic,Ethiopia
+Osage [osa],37,-94,#7B994B,Siouan,Western Siouan,USA
+Ossetian [oss],42.41,43.95,#A74970,Indo-European,Indo-Iranian,Georgia
+Ostyak [kca-2],61,75,#876263,Uralic,Khantyic,Russia
+Ottawa [otw],45,-82,#77BB3C,Algic,Algonquian,Canada
+P'urhépecha [tsz],19,-102,#947F68,P'urhépecha,,Mexico
+Paez [pbb],3,-76,#8F5D59,Paez,,Colombia
+Paiute_Northern [pao],40.75,-118,#6A8833,Uto-Aztecan,Numic,USA
+Paiute_Southern [ute-3],37.83,-113.33,#6E734D,Uto-Aztecan,Numic,USA
+Paiwan [pwn],22.333,120.833,#8EB0B5,Austronesian,Paiwanic,Taiwan
+Palauan [pau],7.167,134.5,#9FB0AC,Malayo-Polynesian,Palauan,Palau
+Palaung [plw],22.667,96.4,#A082FB,Austroasiatic,Khasi-Palaung,Myanmar
+Palikúr [plu],3,-51,#89A095,Arawak,Eastern Maipuran,Brazil
+Paluai [blq],-2.56,147.28,#84B8A1,Oceanic,Admiralties,Papua New Guinea-Bismarcks
+Panare [pbh],6.733122,-66.048767,#70A743,Cariban,Venezuelan,Venezuela
+Pare [asa],-4,36.5,#A4989B,Niger-Kongo,Atlantic-Congo,Tanzania
+Paresí [pab],-14,-57,#72A743,Arawak,Central Maipuran,Brazil
+Parkwa [pbi],11.02,14.1,#989384,Afro-Asiatic,Chadic,Cameroon
+Pashto [pst],35,65,#C64A81,Indo-European,Indo-Iranian,Afghanistan
+Pathan,35.1,64.9,#C64B85,Indo-European,Indo-Iranian,Afghanistan
+Patwin [pwi],39.21,-122.01,#6A7839,Wintuan,,USA
+Pawnee [paw],41,-98.67,#73A824,Caddoan,Northern Caddoan,USA
+Pemon_Tarepang [aoc],4.924,-61.055,#6E8D4A,Cariban,Venezuelan,Venezuela
+Pero [pip],9.58,11,#9A929D,Afro-Asiatic,Chadic,Nigeria
+Phan Rang Cham [cjm-2],11.56,109,#A591F8,Malayo-Polynesian,Malayo-Sumbawan,Vietnam
+Piapoco [pio],4,-69.3,#829078,Arawak,Northern Maipuran,Colombia
+Piaroa [pid],5,-67,#6D6F5E,Sáliba-Piaroa,,Colombia
+Picuris [twf],36.2,-107,#96A737,Kiowa-Tanoan,Tiwa-Piro,USA
+Piegan,49,-115,#73AF2D,Algic,Algonquian,Canada
+Pima Bajo [pia],29,-111,#847955,Uto-Aztecan,Tepiman,Mexico
+Pimbwe [piw],-6.81,31.43,#9D9496,Niger-Kongo,Atlantic-Congo,Tanzania
+Piro [cuj],-13.3,-72.1,#99A74E,Arawak,Southern Maipuran,Peru
+Plains Apache [apk],34.91,-98.25,#73A833,Dene-Yeniseic,Na-Dene,USA
+Pohnpeian [pon],6.883,158.25,#8EAFB9,Oceanic,Micronesian,USA Federated States of Micronesia
+Pomo_Central [poo],39,-123.33,#5D6B64,Pomoan,Western Pomoan,USA
+Pomo_Eastern [peb],39,-122.67,#696C55,Pomoan,Eastern Pomoan,USA
+Pomo_Northern [pej-2],39.33,-123.5,#637263,Pomoan,Western Pomoan,USA
+Pomo_Southeastern [pom],38.83,-122.5,#687252,Pomoan,Southeastern Pomoan,USA
+Portuguese [por],39,-8,#C75DB0,Indo-European,Romance,Portugal
+Potawatomi [pot],44.5,-85,#71AB3E,Algic,Algonquian,USA
+Pouvi [bbx],-1.17,12.32,#A2AAAE,Niger-Kongo,Atlantic-Congo,Gabon
+Pukapuka [pkp],-11,-165.83,#7BA1BF,Oceanic,Central Pacific,Cook Islands
+Pulaar [fuc],15.6,-15.2,#AF817C,Niger-Kongo,Atlantic-Congo,Senegal
+Pular [fuf],12.18,-12.73,#B28181,Niger-Kongo,Atlantic-Congo,Guinea
+Puluwat [puw],7.36,149.2,#8FA8CB,Oceanic,Micronesian,USA Federated States of Micronesia
+Punjabi [pan],31,75,#BF2F88,Indo-European,Indo-Iranian,India
+Purari [iar],-7.49,144.82,#7B7A6A,Trans New Guinea,Oro-Wharton,Papua New Guinea
+Puyuma [pyu],22.833,121.083,#92A7B5,Austronesian,Puyuma,Taiwan
+Qashqai [qxq],27.7,54.32,#A34362,Turkic,Common Turkic,Turkey
+Qawésqar [alc],-50,-75,#657760,Alaculufan,,Chile
+Qimant [ahg],12.9,37,#AA4A46,Afro-Asiatic,Cushitic,Ethiopia
+Qingdao [cmn-3],36.07,120.39,#B168CE,Tibeto-Burman,Sinitic,China
+Quechan [yum],32.83,-114.33,#817D42,Yuman-Cochimi,Yuman,USA
+Quechua_Ayacucho [quy],-13.15,-74.25,#A05356,Quechuan,Quechua II,Peru
+Quechua_Conchucos_South [qxo],-9.31,-77.85,#9C5745,Quechuan,Quechua I,Peru
+Quechua_Cusco_ [quz],-13.5,-72,#A44E49,Quechuan,Quechua II,Peru
+Quechua_Ecuador [xxx-26],-1,-78.6,#A14859,Quechuan,Quechua II,Ecuador
+Quechua_Huallaga [qvh],-6,-76,#A54E48,Quechuan,Quechua I,Peru
+Quechua_Imbabura [qvi],0.33,-78.33,#A24B55,Quechuan,Quechua II,Ecuador
+Quechua_Tena [quw],-1,-77.5,#A74E58,Quechuan,Quechua II,Ecuador
+Quechua_Yauyos [qux],-12.62,-75.7,#A35158,Quechuan,Quechua I,Peru
+Quileute [qui],47.925,-124.25,#72BA6F,Chimakuan,,USA
+Rainyrive,46,-92,#71BF3B,Algic,Algonquian,Canada
+Rankin Inlet Inuit [ikt-2],62.81,-92.1,#6A821F,Eskimo-Aleut,Eskimo,Canada
+Rapa Nui [rap],-27.333,-110,#7EA1C2,Oceanic,Central Pacific,Chile
+Rarotongan [rar],-21.33,-159.75,#7C9CC5,Oceanic,Central Pacific,Cook Islands
+Rennellese [mnv],-11.85,160.33,#8890BF,Oceanic,Central Pacific,Solomons
+Riff [rif],34,-3.75,#C1759A,Afro-Asiatic,Berber,Morocco
+Ritharngu [rit],-12.833,135.5,#3E6888,Pama-Nyungan,Yolngu,Australia
+Romanian [ron],45,27,#B55EA4,Indo-European,Romance,Romania
+Rote [twu],-10.75,123.25,#9E9EB7,Malayo-Polynesian,Timoric,Indonesia-NTT
+Rotuman [rtm],-12.333,177,#A0AFB2,Oceanic,Central Pacific,Fiji
+Roviana [rug],-8.25,157.333,#88B8C1,Oceanic,Western Oceanic,Solomons
+Rudhari [bhd],33.09,75.31,#AD3A6D,Indo-European,Indo-Iranian,India
+Russian [rus],55,38,#B54CA4,Indo-European,Balto-Slavic,Russia
+Rwala,29.5,39.5,#9E8490,Afro-Asiatic,Semitic,Syria
+Sa'a [apb],-9.5,161.583,#88BAB1,Oceanic,Southeast Solomonic,Solomons
+Safwa [sbk],-8.55,33.48,#9E9881,Niger-Kongo,Atlantic-Congo,Tanzania
+Sahaptin [uma],45.67,-120,#6CA24F,Sahaptian,,USA
+Salinan [sln],36,-121,#73A959,Salinan,,USA
+Samba Leko [ndi],8.35,12.25,#888CBA,Niger-Kongo,Atlantic-Congo,Nigeria
+Sami [sme],70,28,#826168,Uralic,Sami,Finland
+Sami_Northern [sme-2],67.85,20.25,#836568,Uralic,Sami,Norway
+Samoan [smo],-14,-172.667,#87A0D1,Oceanic,Central Pacific,Samoa
+Sandawe [sad],-5.22,35.43,#857C70,Khoe,Khoe,Tanzania
+Sango [sag],5,18,#9387E4,Ubangian,Ngbandi,Central African Republic
+Santa Ana [kee],35.42,-106.67,#948E4F,Keresan,Eastern Keresan,USA
+Santa Ana del Valle Zapotec [zab-2],16.993,-96.47,#B1B592,Otomanguean,Eastern Otomanguean,Mexico
+Santali [sat],24.5,87,#9B5A66,Austroasiatic,Munda,India
+Sanuma [xsu],4,-64,#697E75,Yanomami,Sanuma,Venezuela
+Sara-Ngambay [sba],8.67,16,#8B8198,Nilo-Saharan,Central Sudanic,Chad
+Sarangani Blaan [bps],6,125.17,#95C3B9,Malayo-Polynesian,Philippines,Philippines
+Sarcee [srs],52.5,-116,#6F8E47,Dene-Yeniseic,Na-Dene,Canada
+Schouwen-Duiveland [zea],51.65,3.92,#D855B2,Indo-European,Germanic,Netherlands
+Sebei [kpz],1.33,34.58,#959678,Nilo-Saharan,Eastern Sudanic,Uganda
+Seereer-Siin_ [srr],13.89,-16.39,#AE7AA4,Niger-Kongo,Atlantic-Congo,Senegal
+Selaru [slu],-8.25,130.917,#97AEB6,Malayo-Polynesian,Southeast Maluku,Indonesia-Maluku-south
+Selknam [ona],-53.2,-68.6,#699C5A,Chonan,Chonan Proper,Argentina
+Selkup [sel],65,82,#77623A,Uralic,Samoyedic,Russia
+Semai [sea],4,101.667,#7FB0C1,Austroasiatic,Aslian,Malaysia
+Semaq_Beri [szc],4.167,103,#86A7C9,Austroasiatic,Aslian,Malaysia
+Semelai [sza],3,102.5,#7EA3C3,Austroasiatic,Aslian,Malaysia
+Sena [she-2],-17.829,35.342,#9EAB89,Niger-Kongo,Atlantic-Congo,Mozambique
+Seneca [see],42.5,-77.5,#82C16C,Iroquoian,Northern Iroquoian,USA
+Senthang [sez],21.89,93.81,#8D7A65,Tibeto-Burman,Kuki-Chin-Naga,Myanmar
+Serbian [srp],45,20,#C052A3,Indo-European,Balto-Slavic,Serbia
+Seri [sei],29,-112.5,#76A046,Seri,,Mexico
+Serrano [ser],34.33,-117,#626B60,Uto-Aztecan,Serran Uto-Aztecan,USA
+Sesotho [sot],-28,27,#9A8591,Niger-Kongo,Atlantic-Congo,South Africa
+Shambala [ksb],-4.8,38.29,#9E8E8F,Niger-Kongo,Atlantic-Congo,Tanzania
+Shanghai [wuu],31,121,#AE6BE3,Tibeto-Burman,Sinitic,China
+Shasta [sht],41.83,-122.67,#6FA849,Shasta,,USA
+Shawnee [sjw],40,-83,#759436,Algic,Algonquian,USA
+Sheko [she],7,35.5,#9A4F68,Afro-Asiatic,Omotic,Ethiopia
+Shenwa [cnu],36.6,2.4,#BE7C97,Afro-Asiatic,Berber,Algeria
+Sherbro [bun],7.554,-12.639,#957C92,Niger-Kongo,Atlantic-Congo,Sierra Leone
+Sherpa [xsr],27.833,86.833,#99438D,Tibeto-Burman,Bodic,Nepal
+Sherpa_Hile [xsr-2],27.675,86.71,#974389,Tibeto-Burman,Bodic,Nepal
+Shigatse [bod-6],29.26,88.88,#AA3781,Tibeto-Burman,Bodic,China
+Shilha [shi-2],29.18,-9.711,#9FB88E,Afro-Asiatic,Berber,Morocco
+Shilluk [shk],6.19,31.6,#A08B85,Nilo-Saharan,Eastern Sudanic,South Sudan
+Shina [scl],36,74,#A93B68,Indo-European,Indo-Iranian,Pakistan
+Shipibo [shp],-7,-75,#626F66,Panoan,Southern Panoan,Peru
+Shoshone [shh],41,-115.5,#687841,Uto-Aztecan,Numic,USA
+Shuri [ryu-2],26.22,127.72,#A65C88,Japonic,Ryukyuan,Japan-Ryukyu
+Shuswap [shs],52,-120,#69B465,Salish,Interior Salish,Canada
+Siane [snp],-6.05,145.25,#79744F,Trans New Guinea,Morobe-Eastern Highlands,Papua New Guinea
+Sidamo [sid],6.748,38.409,#AC4B48,Afro-Asiatic,Cushitic,Ethiopia
+Sierra Popoluca [poi],18.23,-94.87,#889E63,Totozoquean-Chitimacha,Totozoquean,Mexico
+Sikuani [guh],5.82,-68.98,#76905C,Guahiban,Central Guahiban,Colombia
+Sindhi [snd],26,69,#B34268,Indo-European,Indo-Iranian,Pakistan
+Sinhalese [sin],6.9,79.9,#A5458A,Indo-European,Indo-Iranian,Sri Lanka
+Sio [xsi],-6,147.333,#8FAAAE,Oceanic,Western Oceanic,Papua New Guinea
+Sirenik [ysr],64.42,-173.95,#7A6E2A,Eskimo-Aleut,Eskimo,Russia
+Siriono [srq],-14.8,-62.5,#70966A,Tupian,Tupi-Guarani,Bolivia
+Sisiqa [bbq],-7.133,157,#8AADAD,Oceanic,Western Oceanic,Solomons
+SiSwati [ssw],-27,32,#988D82,Niger-Kongo,Atlantic-Congo,eSwatini
+Siuslaw [sis],44,-124,#729D64,Oregon Coast,,USA
+Siwa [siz],29.18,25.55,#BA84A0,Afro-Asiatic,Berber,Egypt
+Slavey [xsl],61.67,-114,#749B6C,Dene-Yeniseic,Na-Dene,Canada
+Sliammon [coo-2],49.84,-124.52,#7AB367,Salish,Central Salish,Canada
+Sm'algyax [tsi],52.5,-129,#73B88D,Tsimshian,Coastal Tsimshian,USA-Alaska
+Sobei [sob],-1.917,138.75,#85A6A9,Oceanic,Western Oceanic,Indonesia-Papua
+Somali [som],7,47.5,#A76579,Afro-Asiatic,Cushitic,Somalia
+Songhai [hmb],14.365,0.185,#B5609C,Nilo-Saharan,Songhai,Burkina Faso
+Soninke [snk],14.45,-11.43,#A45F96,Mande,Western Mande,Senegal
+Sorani [ckb],35,45,#BA587F,Indo-European,Indo-Iranian,Iraq
+Sotho_North [nso],-24,29,#9D9597,Niger-Kongo,Atlantic-Congo,South Africa
+Sotho_South [sot-2],-30,28,#9D8890,Niger-Kongo,Atlantic-Congo,Lesotho
+Southwest Tanna [nwi],-19.563,169.315,#7D9BA7,Oceanic,Southern Oceanic,Vanuatu
+Spanish [spa],41.65,-4.75,#CE5BA1,Indo-European,Romance,Spain
+Spanish_spoken [spa-2],40.2,-0.4,#CE5AA1,Indo-European,Romance,Spain
+Squamish [squ],49.67,-123.17,#77B76D,Salish,Central Salish,Canada
+Stieng [sti],12,107,#8C99F3,Austroasiatic,Bahnaric,Vietnam
+Subanen [laa],8,123,#89AEC8,Malayo-Polynesian,Philippines,Philippines
+Sukuma [suk],-3.234,33.516,#AC9B88,Niger-Kongo,Atlantic-Congo,Tanzania
+Sumbawa [smw],-8.583,117.5,#A792CB,Malayo-Polynesian,Malayo-Sumbawan,Indonesia-NTB
+Susu [sus],10,-13,#9A6891,Mande,Western Mande,Guinea
+Suzhou [wuu-4],31.3,120.6,#AE6FE1,Tibeto-Burman,Sinitic,China
+Svan [sva],43.045,42.72,#9F5956,Kartvelian,Svan,Georgia
+Swahili [swh],-6.5,39,#A69B80,Niger-Kongo,Atlantic-Congo,Tanzania
+Swahili_Kisangani [swh-3],0.52,25.2,#9E988A,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Sye [erg],-18.92,169.1,#889898,Oceanic,Southern Oceanic,Vanuatu
+Tahitian [tah],-17.667,-149,#80A6D3,Oceanic,Central Pacific,French Polynesia
+Taíno [tnq],18.28,-66.8,#88BC75,Arawak,Northern Maipuran,USA-Puerto Rico
+Taishan [yue-2],22,113,#A974D3,Tibeto-Burman,Sinitic,China
+Takelma [tkm],42.5,-123,#659A4A,Takelma,,USA
+Tama [tma],14.4,22,#945955,Nilo-Saharan,Eastern Sudanic,Chad
+Tamahaq [thv],22.789,5.522,#A09F80,Afro-Asiatic,Berber,Algeria
+Tamasheq [taq],16.8,-4.5,#B39471,Afro-Asiatic,Berber,Mauritania
+Tamazight [tzm],33,-4,#BA7F8C,Afro-Asiatic,Berber,Morocco
+Tamil [tam],12,79,#B53162,Dravidian,South Dravidian,India
+Tamil_Nagercoil [tam-3],8.17,77.43,#B93262,Dravidian,South Dravidian,India
+Tamil_Tirunelveli [tam-2],8.71,77.76,#BB3568,Dravidian,South Dravidian,India
+Tanacross [tcb],63.5,-143.5,#6FA14D,Dene-Yeniseic,Na-Dene,USA-Alaska
+Tangkhul_Kabrang [nmf],24.41,93.705,#875C7C,Tibeto-Burman,Kuki-Chin-Naga,India
+Taos [twf-2],36.5,-105.5,#989043,Kiowa-Tanoan,Tiwa-Piro,USA
+Tapirapé [taf],-10.2567,-51.014352,#78A374,Tupian,Tupi-Guarani,Brazil
+Tarahumara [tar],27.5,-107.5,#8F8253,Uto-Aztecan,Tarahumaran,Mexico
+Tarok [yer],8.98,10.03,#9881CD,Niger-Kongo,Atlantic-Congo,Nigeria
+Tashelhiyt [shi],31,-5,#BF8890,Afro-Asiatic,Berber,Morocco
+Tasmanian_Northeast [xtz],-41.06,147.19,#567D71,Pama-Nyungan,Tasmanian,Australia Tasmania
+Tawala [tbo],-10.333,150.5,#82AA8D,Oceanic,Western Oceanic,Papua New Guinea
+Tazarawa,14,8,#B986A7,Afro-Asiatic,Chadic,Nigeria
+Tehuelche [teh ],-45,-68,#718957,Chonan,Chonan Proper,Argentina
+Telugu [tel],16,79.5,#B43571,Dravidian,South-Central Dravidian,India
+Temiar [tea],4.833,101.333,#80A2BD,Austroasiatic,Aslian,Malaysia
+Temne [tem],8.67,-13.08,#A87AA9,Niger-Kongo,Atlantic-Congo,Sierra Leone
+Tepehuan_Huehuetla [tee],20.476,-98.09,#A1BB63,Totozoquean-Chitimacha,Totozoquean,Mexico
+Tera [ttr],11,11.83,#9D8BC2,Afro-Asiatic,Chadic,Nigeria
+Terêna [ter],-20,-56,#88C071,Arawak,Southern Maipuran,Brazil
+Tetela [tll],-4.028,24.391,#969F91,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Tetun [tet],-9.333,125.083,#9E92CE,Malayo-Polynesian,Timoric,Indonesia-NTT
+Thadou [tcz],23.2,94.1,#75707A,Tibeto-Burman,Kuki-Chin-Naga,India
+Thai [tha],15.583,100.333,#A683F1,Tai-Kadai,Kam-Tai,Thailand
+Thai_Isan [tts],16,103,#A683F4,Tai-Kadai,Kam-Tai,Thailand
+Thangal [nki],25.35,93.84,#876181,Tibeto-Burman,Kuki-Chin-Naga,India
+Thompson [thp],49,-122,#7BC26F,Salish,Interior Salish,Canada
+Tibetan_Lhasa [bod],29.65,91.14,#AA4087,Tibeto-Burman,Bodic,China
+Ticuna [tca],-3.85,-70.44,#7F8271,Ticuna,,Brazil
+Tigré [tig],16.5,38.5,#BC6271,Afro-Asiatic,Semitic,Eritrea
+Tigrinya [tir],14.5,38.5,#C65850,Afro-Asiatic,Semitic,Ethiopia
+Tikar [tik],6,11.5,#8C85D2,Niger-Kongo,Atlantic-Congo,Cameroon
+Tikopia [tkp],-12.67,168.83,#828CD4,Oceanic,Central Pacific,Solomons_East
+Timucua [tjm],30.25,-82.5,#88963C,Timucua,,USA
+Tiri [cir],-21.667,165.75,#8193B7,Oceanic,Southern Oceanic,New Caledonia
+Tirmaga [suq],6.03,35.08,#98936C,Nilo-Saharan,Eastern Sudanic,Ethiopia
+Tiv [tiv],7.5,9,#9286B9,Niger-Kongo,Atlantic-Congo,Nigeria
+Tiwa_Southern [tix],34.9,-106.675,#939F2B,Kiowa-Tanoan,Tiwa-Piro,USA
+Tiwi [tiw],-11.5,131,#66AA88,Tiwi,,Australia
+Tlingit [tli],57,-133,#739A55,Dene-Yeniseic,Na-Dene,USA-Alaska
+Toaripi [tqo],-8.33,146.25,#72649D,Trans New Guinea,Eleman,Papua New Guinea
+Toba [tob],-26.5,-59,#89AF82,Guaicuruan,Southern Guaicuruan,Argentina
+Toba Batak [bbc],2.5,99.5,#9B9ECF,Malayo-Polynesian,Batak-Barrier Islands,Indonesia-Sumatra
+Tobelo [tlb],0.75,127.75,#8FA993,West Papuan,North Halmahera,Indonesia-Maluku-north
+Tojolabal [toj],16.33,-91.5,#85B7A8,Mayan,Core Mayan,Mexico
+Tokelauan [tkl],-9.15,-171.78,#7FA6D6,Oceanic,Central Pacific,Tokelau
+Tommo_So_Dogon [dto],14.76,-3.28,#9B5D7B,Niger-Kongo,Dogon,Mali
+Tomo Kan Dogon [dtm],14.51,-2.499,#9D4F66,Niger-Kongo,Dogon,Mali
+Tonga [toi],-17,27,#A59E87,Niger-Kongo,Atlantic-Congo,Zambia
+Tongan [ton],-21.167,-175.25,#809AC1,Oceanic,Central Pacific,Tonga
+Totonac [tlc],20.5,-97.2,#8FC482,Totozoquean-Chitimacha,Totozoquean,Mexico
+Trumai [tpy],-13.5,-53,#707780,Trumai,,Brazil
+Ts'amakko [tsb],5.31,36.91,#916E70,Afro-Asiatic,Cushitic,Ethiopia
+Tsonga [tso],-24.396,31.524,#9A9981,Niger-Kongo,Atlantic-Congo,South Africa
+Tswana [tsn],-24.654,25.927,#AF887E,Niger-Kongo,Atlantic-Congo,Botswana
+Tübatulabal [tub],36,-118.33,#697C4A,Uto-Aztecan,Tübatulabal,USA
+Tubu [tuq],21,17,#996E52,Nilo-Saharan,Saharan,Chad
+Tucano [tuo],0.95,-70.1,#725860,Tucanoan,East Tucanoan,Brazil
+Tümpisa [par],37,-117,#697E46,Uto-Aztecan,Numic,USA
+Tunebo [tnd],6.75,-72.25,#72697B,Chibchan,Core Chibchan,Colombia
+Tunumiisut [kal-2],65.61,-37.63,#707F2E,Eskimo-Aleut,Eskimo,Denmark Greenland
+Tupinamba [tpn],-22.7,-42.1,#7FA670,Tupian,Tupi-Guarani,Brazil
+Turkana [tuv],3,35,#8B9A6D,Nilo-Saharan,Eastern Sudanic,Kenya
+Turkish [tur],38,31,#B83D63,Turkic,Common Turkic,Turkey
+Turkmen [tuk],40,58,#9C4467,Turkic,Common Turkic,Turkmenistan
+Tuscarora [tus],36,-77.5,#8CAF66,Iroquoian,Northern Iroquoian,USA
+Tuvalu [tvl],-10,180,#8897DE,Oceanic,Central Pacific,Tuvalu
+Ukrainian [ukr],49,32,#B85498,Indo-European,Balto-Slavic,Ukraine
+Umbundu [umb],-11.5,15,#9A9492,Niger-Kongo,Atlantic-Congo,Angola
+Umotina [umo],-15.251,-57.309,#799F96,Macro-Je,Bororo,Brazil
+Una [mtg],-4.667,140,#746956,Trans New Guinea,Momuna-Mek,Indonesia-Papua
+Upper Necaxa Totonac [tku],20.245,-97.83,#8DC774,Totozoquean-Chitimacha,Totozoquean,Mexico
+Ura [uur],-18.628,169.097,#829F9B,Oceanic,Southern Oceanic,Vanuatu
+Uru [ure],-16.62,-68.96,#8C6C4F,Uru-Chipaya,,Bolivia
+Usiai,-2,147,#7D7C55,South Bougainville,Buin,Papua New Guinea-Bougainville
+Ute [ute],39,-109,#6E853E,Uto-Aztecan,Numic,USA
+Uzbek [uzn],39,66,#904261,Turkic,Common Turkic,Uzbekistan
+Vai [vai],7.05,-11.33,#8676A3,Mande,Western Mande,Liberia
+Vasyugan Khanty [kca-3],55,74.5,#82735E,Uralic,Khantyic,Russia
+Venda [ven],-23.5,30,#9D8E7C,Niger-Kongo,Atlantic-Congo,South Africa
+Vietnamese_Northern [vie],20.25,105.975,#B181F6,Austroasiatic,Vietic,Vietnam
+Vietnamese_Southern [vie-2],10.23,106.38,#B181FA,Austroasiatic,Vietic,Vietnam
+Vute [vut],5.542,12.318,#9182B4,Niger-Kongo,Atlantic-Congo,Cameroon
+Wai wai [waw],1.5,-58.5,#7C935F,Cariban,Parukotan,Brazil
+Wailaki [wlk],40.65,-124.31,#73A234,Dene-Yeniseic,Na-Dene,USA
+Wakhi [wbl],36.5,72,#A84272,Indo-European,Indo-Iranian,Pakistan
+Walapai [yuf],35.5,-113.75,#6F7C3C,Yuman-Cochimi,Yuman,USA
+Wangurri [dhg-4],-12.35,136.97,#415EB5,Pama-Nyungan,Yolngu,Australia
+Wapishana [wap],2.67,-60,#839381,Arawak,Northern Maipuran,Brazil
+Wappo [wao],38.5,-122.5,#6B7D4C,Wappo-Yukian,,USA
+Warao [wba],9,-62,#767375,Warao,,Venezuela
+Warlpiri [wbp],-20,132.333,#4E697A,Pama-Nyungan,Ngumbin-Yapa,Australia
+Waropen [wrp],-2.333,136.667,#8EA9B5,Malayo-Polynesian,Eastern Malayo-Polynesian,Indonesia-Papua
+Washkuk [kmo],-4.083,142.667,#6C669A,Sepik,Nukuma,Papua New Guinea
+Washo [was],39.25,-120,#659D2E,Washo,,USA
+Wayana [way],1.216667,-54.656667,#689644,Cariban,Guianan Carib,Brazil
+Welamo [wal-2],6.33,37.75,#AD434E,Afro-Asiatic,Omotic,Ethiopia
+Western Bukidnon Manobo [mbb],7.667,124.833,#86AFBF,Malayo-Polynesian,Philippines,Philippines
+Whitesands [tnp],-19.475,169.401,#8C9AB1,Oceanic,Southern Oceanic,Vanuatu
+Wichita [wic],33.33,-97.33,#7DBC3A,Caddoan,Northern Caddoan,USA
+Wik Mungkan [wim],-13.667,141.833,#3A599A,Pama-Nyungan,Paman,Australia
+Winnebago [win],43,-89,#74A25E,Siouan,Western Siouan,USA
+Wintu [wit],41,-122.5,#6A8334,Wintuan,,USA
+Wiyot [wiy],40.83,-124.17,#70A658,Algic,Wiyot,USA
+Woleaian [woe],7.333,143.833,#92ACC7,Oceanic,Micronesian,USA Federated States of Micronesia
+Wolof [wol],15.25,-16.5,#B58CA0,Niger-Kongo,Atlantic-Congo,Senegal
+Wuvulu [wuv],-1.72,142.833,#8AA3B9,Oceanic,Admiralties,Papua New Guinea-Bismarcks
+Xavante [xav],-14,-52,#68876B,Macro-Je,Je,Brazil
+Xhosa [xho],-33,28,#9F8B85,Niger-Kongo,Atlantic-Congo,South Africa
+Xokleng [xok],-24.3,-50,#6D6D75,Macro-Je,Je,Brazil
+Yabem [jae],-6.75,147.833,#849E9C,Oceanic,Western Oceanic,Papua New Guinea
+Yagua [yad],-3.5,-72,#75A079,Yagua,,Peru
+Yahgan [yag],-54.94,-67.62,#6E9339,Yahgan,,Chile
+Yaka [axk-3],-6.975,17.109,#9DA7A7,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Yakut [sah],62,130,#945555,Turkic,Common Turkic,Russia
+Yalunka [yal],9.97,-11.28,#9A73A7,Mande,Western Mande,Guinea
+Yami [tao],22,121.5,#91AFA5,Malayo-Polynesian,Bashiic,Taiwan
+Yan-Nhangu [jay],-12.09,134.88,#3B52A4,Pama-Nyungan,Yolngu,Australia
+Yana [ynn],40.5,-122,#77A324,Yana,,USA
+Yanomami [guu],2,-64,#6E8C3E,Yanomami,Core Yanomami,Venezuela
+Yansi [yns],-3.82,18.23,#93A49F,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Yao [yao],-11.45,34,#9FA698,Niger-Kongo,Atlantic-Congo,Malawi
+Yap [yap],9.53,138.1,#8EB4CB,Oceanic,Yap,USA Federated States of Micronesia
+Yaqui_Arizona [yaq],31.67,-111.25,#838376,Uto-Aztecan,Cahitan,USA
+Yaruro [yae],7.563,-67.422,#827570,Yaruro,,Venezuela
+Yasanyama [nxd],-0.14,22.62,#A19394,Niger-Kongo,Atlantic-Congo,Democratic Republic of the Congo
+Yavapai [yuf-2],34,-113.33,#759338,Yuman-Cochimi,Yuman,USA
+Yawelmani [yok-2],35.3,-118.65,#62767B,Yok-Utian,Yokuts,USA
+Yeletnye [yle],-11,154,#7F8756,Yeletnye,,Papua New Guinea
+Yi [iii],27.88,102.27,#8E66C6,Tibeto-Burman,Lolo-Burmese,China
+Yindjibarndi [yij],-21.5,117,#4C66A2,Pama-Nyungan,Ngayarda,Australia
+Yir Yoront [yiy],-14.333,142.25,#4C6289,Pama-Nyungan,Paman,Australia
+Yokuts_Northern_Foothill [yok],36.58,-119.08,#64786B,Yok-Utian,Yokuts,USA
+Yoruba [yor],8,4.33,#A18BDE,Niger-Kongo,Atlantic-Congo,Nigeria
+Yucatec [yua],20.07,-89.05,#95B187,Mayan,Core Mayan,Mexico
+Yuchi [yuc],35.75,-86.75,#829E5E,Yuchi,,USA
+Yukaghir [ykg],65.75,150.833,#78763C,Yukaghir,,Russia
+Yuki [yuk],39.67,-123.5,#687B52,Wappo-Yukian,,USA
+Yukpa_Irapa [yup],10.45,-72.8,#7C984F,Cariban,Yukpa,Venezuela
+Yulu [yul],8.5,25.25,#947A91,Nilo-Saharan,Central Sudanic,South Sudan
+Yup'ik_Central_Alaskan [esu],59.5,-160,#73851F,Eskimo-Aleut,Eskimo,USA-Alaska
+Yurok [yur],41.33,-124,#78A169,Algic,Yurok,USA
+Zande [zne],4,26,#968897,Ubangian,Zandic,Democratic Republic of the Congo
+Zapotec [zai],16.5,-95,#B3BB9F,Otomanguean,Eastern Otomanguean,Mexico
+Zapotec_Isthmus [zai-2],16.43,-95.02,#ABB4AB,Otomanguean,Eastern Otomanguean,Mexico
+Zapotec_Macuiltianguis [zaa],17.53,-96.55,#A7B194,Otomanguean,Eastern Otomanguean,Mexico
+Zapotec_Mitla [zaw],16.93,-96.36,#ABB583,Otomanguean,Eastern Otomanguean,Mexico
+Zapotec_San Lucas Quiaviní [zab],17.03,-96.6,#ACBA95,Otomanguean,Eastern Otomanguean,Mexico
+Zapotec_Yatzachi [zav],17.22,-96.22,#AABA94,Otomanguean,Eastern Otomanguean,Mexico
+Zapotec_Zoogocho [zpq],17.2,-96.34,#A8B39C,Otomanguean,Eastern Otomanguean,Mexico
+Zarma [dje],14,2,#AB63B8,Nilo-Saharan,Songhai,Niger
+Zayse [zay],5.8,37.3,#A04359,Afro-Asiatic,Omotic,Ethiopia
+Zazzagawa,11,8,#BC7FA6,Afro-Asiatic,Chadic,Nigeria
+Zekara,34,-2,#C48498,Afro-Asiatic,Semitic,Morocco
+Zenaga [zen],16.5,-16,#C37D8E,Afro-Asiatic,Berber,Mauritania
+Zhangzhou [nan-8],24.5,117.67,#B173E7,Tibeto-Burman,Sinitic,China
+Zou [ctd-3],24.15,93.59,#907C6C,Tibeto-Burman,Kuki-Chin-Naga,India
+Zulu [zul],-30,30,#9F8C80,Niger-Kongo,Atlantic-Congo,South Africa
+Zuni [zun],35.08,-108.83,#8E7C68,Zuni,,USA
